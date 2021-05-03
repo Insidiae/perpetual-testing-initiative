@@ -36,4 +36,17 @@ Optional courses:
 
 ## House Rules
 
-1. TODO
+1. I will not be actively timing my progress for each day, since my main focus for this round is to learn as much as I possibly can from the courses I've selected. Instead, I will be tracking my daily progress based on how many sections/exercises/code challenges I've completed on that day.
+2. Since I've selected a pretty diverse range of topics for this round, I think it would be better if I make some sort of schedule every week to make sure I can direct my focus on one thing throughout each day, and ensure that I'm making steady progress in all of my priority courses. For now, here's a rough schedule for which courses I'll be focusing on for each day of the week:
+   - **Mondays** and **Tuesdays**: Python/Machine Learning - Machine Learning is at the very top of the topics I want to learn right now, so I'm making sure I'm starting each week off making solid progress on these courses:
+     - Complete Machine Learning & Data Science Bootcamp 2021
+     - The Modern Python 3 Bootcamp
+     - TensorFlow Developer Certificate in 2021: Zero to Mastery (will start once I've completed the Machine Learning and Data Science bootcamp)
+   - **Wednesdays** and **Thursdays**: JavaScript Levelgrind - For this part of the week, I'll be dedicating my time to dive deeper into JavaScript and improve my problem solving skills in order to write better code. These are the courses I'll be doing on this part of the week:
+     - JavaScript Algorithms and Data Structures Masterclass
+     - Master the Coding Interview: Big Tech (FAANG) Interviews
+   - **Fridays**, **Saturdays**, and **Sundays**: Projects Cardio - In true 100 Days of Code fashion, I'll also be applying the skills I've learned and do some really cool projects. I'm dedicating three days of the week for this because I know some of the projects I'll be doing will be really complex but also fun and exciting. Here's the outline of what I'll be doing on this part of the week:
+     - Major projects on the other courses listed above
+     - Complete Web & Mobile Designer in 2021: UI/UX, Figma, +more
+     - The Web Developer Bootcamp 2021 (specifically the final YelpCamp project)
+     - The rest of the Optional Courses

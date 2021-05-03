@@ -1,10 +1,8 @@
-# #100DaysOfCode Sample Log - Round 0 - [Your Name Here]
+# #100DaysOfCode Log - Round 0 - TL;DR version
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [May 4th, Monday, 2021].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
-
-### R1D2
+### R0D0
+Did some prep work so I can officially start the #100DaysOfCode challenge tomorrow. Really excited for this one!
