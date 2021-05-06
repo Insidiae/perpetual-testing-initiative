@@ -9,3 +9,6 @@ Did some prep work so I can officially start the #100DaysOfCode challenge tomorr
 
 ### R0D1
 Starting off #100DaysOfCode by doing some conda environment setup for the ZTM ML course. VSCode + Jupyter notebook integration looks great so far!
+
+### R0D2
+Skipped a day for future me. Now going back to the DataStruct and Algos course, reviewed the SLL section, and added my notes to the code I've written about a month ago now 😅

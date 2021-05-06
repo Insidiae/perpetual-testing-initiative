@@ -15,3 +15,15 @@
 **Thoughts:** I think there's still a few small kinks to work out so that I can properly integrate different conda environments for different courses/projects into my VSCode workflows, but so far the one I created for the ML course has been working pretty well with minimal setup. I really love how I can put my notes and code together in one place using Jupyter Notebooks, and I certainly love being able to jump right in to working with Jupyter notebooks directly in VSCode!
 
 **Link to work:** [Intro to pandas notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/1_pandas_data_analysis/introduction_to_pandas.ipynb)
+
+### Day 2: Thursday, May 6th, 2021
+
+**Today's Progress**: Reviewed and added notes for the the Singly Linked List section in the JS Data Structures course.
+
+> **IMPORTANT NOTE/PEP TALK:** I Intentionally skipped a day and immediately broke my streak to hopefully remind future me that at the end of the day, it's the skills that we learn thoughout these courses that matters, and not how many days straight we can make progress. To anyone reading this: If you're starting to feel tired or burnt out, feel free to take a day or two off and just relax, and come back to the code/lessons hopefully with renewed excitement to learn, improve your skills, and git gud!
+
+Now going back to my thoughts on this day's progress:
+
+**Thoughts:** Again, I believe that being able to write good documentation is one of the most valuable skills a developer should have, and I'm practicing that skill by writing notes as detailed as I can and providing some helpful comments in my code while I go along this Data Structures and Algorithms course. It's definitely a skill that I believe I can only get better at through sheer amounts of practice, so here's to a lot more notes like these being written as I progress through the course!
+
+**Link to work:** [Singly Linked List notes](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/Linked%20Lists/1.%20Singly%20Linked%20List.md)
