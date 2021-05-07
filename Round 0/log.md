@@ -27,3 +27,11 @@ Now going back to my thoughts on this day's progress:
 **Thoughts:** Again, I believe that being able to write good documentation is one of the most valuable skills a developer should have, and I'm practicing that skill by writing notes as detailed as I can and providing some helpful comments in my code while I go along this Data Structures and Algorithms course. It's definitely a skill that I believe I can only get better at through sheer amounts of practice, so here's to a lot more notes like these being written as I progress through the course!
 
 **Link to work:** [Singly Linked List notes](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/Linked%20Lists/1.%20Singly%20Linked%20List.md)
+
+### Day 3: Friday, May 7th, 2021
+
+**Today's Progress**: Revisited the new WebDev Bootcamp update and went though the Node and Express basics section.
+
+**Thoughts:** Node + Express feels like something I've been neglecting for quite a while now so it's nice to revisit these updated sections to refresh my knowledge and better prepare for the updated YelpCamp project. I feel this is gonna be great, especially because I plan on adding my own personal twist once I (re-)do the YelpCamp project!
+
+**Link to work:** [WDBC Revamp Backend repo](https://github.com/Insidiae/wdbc-backend-2)
