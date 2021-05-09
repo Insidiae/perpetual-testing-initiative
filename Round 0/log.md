@@ -35,3 +35,11 @@ Now going back to my thoughts on this day's progress:
 **Thoughts:** Node + Express feels like something I've been neglecting for quite a while now so it's nice to revisit these updated sections to refresh my knowledge and better prepare for the updated YelpCamp project. I feel this is gonna be great, especially because I plan on adding my own personal twist once I (re-)do the YelpCamp project!
 
 **Link to work:** [WDBC Revamp Backend repo](https://github.com/Insidiae/wdbc-backend-2)
+
+### Day 4: Satuday, May 8th, 2021
+
+**Today's Progress**: Finished the Express+EJS Templating and RESTful Routing sections from the WebDev Bootcamp
+
+**Thoughts:** Pretty big progress for this day! I'm definitely getting the hang of using Express JS and RESTful routing again. Just a couple more sections left and I can really (re-)start the new YelpCamp project!
+
+**Link to work:** [WDBC Revamp Backend repo](https://github.com/Insidiae/wdbc-backend-2)

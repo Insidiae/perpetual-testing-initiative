@@ -19,3 +19,7 @@ Skipped a day for future me. Now going back to the DataStruct and Algos course, 
 ### R0D3
 
 MERN project prep part 1 - Revisited the Node+Express basics sections in the WebDev Bootcamp and set up the project repo for the backend exercises/projects.
+
+### R0D4
+
+MERN project prep part 2 - Revisited the EJS Templating and RESTful Routing sections in the WebDev Bootcamp.
