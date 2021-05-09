@@ -4,10 +4,11 @@ A collection of my attempts on the 100 Days of Code Challenge, with some fun(?) 
 
 ## Main Commitment
 
-### *Make progress every day, and try to keep that progress well-documented.*
+### _Make progress every day, and try to keep that progress well-documented._
 
 ## Current Status:
-Round 0 - Starting tomorrow!
+
+Round 0 - Started on May 4th, 2021
 
 ## Additional Rules
 

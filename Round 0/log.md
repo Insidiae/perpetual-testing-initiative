@@ -36,10 +36,18 @@ Now going back to my thoughts on this day's progress:
 
 **Link to work:** [WDBC Revamp Backend repo](https://github.com/Insidiae/wdbc-backend-2)
 
-### Day 4: Satuday, May 8th, 2021
+### Day 4: Saturday, May 8th, 2021
 
 **Today's Progress**: Finished the Express+EJS Templating and RESTful Routing sections from the WebDev Bootcamp
 
 **Thoughts:** Pretty big progress for this day! I'm definitely getting the hang of using Express JS and RESTful routing again. Just a couple more sections left and I can really (re-)start the new YelpCamp project!
+
+**Link to work:** [WDBC Revamp Backend repo](https://github.com/Insidiae/wdbc-backend-2)
+
+### Day 5: Sunday, May 9th, 2021
+
+**Today's Progress**: Finished the MongoDB and Mongoose sections from the WebDev Bootcamp
+
+**Thoughts:** Another day of big progress! I've now caught up with (most of) what I need to know to get started with the YelpCamp project. I'm really excited to go through the revamped YelpCamp project sections next week!
 
 **Link to work:** [WDBC Revamp Backend repo](https://github.com/Insidiae/wdbc-backend-2)

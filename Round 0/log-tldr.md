@@ -23,3 +23,7 @@ MERN project prep part 1 - Revisited the Node+Express basics sections in the Web
 ### R0D4
 
 MERN project prep part 2 - Revisited the EJS Templating and RESTful Routing sections in the WebDev Bootcamp.
+
+### R0D5
+
+MERN project prep part 3 - Revisited the MongoDB and Mongoose sections in the WebDev Bootcamp.
