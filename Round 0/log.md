@@ -51,3 +51,13 @@ Now going back to my thoughts on this day's progress:
 **Thoughts:** Another day of big progress! I've now caught up with (most of) what I need to know to get started with the YelpCamp project. I'm really excited to go through the revamped YelpCamp project sections next week!
 
 **Link to work:** [WDBC Revamp Backend repo](https://github.com/Insidiae/wdbc-backend-2)
+
+### Day 6: Monday, May 10th, 2021
+
+**Today's Progress**: Finished the Pandas section lectures in the ZTM Machine Learning course.
+
+**Thoughts:** Don't let the 1hr38min video lengths for the Pandas section fool you, this course is super jam-packed with useful information and I noticed it took me more than 3-4hrs total simply coding along (without even adding the notes in) with the videos sped up to 1.5x 🔥
+
+Even though I only planned to simply sit back and code along with the lectures today, my progress was actually a bit bigger than I planned! I'm excited to go through the exercises tomorrow!
+
+**Link to work:** [Intro to pandas notebook (TODO: Add notes)](https://github.com/Insidiae/ztm-machine-learning/blob/main/1_pandas_data_analysis/introduction_to_pandas.ipynb)
