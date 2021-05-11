@@ -31,3 +31,7 @@ MERN project prep part 3 - Revisited the MongoDB and Mongoose sections in the We
 ### R0D6
 
 Pretty chill day after some big progress last weekend, sat back and coded along with the Pandas section lectures in the ZTM Machine Learning course.
+
+### R0D7
+
+Added my notes and completed the exercices on the Pandas section of the ZTM Machine Learning course.

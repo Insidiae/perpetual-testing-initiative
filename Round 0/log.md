@@ -61,3 +61,11 @@ Now going back to my thoughts on this day's progress:
 Even though I only planned to simply sit back and code along with the lectures today, my progress was actually a bit bigger than I planned! I'm excited to go through the exercises tomorrow!
 
 **Link to work:** [Intro to pandas notebook (TODO: Add notes)](https://github.com/Insidiae/ztm-machine-learning/blob/main/1_pandas_data_analysis/introduction_to_pandas.ipynb)
+
+### Day 7: Tuesday, May 11th, 2021
+
+**Today's Progress**: Added my notes and completed the exercices on the Pandas section of the ZTM Machine Learning course.
+
+**Thoughts:** My note-taking skills still leave a lot to be desired, and I hope to keep improving it as I code along with these lectures. The exercises themselves were a breeze to go through mostly thanks to me coding along with the lecture videos. However, one minor hiccup I encountered today was that my Jupyter kernel was apparently using the wrong environment and thus wasn't able to detect and import `pandas` properly. Note to self: Always double-check my Python environments before getting started to code!
+
+**Link to work:** [Intro to pandas notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/1_pandas_data_analysis/introduction_to_pandas.ipynb), [Pandas exercises notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/1_pandas_data_analysis/pandas-exercises.ipynb)
