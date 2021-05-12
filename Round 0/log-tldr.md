@@ -35,3 +35,7 @@ Pretty chill day after some big progress last weekend, sat back and coded along 
 ### R0D7
 
 Added my notes and completed the exercices on the Pandas section of the ZTM Machine Learning course.
+
+### R0D8
+
+Implemented Doubly Linked Lists by refactoring my code for the Singly Linked Lists. Noticed some of the methods now looked symmetric to each other 🔥

@@ -69,3 +69,11 @@ Even though I only planned to simply sit back and code along with the lectures t
 **Thoughts:** My note-taking skills still leave a lot to be desired, and I hope to keep improving it as I code along with these lectures. The exercises themselves were a breeze to go through mostly thanks to me coding along with the lecture videos. However, one minor hiccup I encountered today was that my Jupyter kernel was apparently using the wrong environment and thus wasn't able to detect and import `pandas` properly. Note to self: Always double-check my Python environments before getting started to code!
 
 **Link to work:** [Intro to pandas notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/1_pandas_data_analysis/introduction_to_pandas.ipynb), [Pandas exercises notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/1_pandas_data_analysis/pandas-exercises.ipynb)
+
+### Day 8: Wednesday, May 12th, 2021
+
+**Today's Progress**: Finished the Doubly Linked Lists section of the Data Structures and Algorithms course.
+
+**Thoughts:** Refactoring my code for the Singly Linked Lists and adding the `prev` pointers needed to implement Doubly Linked Lists seemed pretty complex at first, but I realized the beauty of working with Doubly Linked Lists is that the implementations for some methods became symmetrical to other methods, meaning the methods that deal with traversing the list forwards (i.e. `push()` and `pop()`) had essentially the same code as the methods that deal with traversing the list backwards (i.e. `unshift()` and `shift`). Pretty neat stuff!
+
+**Link to work:** [Doubly Linked List notes](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/Linked%20Lists/2.%20Doubly%20Linked%20List.md)
