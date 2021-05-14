@@ -85,3 +85,11 @@ Even though I only planned to simply sit back and code along with the lectures t
 **Thoughts:** Again, implementing Stacks and Queues was made a lot simpler by having the codes for the Linked Lists already implemented. Catching up with the Udemy exercises was tricky though especially with the rather untested "Wild West" section, but having most of the code already written and ready to copy paste into the solution makes things a lot easier.
 
 **Link to work:** [Stacks and Queues (TODO: Add notes)](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/Stacks%20and%20Queues)
+
+### Day 10: Friday, May 14th, 2021
+
+**Today's Progress**: Started the YelpCamp MERN Project! Researched the basic how-tos, did the initial setup, and added some basic routes.
+
+**Thoughts:** Not gonna lie, redoing the YelpCamp project using MERN stack and deviating a significant bit from the course lectures felt absolutely daunting at first, but with enough research on how to do the basic setup and the standard structure for MERN projects, once the initial setup is done and I implemented the first few routes, it felt really satisfying to get the pieces start falling into place and see everything working for the first time!
+
+**Link to work:** [YelpCamp MERN repo](https://github.com/Insidiae/yelpcamp-mern)

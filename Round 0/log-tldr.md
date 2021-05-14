@@ -43,3 +43,7 @@ Implemented Doubly Linked Lists by refactoring my code for the Singly Linked Lis
 ### R0D9
 
 Finished the Stacks and Queues section of the Data Structures and Algorithms course.
+
+### R0D10
+
+Started the YelpCamp MERN Project: Researched the basic how-tos, did the initial setup, and implemented some basic routes to test if everything works. IT'S ALIVE!!!
