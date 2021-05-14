@@ -77,3 +77,11 @@ Even though I only planned to simply sit back and code along with the lectures t
 **Thoughts:** Refactoring my code for the Singly Linked Lists and adding the `prev` pointers needed to implement Doubly Linked Lists seemed pretty complex at first, but I realized the beauty of working with Doubly Linked Lists is that the implementations for some methods became symmetrical to other methods, meaning the methods that deal with traversing the list forwards (i.e. `push()` and `pop()`) had essentially the same code as the methods that deal with traversing the list backwards (i.e. `unshift()` and `shift`). Pretty neat stuff!
 
 **Link to work:** [Doubly Linked List notes](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/Linked%20Lists/2.%20Doubly%20Linked%20List.md)
+
+### Day 9: Thursday, May 13th, 2021
+
+**Today's Progress**: Finished the Stacks and Queues section of the Data Structures and Algorithms course.
+
+**Thoughts:** Again, implementing Stacks and Queues was made a lot simpler by having the codes for the Linked Lists already implemented. Catching up with the Udemy exercises was tricky though especially with the rather untested "Wild West" section, but having most of the code already written and ready to copy paste into the solution makes things a lot easier.
+
+**Link to work:** [Stacks and Queues (TODO: Add notes)](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/Stacks%20and%20Queues)

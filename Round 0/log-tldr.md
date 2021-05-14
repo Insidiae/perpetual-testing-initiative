@@ -39,3 +39,7 @@ Added my notes and completed the exercices on the Pandas section of the ZTM Mach
 ### R0D8
 
 Implemented Doubly Linked Lists by refactoring my code for the Singly Linked Lists. Noticed some of the methods now looked symmetric to each other 🔥
+
+### R0D9
+
+Finished the Stacks and Queues section of the Data Structures and Algorithms course.
