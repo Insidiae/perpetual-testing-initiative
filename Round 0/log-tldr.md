@@ -47,3 +47,7 @@ Finished the Stacks and Queues section of the Data Structures and Algorithms cou
 ### R0D10
 
 Started the YelpCamp MERN Project: Researched the basic how-tos, did the initial setup, and implemented some basic routes to test if everything works. IT'S ALIVE!!!
+
+### R0D11
+
+Finished the initial CRUD functionalities for the YelpCamp MERN project.

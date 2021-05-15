@@ -93,3 +93,11 @@ Even though I only planned to simply sit back and code along with the lectures t
 **Thoughts:** Not gonna lie, redoing the YelpCamp project using MERN stack and deviating a significant bit from the course lectures felt absolutely daunting at first, but with enough research on how to do the basic setup and the standard structure for MERN projects, once the initial setup is done and I implemented the first few routes, it felt really satisfying to get the pieces start falling into place and see everything working for the first time!
 
 **Link to work:** [YelpCamp MERN repo](https://github.com/Insidiae/yelpcamp-mern)
+
+### Day 11: Saturday, May 15th, 2021
+
+**Today's Progress**: Finished the CRUD functionalities for the YelpCamp campgrounds.
+
+**Thoughts:** There's definitely still some growing pains in learning how to communicate between my React frontend and the Node+Express backend, but so far I'm really digging how Axios streamlines sending the relevant HTTP requests for my CRUD functions!
+
+**Link to work:** [YelpCamp MERN repo](https://github.com/Insidiae/yelpcamp-mern)
