@@ -51,3 +51,7 @@ Started the YelpCamp MERN Project: Researched the basic how-tos, did the initial
 ### R0D11
 
 Finished the initial CRUD functionalities for the YelpCamp MERN project.
+
+### R0D12
+
+Just did some sections on the WebDev Bootcamp course while researching how to use Tailwind on my MERN project.

@@ -101,3 +101,11 @@ Even though I only planned to simply sit back and code along with the lectures t
 **Thoughts:** There's definitely still some growing pains in learning how to communicate between my React frontend and the Node+Express backend, but so far I'm really digging how Axios streamlines sending the relevant HTTP requests for my CRUD functions!
 
 **Link to work:** [YelpCamp MERN repo](https://github.com/Insidiae/yelpcamp-mern)
+
+### Day 12: Sunday, May 16th, 2021
+
+**Today's Progress**: MERN project prep part 4 - researched libraries to use on the YelpCamp project. Also did the Express Middlewares section on the WebDev Bootcamp in the meantime.
+
+**Thoughts:** I'm planning to use TailwindCSS instead of Bootstrap for the revamped YelpCamp project, but I think there's still a bit of a learning curve I need to settle before I can fully use it on the project. My main concerns for now is how to implement some of the good ol' Bootstrap components like popups, alerts/toasts, and modals (mostly on the JS side of implementing those). Looking forward to exploring more on these stuff for next week!
+
+**Link to work:** [WDBC Revamp Backend repo](https://github.com/Insidiae/wdbc-backend-2)
