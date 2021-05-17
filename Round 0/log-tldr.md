@@ -55,3 +55,7 @@ Finished the initial CRUD functionalities for the YelpCamp MERN project.
 ### R0D12
 
 Just did some sections on the WebDev Bootcamp course while researching how to use Tailwind on my MERN project.
+
+### R0D13
+
+Finished the NumPy section on the ZTM Machine Learning course.

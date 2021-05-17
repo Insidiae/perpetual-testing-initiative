@@ -109,3 +109,11 @@ Even though I only planned to simply sit back and code along with the lectures t
 **Thoughts:** I'm planning to use TailwindCSS instead of Bootstrap for the revamped YelpCamp project, but I think there's still a bit of a learning curve I need to settle before I can fully use it on the project. My main concerns for now is how to implement some of the good ol' Bootstrap components like popups, alerts/toasts, and modals (mostly on the JS side of implementing those). Looking forward to exploring more on these stuff for next week!
 
 **Link to work:** [WDBC Revamp Backend repo](https://github.com/Insidiae/wdbc-backend-2)
+
+### Day 13: Monday, May 17th, 2021
+
+**Today's Progress**: Finished the NumPy section on the ZTM Machine Learning course.
+
+**Thoughts:** What a surprisingly massive section! As I've said before, the ZTM Machine Learning course is really concentrated with super useful information that it takes me more than twice the time just coding along with the course lectures (without even adding in my notes nor doing the end-of-section exercises), and masive props to the instructor for making the lectures interesting all the way through and really engaging to code along with!
+
+**Link to work:** [Intro to NumPy notebook (TODO: Add notes)](https://github.com/Insidiae/ztm-machine-learning/blob/main/2_numpy/introduction_to_numpy.ipynb)
