@@ -117,3 +117,11 @@ Even though I only planned to simply sit back and code along with the lectures t
 **Thoughts:** What a surprisingly massive section! As I've said before, the ZTM Machine Learning course is really concentrated with super useful information that it takes me more than twice the time just coding along with the course lectures (without even adding in my notes nor doing the end-of-section exercises), and masive props to the instructor for making the lectures interesting all the way through and really engaging to code along with!
 
 **Link to work:** [Intro to NumPy notebook (TODO: Add notes)](https://github.com/Insidiae/ztm-machine-learning/blob/main/2_numpy/introduction_to_numpy.ipynb)
+
+### Day 14: Tuesday, May 18th, 2021
+
+**Today's Progress**: Finished the NumPy exercises on the ZTM Machine Learning course.
+
+**Thoughts:** Numpy was a lot smoother (or should i say straightforward?) to work with than Pandas. Each question in the exercise had this really smooth transition to the next couple questions where the answer to the first one will be used in the next questions and so on. Really super fun to work with too!
+
+**Link to work:** [NumPy exercise notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/2_numpy/numpy_exercises.ipynb)

@@ -59,3 +59,7 @@ Just did some sections on the WebDev Bootcamp course while researching how to us
 ### R0D13
 
 Finished the NumPy section on the ZTM Machine Learning course.
+
+### R0D14
+
+Finished the NumPy exercises on the ZTM Machine Learning course.
