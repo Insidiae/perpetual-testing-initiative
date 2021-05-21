@@ -125,3 +125,13 @@ Even though I only planned to simply sit back and code along with the lectures t
 **Thoughts:** Numpy was a lot smoother (or should i say straightforward?) to work with than Pandas. Each question in the exercise had this really smooth transition to the next couple questions where the answer to the first one will be used in the next questions and so on. Really super fun to work with too!
 
 **Link to work:** [NumPy exercise notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/2_numpy/numpy_exercises.ipynb)
+
+### Day 15: Friday, May 21st, 2021
+
+**Today's Progress**: Tried out Tailwind CSS as part of my YelpCamp MERN project.
+
+**Thoughts:** Had to take a couple days off to try and fix my sleep schedule. Might have to take a couple more days before I fully get used to doing my projects earlier than usual so I can also sleep earlier!
+
+As for the YelpCamp MERN project, I've decided to branch out a little bit more from the lectures and use Tailwind CSS instead of Bootstrap for the project. It still has that bit of a learing curve where I might have to re-implement some of the usual Bootstrap components like navbars/buttons/forms/etc. from scratch, but with the various free resources available online I think I can manage just that!
+
+**Link to work:** [YelpCamp MERN repo](https://github.com/Insidiae/yelpcamp-mern)
