@@ -67,3 +67,7 @@ Finished the NumPy exercises on the ZTM Machine Learning course.
 ### R0D15
 
 Tried out Tailwind CSS as part of my YelpCamp MERN project.
+
+### R0D16
+
+Researched some of the commonly used components and styled the basic routes of the YelpCamp MERN project using Tailwind CSS.

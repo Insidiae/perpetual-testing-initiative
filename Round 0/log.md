@@ -135,3 +135,17 @@ Even though I only planned to simply sit back and code along with the lectures t
 As for the YelpCamp MERN project, I've decided to branch out a little bit more from the lectures and use Tailwind CSS instead of Bootstrap for the project. It still has that bit of a learing curve where I might have to re-implement some of the usual Bootstrap components like navbars/buttons/forms/etc. from scratch, but with the various free resources available online I think I can manage just that!
 
 **Link to work:** [YelpCamp MERN repo](https://github.com/Insidiae/yelpcamp-mern)
+
+### Day 16: Saturday, May 22nd, 2021
+
+**Today's Progress**: Styled the basic routes of the YelpCamp MERN project using Tailwind CSS.
+
+**Thoughts:** Thanks to the various components from TailwindComponents and the free components from the official Tailwind UI docs, I've styled the YelpCamp project to look decent using the card, button, icon, and form components I copied and tweaked from those resources. Looking good so far, though I definitely will have to address the issue of possibly DRY-ing up some of the commonly-used styles later. For that, I will have to research more about some best practices on reusing Tailwind components!
+
+Oh, by the way: I've also gotten a 100-day streak on Duolingo for my Japanese language learning side-project!
+
+![Duolingo 100 day streak!!!](img/duo100.png)
+
+I still have a lot of sections left to finish up on Duolingo, so here's to several more days on that streak!
+
+**Link to work:** [YelpCamp MERN repo](https://github.com/Insidiae/yelpcamp-mern)
