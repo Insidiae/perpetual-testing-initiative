@@ -149,3 +149,11 @@ Oh, by the way: I've also gotten a 100-day streak on Duolingo for my Japanese la
 I still have a lot of sections left to finish up on Duolingo, so here's to several more days on that streak!
 
 **Link to work:** [YelpCamp MERN repo](https://github.com/Insidiae/yelpcamp-mern)
+
+### Day 17: Sunday, May 23rd, 2021
+
+**Today's Progress**: Added notes to my Data Structures and Algorithms and ZTM Machine Learning course notebooks.
+
+**Thoughts:** Pretty chill day, though it helps to tie up some loose ends from these past days and add notes to my course notebooks. This also lets me review the topics covered in the course lectures and reinforce my knowledge in those topics, as well as sharpening my note-taking and documentation skills.
+
+**Link to work:** [Stacks and Queues notes](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/Stacks%20and%20Queues), [Intro to NumPy notebook (TODO: Add the rest of the notes)](https://github.com/Insidiae/ztm-machine-learning/blob/main/2_numpy/introduction_to_numpy.ipynb)

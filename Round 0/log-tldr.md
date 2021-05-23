@@ -71,3 +71,7 @@ Tried out Tailwind CSS as part of my YelpCamp MERN project.
 ### R0D16
 
 Researched some of the commonly used components and styled the basic routes of the YelpCamp MERN project using Tailwind CSS.
+
+### R0D17
+
+Added notes to my Data Structures and Algorithms and ZTM Machine Learning course notebooks.
