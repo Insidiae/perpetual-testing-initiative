@@ -75,3 +75,7 @@ Researched some of the commonly used components and styled the basic routes of t
 ### R0D17
 
 Added notes to my Data Structures and Algorithms and ZTM Machine Learning course notebooks.
+
+### R0D18
+
+Started the Matplotlib section in the ZTM Machine Learning course.

@@ -157,3 +157,11 @@ I still have a lot of sections left to finish up on Duolingo, so here's to sever
 **Thoughts:** Pretty chill day, though it helps to tie up some loose ends from these past days and add notes to my course notebooks. This also lets me review the topics covered in the course lectures and reinforce my knowledge in those topics, as well as sharpening my note-taking and documentation skills.
 
 **Link to work:** [Stacks and Queues notes](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/Stacks%20and%20Queues), [Intro to NumPy notebook (TODO: Add the rest of the notes)](https://github.com/Insidiae/ztm-machine-learning/blob/main/2_numpy/introduction_to_numpy.ipynb)
+
+### Day 18: Monday, May 24th, 2021
+
+**Today's Progress**: Started the Matplotlib section in ZTM Machine Learning course.
+
+**Thoughts:** I'm definitely seeing how the Matplotlib workflow is similar to MATLAB, and I'm quite liking how well the workflows of Pandas, NumPy, and Matplotlib blend so well together. Tomorrow's going to be a big day finishing the rest of the Matplotlib section and exercises. I also hope I can add in the rest of my course notes tomorrow!
+
+**Link to work:** [Intro to Matplotlib notebook (TODO: Finish section and add notes)](https://github.com/Insidiae/ztm-machine-learning/blob/main/3_matplotlib_plotting_and_data_visualization/introduction_to_matplotlib.ipynb)
