@@ -165,3 +165,13 @@ I still have a lot of sections left to finish up on Duolingo, so here's to sever
 **Thoughts:** I'm definitely seeing how the Matplotlib workflow is similar to MATLAB, and I'm quite liking how well the workflows of Pandas, NumPy, and Matplotlib blend so well together. Tomorrow's going to be a big day finishing the rest of the Matplotlib section and exercises. I also hope I can add in the rest of my course notes tomorrow!
 
 **Link to work:** [Intro to Matplotlib notebook (TODO: Finish section and add notes)](https://github.com/Insidiae/ztm-machine-learning/blob/main/3_matplotlib_plotting_and_data_visualization/introduction_to_matplotlib.ipynb)
+
+### Day 19: Saturday, May 30th, 2021
+
+**Today's Progress**: Finished the Error handling section on the Web Development Bootcamp, and added error handling and data validation logic on the YelpCamp MERN project.
+
+**Thoughts:** I finally went full circle from starting to learn Async/Await from [this talk](https://www.youtube.com/watch?v=9YkUCxvaLEk), with the Express Error Handling section finally solving the last missing piece of using Async/Await with Higher-Order Functions to pass the errors to the error handling middlewares.
+
+Going back to the YelpCamp MERN project, I still need to figure out how to manage error handling between the React frontend and the Express backend, and figure out which parts actually need the data validation logic.
+
+**Link to work:** [WDBC backend repo](https://github.com/Insidiae/wdbc-backend-2), [YelpCamp MERN repo](https://github.com/Insidiae/yelpcamp-mern)

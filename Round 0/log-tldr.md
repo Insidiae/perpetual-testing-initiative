@@ -79,3 +79,7 @@ Added notes to my Data Structures and Algorithms and ZTM Machine Learning course
 ### R0D18
 
 Started the Matplotlib section in the ZTM Machine Learning course.
+
+### R0D19
+
+Added error handling and data validation logic on the YelpCamp MERN project.
