@@ -175,3 +175,11 @@ I still have a lot of sections left to finish up on Duolingo, so here's to sever
 Going back to the YelpCamp MERN project, I still need to figure out how to manage error handling between the React frontend and the Express backend, and figure out which parts actually need the data validation logic.
 
 **Link to work:** [WDBC backend repo](https://github.com/Insidiae/wdbc-backend-2), [YelpCamp MERN repo](https://github.com/Insidiae/yelpcamp-mern)
+
+### Day 20: Wednesday, June 16th, 2021
+
+**Today's Progress**: Finished the Binary Search Trees section of the Data Structures and Algorithms course.
+
+**Thoughts:** Starting to get my mojo back, so I proceeded through the Data Structures and Algorithms course and made a lot of progress on Binary Search Trees. Using recursion to traverse the BST streamlined a lot of the code and makes it easier to understand how the BFS/DFS tracersal works. I still have a bit of trouble wrapping my head around how to remove nodes as there still seems to be a lot of edge cases to consider, and my current implementation still seems a bit hacky.
+
+**Link to work:** [Binary Search Tree Code (TODO: Add notes)](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/Binary%20Search%20Trees/src/binarySearchTree.js)
