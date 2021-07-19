@@ -183,3 +183,11 @@ Going back to the YelpCamp MERN project, I still need to figure out how to manag
 **Thoughts:** Starting to get my mojo back, so I proceeded through the Data Structures and Algorithms course and made a lot of progress on Binary Search Trees. Using recursion to traverse the BST streamlined a lot of the code and makes it easier to understand how the BFS/DFS tracersal works. I still have a bit of trouble wrapping my head around how to remove nodes as there still seems to be a lot of edge cases to consider, and my current implementation still seems a bit hacky.
 
 **Link to work:** [Binary Search Tree Code (TODO: Add notes)](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/Binary%20Search%20Trees/src/binarySearchTree.js)
+
+### Day 21: Monday, July 19th, 2021
+
+**Today's Progress**: Finished the Matplotlib section lectures in ZTM Machine Learning course.
+
+**Thoughts:** The Matplotlib section really was a lot of information to take in, and it definitely took me quite a lot of time to really nail the concepts and the general workflow, but I'd say all that effort and the time I took to really understand the concepts paid off at the end! I've been able to create beautiful data visualizations using Matplotlib, customizing them even further with the various styles and color schemes offered by Matplotlib, and export the graphs into easily shareable image files. Looking forward into the next section!
+
+**Link to work:** [Intro to Matplotlib notebook (TODO: add more notes)](https://github.com/Insidiae/ztm-machine-learning/blob/main/3_matplotlib_plotting_and_data_visualization/introduction_to_matplotlib.ipynb)

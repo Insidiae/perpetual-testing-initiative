@@ -87,3 +87,7 @@ Added error handling and data validation logic on the YelpCamp MERN project.
 ### R0D20
 
 Finished the Binary Search Trees section of the Data Structures and Algorithms course.
+
+### R0D21
+
+Finished the Matplotlib section lectures in ZTM Machine Learning course.
