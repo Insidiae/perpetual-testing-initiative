@@ -91,3 +91,7 @@ Finished the Binary Search Trees section of the Data Structures and Algorithms c
 ### R0D21
 
 Finished the Matplotlib section lectures in ZTM Machine Learning course.
+
+### R0D22
+
+Finished the Matplotlib section exercises in the ZTM Machine Learning course.

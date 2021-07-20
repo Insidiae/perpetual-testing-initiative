@@ -191,3 +191,11 @@ Going back to the YelpCamp MERN project, I still need to figure out how to manag
 **Thoughts:** The Matplotlib section really was a lot of information to take in, and it definitely took me quite a lot of time to really nail the concepts and the general workflow, but I'd say all that effort and the time I took to really understand the concepts paid off at the end! I've been able to create beautiful data visualizations using Matplotlib, customizing them even further with the various styles and color schemes offered by Matplotlib, and export the graphs into easily shareable image files. Looking forward into the next section!
 
 **Link to work:** [Intro to Matplotlib notebook (TODO: add more notes)](https://github.com/Insidiae/ztm-machine-learning/blob/main/3_matplotlib_plotting_and_data_visualization/introduction_to_matplotlib.ipynb)
+
+### Day 22: Tuesday, July 20th, 2021
+
+**Today's Progress**: Finished the Matplotlib section exercises in the ZTM Machine Learning course.
+
+**Thoughts:** Doing the Matplotlib section exercises was a really nice way of reinforcing what I learned from this section of the course. I'm getting the hang of the general Matplotlib workflow, and I get to have another reference to look back on in case I forget some stuff 👌
+
+**Link to work:** [Matplotlib exercise solutions](https://github.com/Insidiae/ztm-machine-learning/blob/main/3_matplotlib_plotting_and_data_visualization/matplotlib_exercises.ipynb)
