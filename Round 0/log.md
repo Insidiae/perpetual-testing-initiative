@@ -199,3 +199,13 @@ Going back to the YelpCamp MERN project, I still need to figure out how to manag
 **Thoughts:** Doing the Matplotlib section exercises was a really nice way of reinforcing what I learned from this section of the course. I'm getting the hang of the general Matplotlib workflow, and I get to have another reference to look back on in case I forget some stuff 👌
 
 **Link to work:** [Matplotlib exercise solutions](https://github.com/Insidiae/ztm-machine-learning/blob/main/3_matplotlib_plotting_and_data_visualization/matplotlib_exercises.ipynb)
+
+### Day 23: Wednesday, July 21st, 2021
+
+**Today's Progress**: Finished various exercises regarding Frequency Counters and Divide and Conquer/Binary Search.
+
+**Thoughts:** Had to do a bit of research on various applications of Binary Search to solve some exercises, and [MyCodeSchool's lectures on Binary Search](https://www.youtube.com/watch?v=KsoUiNv1SZA) gave me all the information I needed!
+
+I'd actually like to dedicate this day to MyCodeSchool's founders, [read more about their story here](https://www.freecodecamp.org/news/mycodeschool-youtube-channel-history/). Huge kudos to MyCodeSchool for providing easy-to-understand tutorials on various programming topics, and many thanks for sharing your knowlegde to programmers around the world!
+
+**Link to work:** [Problem Solving Patterns Exercises](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/Problem%20Solving%20Patterns/Exercises)

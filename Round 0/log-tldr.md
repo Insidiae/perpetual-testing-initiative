@@ -95,3 +95,7 @@ Finished the Matplotlib section lectures in ZTM Machine Learning course.
 ### R0D22
 
 Finished the Matplotlib section exercises in the ZTM Machine Learning course.
+
+### R0D23
+
+Finished various exercises regarding Frequency Counters and Divide and Conquer/Binary Search.
