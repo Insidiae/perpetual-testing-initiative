@@ -99,3 +99,7 @@ Finished the Matplotlib section exercises in the ZTM Machine Learning course.
 ### R0D23
 
 Finished various exercises regarding Frequency Counters and Divide and Conquer/Binary Search.
+
+### R0D24
+
+Finished the Binary Heaps section of the Data Structures and Algorithms course, implementing Min/Max heaps, Priority Queues, and Heapsort.

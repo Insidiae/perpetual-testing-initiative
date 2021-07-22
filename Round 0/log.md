@@ -209,3 +209,11 @@ Going back to the YelpCamp MERN project, I still need to figure out how to manag
 I'd actually like to dedicate this day to MyCodeSchool's founders, [read more about their story here](https://www.freecodecamp.org/news/mycodeschool-youtube-channel-history/). Huge kudos to MyCodeSchool for providing easy-to-understand tutorials on various programming topics, and many thanks for sharing your knowlegde to programmers around the world!
 
 **Link to work:** [Problem Solving Patterns Exercises](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/Problem%20Solving%20Patterns/Exercises)
+
+### Day 24: Thursday, July 22nd, 2021
+
+**Today's Progress**: Finished the Binary Heaps section of the Data Structures and Algorithms course.
+
+**Thoughts:** Binary Heaps were really fun to implement, especially since a big chunk of the process can be simplified by simply storing the values in an array and just doing a bit of math on the indices to get parent/children nodes. The concepts behind Binary Heaps can also be applied into some other cool stuff as well, such as Priority Queues. As a bonus exercise, I also implemented Heapsort using the concepts I learned from this section.
+
+**Link to work:** [Binary Heaps](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/Binary%20Heaps)

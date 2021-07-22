@@ -18,7 +18,7 @@ To be honest, I'm relying on these courses this heavily for now because they alr
 ### Current Progress
 
 1.  [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/): 80% Complete
-2.  [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/): 75% Complete
+2.  [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/): 80% Complete
 3.  [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/): 71% Complete
 4.  [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/): 55% Complete
 5.  [Complete Machine Learning & Data Science Bootcamp 2021](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/): 50% Complete
