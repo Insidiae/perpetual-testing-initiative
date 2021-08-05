@@ -103,3 +103,7 @@ Finished various exercises regarding Frequency Counters and Divide and Conquer/B
 ### R0D24
 
 Finished the Binary Heaps section of the Data Structures and Algorithms course, implementing Min/Max heaps, Priority Queues, and Heapsort.
+
+### R0D25
+
+Finished the Hash Tables and Graphs sections of the Data Structures and Algorithms course.

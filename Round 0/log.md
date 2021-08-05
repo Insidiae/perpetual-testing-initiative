@@ -217,3 +217,15 @@ I'd actually like to dedicate this day to MyCodeSchool's founders, [read more ab
 **Thoughts:** Binary Heaps were really fun to implement, especially since a big chunk of the process can be simplified by simply storing the values in an array and just doing a bit of math on the indices to get parent/children nodes. The concepts behind Binary Heaps can also be applied into some other cool stuff as well, such as Priority Queues. As a bonus exercise, I also implemented Heapsort using the concepts I learned from this section.
 
 **Link to work:** [Binary Heaps](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/Binary%20Heaps)
+
+### Day 25: Thursday, August 5th, 2021
+
+**Today's Progress**: Finished the Hash Tables and Graphs sections of the Data Structures and Algorithms course.
+
+**Thoughts:** I remember Hash Tables being quite the difficult topic back when I was at university learning Data Structures using C++, but now I had a much, **_MUCH_** easier time understanding the concepts this time around using JavaScript, partly because Hash Tables already exist here in the form of objects or maps.
+
+As for graphs, they really did seem to be such a daunting topic at first, but after going through the lecture videos I now see how simple implementing graphs can be, at least for the basic graph structures. I'm really looking forward to tackling Graph Traversals, and I'm really excited to research the various awesome applications of these Graph data structures!
+
+This is now also the final stretch of the Data Structures and Algorithms course. Just a few sections left, and we're going to get the very first course completion on this round!
+
+**Link to work:** [Hash Tables](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/Hash%20Tables), [Graphs](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/Graphs)
