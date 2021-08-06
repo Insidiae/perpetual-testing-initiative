@@ -107,3 +107,7 @@ Finished the Binary Heaps section of the Data Structures and Algorithms course, 
 ### R0D25
 
 Finished the Hash Tables and Graphs sections of the Data Structures and Algorithms course.
+
+### R0D26
+
+Finished the Graph traversal and Dijkstra's Algorithm sections of the Data Structures and Algorithms course.

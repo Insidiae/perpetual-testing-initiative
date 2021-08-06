@@ -229,3 +229,15 @@ As for graphs, they really did seem to be such a daunting topic at first, but af
 This is now also the final stretch of the Data Structures and Algorithms course. Just a few sections left, and we're going to get the very first course completion on this round!
 
 **Link to work:** [Hash Tables](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/Hash%20Tables), [Graphs](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/Graphs)
+
+### Day 26: Friday, August 6th, 2021
+
+**Today's Progress**: Finished the Graph traversal and Dijkstra's Algorithm sections of the Data Structures and Algorithms course.
+
+**Thoughts:** As with yesterday, Graph Traversal seemed to be a really daunting section at first, but as I went through the section I realized how intuitive it is to code, especially as I notice the similarities from the Tree Traversal section I did earlier. The Dijkstra's Algorithm section was a really fun trip down memory lane as my previous Cisco classes from university already introduced me to the topic (albeit only through pen-and-paper diagrams), but it was really nice finally being able to code it up in JavaScript and seeing the results!
+
+Oh by the way, I've now also completed the Japanese Language section from Duolingo! After a 176 day streak of doing Duolingo lessons daily, I've now finally completed all the lessons on the Japanese skill tree. Cheers to that, and I am super looking forward to clearing the other courses I'm doing in this round as well!
+
+![Duolingo JP Clear!](./img/duo-clear.png)
+
+**Link to work:** [Graphs](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/Graphs)
