@@ -111,3 +111,7 @@ Finished the Hash Tables and Graphs sections of the Data Structures and Algorith
 ### R0D26
 
 Finished the Graph traversal and Dijkstra's Algorithm sections of the Data Structures and Algorithms course.
+
+### R0D27
+
+Finished the Tries section of the Data Structures and Algorithms course, and started adding notes to the previous sections.

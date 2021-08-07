@@ -241,3 +241,13 @@ Oh by the way, I've now also completed the Japanese Language section from Duolin
 ![Duolingo JP Clear!](./img/duo-clear.png)
 
 **Link to work:** [Graphs](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/Graphs)
+
+### Day 27: Saturday, August 7th, 2021
+
+**Today's Progress**: Finished the Tries section of the Data Structures and Algorithms course, and started adding notes to the previous sections.
+
+**Thoughts:** Colt Steele's Data Structures and Algorithms course doesn't have a lecture section on Tries, but instead has a few extra coding challenges regarding Tries. I referenced the ZTM FAANG interviews course to get a basic overview on how to implement Tries, and I then tweaked it a bit to fit the context of the coding exercises in Colt Steele's course. It was a pretty fun extra challenge that applies what I learned in the previous sections about Binary Trees and Graphs, as the process of traversing Tries is substantially similar to how to traverse other kinds of Trees and Graphs.
+
+Before I get working on the last section of the Data Structures and Algorithms course, I want to first go back to the previous sections and start adding my notes as a way of documenting my code and overall just make it easier to reference the topics as needed.
+
+**Link to work:** [Tries](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/Tries), [BST section notes](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/Binary%20Search%20Trees/1.%20Binary%20Search%20Trees.md)
