@@ -115,3 +115,7 @@ Finished the Graph traversal and Dijkstra's Algorithm sections of the Data Struc
 ### R0D27
 
 Finished the Tries section of the Data Structures and Algorithms course, and started adding notes to the previous sections.
+
+### R0D28
+
+Finished adding notes to the previous sections of the Data Structures and Algorithms course.

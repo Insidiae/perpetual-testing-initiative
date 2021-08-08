@@ -251,3 +251,13 @@ Oh by the way, I've now also completed the Japanese Language section from Duolin
 Before I get working on the last section of the Data Structures and Algorithms course, I want to first go back to the previous sections and start adding my notes as a way of documenting my code and overall just make it easier to reference the topics as needed.
 
 **Link to work:** [Tries](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/Tries), [BST section notes](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/Binary%20Search%20Trees/1.%20Binary%20Search%20Trees.md)
+
+### Day 28: Sunday, August 8th, 2021
+
+**Today's Progress**: Finished adding notes to the previous sections of the Data Structures and Algorithms course.
+
+**Thoughts:** Aaannd we're finally caught up with my notes on all the sections I've done so far! Adding the notes on the completed sections was a really nice way of revisiting the topics, solidify the concepts I learned, and document the code I've written. It also makes my progress a lot more referenceable, and I plan to keep on improving and adding on my notes as I research more topics on Data Structures and Algorithms beyond the scope of the Udemy courses I took.
+
+Only one section left to complete the course. Let's go!!!!!!!
+
+**Link to work:** [Binary Heaps section notes](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/Binary%20Heaps), [Hash Tables section notes](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/Hash%20Tables/1.%20Hash%20Tables.md), [Graphs section notes](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/Graphs), [Tries section notes](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/Tries/1.%20Tries.md)
