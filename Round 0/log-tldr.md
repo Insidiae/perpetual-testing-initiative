@@ -119,3 +119,7 @@ Finished the Tries section of the Data Structures and Algorithms course, and sta
 ### R0D28
 
 Finished adding notes to the previous sections of the Data Structures and Algorithms course.
+
+### R0D29
+
+Finished the Dynamic Procramming section of the Data Structures and Algorithms course, **and earned the course completion certificate**.

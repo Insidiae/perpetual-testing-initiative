@@ -261,3 +261,17 @@ Before I get working on the last section of the Data Structures and Algorithms c
 Only one section left to complete the course. Let's go!!!!!!!
 
 **Link to work:** [Binary Heaps section notes](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/Binary%20Heaps), [Hash Tables section notes](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/Hash%20Tables/1.%20Hash%20Tables.md), [Graphs section notes](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/Graphs), [Tries section notes](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/Tries/1.%20Tries.md)
+
+### Day 29: Tuesday, August 11th, 2021
+
+**Today's Progress**: Finished the Dynamic Procramming section of the Data Structures and Algorithms course, **and earned the course completion certificate**.
+
+**Thoughts:** I have now gotten the very first course certificate earned after starting this challenge! Kudos to the amazing instructors Colt Steele for the amazing coding exercises that really helped me gauge my progress along the course, and Andrei Neagoie and the ZTM community for the well-structured course lectures that supplemented my progress throughout the course.
+
+With the Data Structures and Algorithms course finally completed (as far as the course completion requirements are concerned, that is), I now have a complete code repository documenting every topic I came across throughout the course, complete with several Markdown files containing some basic notes and explanations about the topics as well as the code solutions I wrote to pass the coding challenges. I also have a basic website deployed using Github Pages that provide the working examples with some test cases that can be copy-pasted into the console to view the results.
+
+In the future, I also plan to combine my Markdown notes with the Github Pages website and create an easy-to-navigate sort of online book to easily reference various topics on Data Structures and Algorithms with the explanations and code examples/test cases on the same page!
+
+That's it for me today. Onwards to further learning on Data Structures and Algorithms with the ZTM FAANG Interview course, up next!
+
+**Link to work:** [JS Algos and Data Structs course repo](https://github.com/Insidiae/js-algos-and-data-structs), [JS Algos and Data Structs website v1](https://insidiae.github.io/js-algos-and-data-structs/)

@@ -17,7 +17,7 @@ To be honest, I'm relying on these courses this heavily for now because they alr
 
 ### Current Progress
 
-1.  [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/): 95% Complete
+1.  ✅ [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/): **100% Complete**
 2.  [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/): 80% Complete
 3.  [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/): 71% Complete
 4.  [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/): 55% Complete
@@ -29,3 +29,9 @@ To be honest, I'm relying on these courses this heavily for now because they alr
 10. [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/): 5% Complete
 11. [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/): 1% Complete
 12. [Online Japanese N5 Kanji Character Course（All 9 lessons)](https://www.udemy.com/course/online-japanese-kanji-character-course/): 20% Complete
+
+### Course Certificates earned in this round
+
+1. [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/certificate/UC-fc91917f-b187-47fb-8b60-7329da6777a7/)
+2. [Learning to Learn [Efficient Learning]: Zero to Mastery](https://www.udemy.com/certificate/UC-93fe6776-013f-4f2e-b03c-32c39cbc35a3/)
+3. [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/certificate/UC-5b058aca-ee22-4e5f-acde-8eb356433242/)
