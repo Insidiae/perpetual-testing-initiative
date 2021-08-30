@@ -123,3 +123,7 @@ Finished adding notes to the previous sections of the Data Structures and Algori
 ### R0D29
 
 Finished the Dynamic Procramming section of the Data Structures and Algorithms course, **and earned the course completion certificate**.
+
+### R0D30
+
+Started the Scikit-Learn section of the ZTM Machine Learning course, exploring the typical workflow of a Scikit-Learn project.

@@ -275,3 +275,15 @@ In the future, I also plan to combine my Markdown notes with the Github Pages we
 That's it for me today. Onwards to further learning on Data Structures and Algorithms with the ZTM FAANG Interview course, up next!
 
 **Link to work:** [JS Algos and Data Structs course repo](https://github.com/Insidiae/js-algos-and-data-structs), [JS Algos and Data Structs website v1](https://insidiae.github.io/js-algos-and-data-structs/)
+
+### Day 30: Monday, August 30th, 2021
+
+**Today's Progress**: Started the Scikit-Learn section of the ZTM Machine Learning course, exploring the typical workflow of a Scikit-Learn project.
+
+**Thoughts:** Hoo boy, this section is a big one! I plan to take this section at a reasonable pace, which means having to somehow split this 7hr+ section into separate chunks. The starter lecture videos were a great introduction to the typical Scikit-Learn workflow, and it's really exciting to dive deeper into the finer concepts of Scikit-Learn. Pretty great stuff!
+
+Oh, by the way, while I was gone I also participated in ReactJS Philippines' Minify Coding Competition! It was great getting to serve as sort of a final exam for the DSA course I just completed, and I'm pretty proud of my score in that event!
+
+![ReactJS Philippines' Minify Coding Competition score](../Round%200/img/minify.png)
+
+**Link to work:** [Scikit-Learn workflow demo](https://github.com/Insidiae/ztm-machine-learning/blob/main/4_scikit-learn_creating_machine_learning_models/scikit-learn_workflow.ipynb)
