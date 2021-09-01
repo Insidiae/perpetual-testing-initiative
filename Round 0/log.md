@@ -287,3 +287,13 @@ Oh, by the way, while I was gone I also participated in ReactJS Philippines' Min
 ![ReactJS Philippines' Minify Coding Competition score](../Round%200/img/minify.png)
 
 **Link to work:** [Scikit-Learn workflow demo](https://github.com/Insidiae/ztm-machine-learning/blob/main/4_scikit-learn_creating_machine_learning_models/scikit-learn_workflow.ipynb)
+
+### Day 31: Wednesday, September 1st, 2021
+
+**Today's Progress**: Finished the first three sections of the ZTM FAANG course.
+
+**Thoughts:** It's now time to take my problem solving skills to the next level by doing more advanced programming problems with the ZTM FAANG Interview course! The first three sections about array problems were a great intro to what the course offers, providing some challenging array problems with a detailed walthrough on the thought process on what goes into the brute-force and optimal solutions.
+
+As I keep going through the ZTM FAANG course, I hope that I can deepen my knowledge on the topics previously covered in the Data Structures and Algorithms course, and maybe pick up some nifty problem solving tricks to add to my arsenal!
+
+**Link to work:** [ZTM FAANG Course solutions](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/FAANG%20Interview%20Questions)

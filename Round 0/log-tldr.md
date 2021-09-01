@@ -127,3 +127,7 @@ Finished the Dynamic Procramming section of the Data Structures and Algorithms c
 ### R0D30
 
 Started the Scikit-Learn section of the ZTM Machine Learning course, exploring the typical workflow of a Scikit-Learn project.
+
+### R0D31
+
+Finished the first three sections of the ZTM FAANG course.
