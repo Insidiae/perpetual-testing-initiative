@@ -131,3 +131,7 @@ Started the Scikit-Learn section of the ZTM Machine Learning course, exploring t
 ### R0D31
 
 Finished the first three sections of the ZTM FAANG course.
+
+### R0D32
+
+Finished Question #4 (Backspace String Compare) in the ZTM FAANG course.

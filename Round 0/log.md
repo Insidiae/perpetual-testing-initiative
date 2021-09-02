@@ -297,3 +297,11 @@ Oh, by the way, while I was gone I also participated in ReactJS Philippines' Min
 As I keep going through the ZTM FAANG course, I hope that I can deepen my knowledge on the topics previously covered in the Data Structures and Algorithms course, and maybe pick up some nifty problem solving tricks to add to my arsenal!
 
 **Link to work:** [ZTM FAANG Course solutions](https://github.com/Insidiae/js-algos-and-data-structs/tree/main/FAANG%20Interview%20Questions)
+
+### Day 32: Thursday, September 2nd, 2021
+
+**Today's Progress**: Finished the fourth section of the ZTM FAANG course.
+
+**Thoughts:** The brute-force solution to the problem was relatively easy, though figuring out the optimal solution was a bit tricky. Using the hints given by the instructor, I tried working though the optimal solution by myself, but even though I thought I got the thought process correct, my solution was failing on some test cases at first. Then it turns out that I used an `&&` operator where there should've been an `||` operator instead. Whoops :p
+
+**Link to work:** [Question #4. Backspace String Compare](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/4.%20Backspace%20String%20Compare.md)
