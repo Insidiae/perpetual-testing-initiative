@@ -1,4 +1,4 @@
-# 100 Days Of Code - Round 0 Log
+ins# 100 Days Of Code - Round 0 Log
 
 ### Day 0: Monday, May 3rd, 2021
 
@@ -305,3 +305,11 @@ As I keep going through the ZTM FAANG course, I hope that I can deepen my knowle
 **Thoughts:** The brute-force solution to the problem was relatively easy, though figuring out the optimal solution was a bit tricky. Using the hints given by the instructor, I tried working though the optimal solution by myself, but even though I thought I got the thought process correct, my solution was failing on some test cases at first. Then it turns out that I used an `&&` operator where there should've been an `||` operator instead. Whoops :p
 
 **Link to work:** [Question #4. Backspace String Compare](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/4.%20Backspace%20String%20Compare.md)
+
+### Day 33: Saturday, September 4th, 2021
+
+**Today's Progress**: Hacktoberfest prep 1 - Started a Git and Github course, learning the basics of commits, branches, and merging.
+
+**Thoughts:** It's been a long time overdue now, but I think it's time to start getting serious about Git and Github workflows, especially if I'm going to be seriously participating in Hacktoberfest next month. I know about the basic commit-and-push workflow, but I feel that I need to learn how to work with multiple branches, resolve conflicting changes, and much more advanced workflows using Git, even moreso when I start doing larger projects.
+
+**Link to work:** ~~TVA~~ TBA

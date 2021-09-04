@@ -135,3 +135,7 @@ Finished the first three sections of the ZTM FAANG course.
 ### R0D32
 
 Finished Question #4 (Backspace String Compare) in the ZTM FAANG course.
+
+### R0D33
+
+Hacktoberfest prep 1 - Started a Git and Github course,learning the basics of commits, branches, and merging.
