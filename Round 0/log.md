@@ -313,3 +313,11 @@ As I keep going through the ZTM FAANG course, I hope that I can deepen my knowle
 **Thoughts:** It's been a long time overdue now, but I think it's time to start getting serious about Git and Github workflows, especially if I'm going to be seriously participating in Hacktoberfest next month. I know about the basic commit-and-push workflow, but I feel that I need to learn how to work with multiple branches, resolve conflicting changes, and much more advanced workflows using Git, even moreso when I start doing larger projects.
 
 **Link to work:** ~~TVA~~ TBA
+
+### Day 34: Monday, September 6th, 2021
+
+**Today's Progress**: Finished the first part of the Scikit-Learn section of the ZTM Machine Learning course.
+
+**Thoughts:** The ZTM Machine Learning course continues its trend of containing such a large amount of information in just a few video lectures. For the first part (out of a 7-step process) of the Scikit-Learn section, we take a look at the process of preparing a dataset before fitting a machine learning model. We discuss how to split a dataset into training and test sets, convert non-numeric features of the dataset into a numeric form, and handle missing data by filling in or removing rows with missing values, as well as some guidelines and best practices when working with such datasets.
+
+**Link to work:** [Intro to Scikit-Learn notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/4_scikit-learn_creating_machine_learning_models/introduction_to_scikit-learn.ipynb)
