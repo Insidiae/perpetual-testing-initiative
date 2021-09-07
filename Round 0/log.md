@@ -321,3 +321,11 @@ As I keep going through the ZTM FAANG course, I hope that I can deepen my knowle
 **Thoughts:** The ZTM Machine Learning course continues its trend of containing such a large amount of information in just a few video lectures. For the first part (out of a 7-step process) of the Scikit-Learn section, we take a look at the process of preparing a dataset before fitting a machine learning model. We discuss how to split a dataset into training and test sets, convert non-numeric features of the dataset into a numeric form, and handle missing data by filling in or removing rows with missing values, as well as some guidelines and best practices when working with such datasets.
 
 **Link to work:** [Intro to Scikit-Learn notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/4_scikit-learn_creating_machine_learning_models/introduction_to_scikit-learn.ipynb)
+
+### Day 35: Tuesday, September 7th, 2021
+
+**Today's Progress**: Finished the second part of the Scikit-Learn section of the ZTM Machine Learning course.
+
+**Thoughts:** 2/7 steps done! Again, the ZTM Machine Learning course continues to be jam-packed with super useful information densely packed into the course lecture videos. Today I also got back into the groove on writing the notes alsongside my code thanks to the overhauled notebook interface by VS Code. It now feels much easier than ever to write beautiful Jupyter notebooks, powered by the usual VS Code extensions we know and love!
+
+**Link to work:** [Intro to Scikit-Learn notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/4_scikit-learn_creating_machine_learning_models/introduction_to_scikit-learn.ipynb)

@@ -143,3 +143,7 @@ Hacktoberfest prep 1 - Started a Git and Github course,learning the basics of co
 ### R0D34
 
 Finished the first part of the Scikit-Learn section of the ZTM Machine Learning course.
+
+### R0D35
+
+Finished the second part of the Scikit-Learn section of the ZTM Machine Learning course.
