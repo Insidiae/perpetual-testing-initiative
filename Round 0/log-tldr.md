@@ -147,3 +147,7 @@ Finished the first part of the Scikit-Learn section of the ZTM Machine Learning 
 ### R0D35
 
 Finished the second part of the Scikit-Learn section of the ZTM Machine Learning course.
+
+### R0D36
+
+Finished the 5th and 6th sections of the ZTM FAANG course.

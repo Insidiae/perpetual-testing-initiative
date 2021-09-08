@@ -329,3 +329,11 @@ As I keep going through the ZTM FAANG course, I hope that I can deepen my knowle
 **Thoughts:** 2/7 steps done! Again, the ZTM Machine Learning course continues to be jam-packed with super useful information densely packed into the course lecture videos. Today I also got back into the groove on writing the notes alsongside my code thanks to the overhauled notebook interface by VS Code. It now feels much easier than ever to write beautiful Jupyter notebooks, powered by the usual VS Code extensions we know and love!
 
 **Link to work:** [Intro to Scikit-Learn notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/4_scikit-learn_creating_machine_learning_models/introduction_to_scikit-learn.ipynb)
+
+### Day 36: Wednesday, September 8th, 2021
+
+**Today's Progress**: Finished the 5th and 6th sections of the ZTM FAANG course.
+
+**Thoughts:** Making solid progress through the ZTM FAANG course. These next two problems were somewhat a rehash of some problems I've already done before on the Data Structures and Algorihms course, but it's nice to get another look at my previous codes and find a more optimal approach this time around.
+
+**Link to work:** [Question 5: Longest Substring Without Repeating Characters](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/5.%20Longest%20Substring%20Without%20Repeating%20Characters.md), [Question 6: Valid Palindrome & Almost a Palindrome](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/6.%20Palindromes.md)

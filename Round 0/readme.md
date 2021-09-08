@@ -22,7 +22,7 @@ To be honest, I'm relying on these courses this heavily for now because they alr
 3.  [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/): 71% Complete
 4.  [Complete Machine Learning & Data Science Bootcamp 2021](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/): 60% Complete
 5.  [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/): 55% Complete
-6.  [Master the Coding Interview: Big Tech (FAANG) Interviews](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/): 40% Complete
+6.  [Master the Coding Interview: Big Tech (FAANG) Interviews](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/): 45% Complete
 7.  [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/): 30% Complete
 8.  [TensorFlow Developer Certificate in 2021: Zero to Mastery](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/): 19% Complete
 9.  [The Complete Junior to Senior Web Developer Roadmap (2021)](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/): 15% Complete
