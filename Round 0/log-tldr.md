@@ -151,3 +151,7 @@ Finished the second part of the Scikit-Learn section of the ZTM Machine Learning
 ### R0D36
 
 Finished the 5th and 6th sections of the ZTM FAANG course.
+
+### R0D37
+
+Finished the React+Redux section of the ZTM JTS course.

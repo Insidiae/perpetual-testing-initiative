@@ -337,3 +337,11 @@ As I keep going through the ZTM FAANG course, I hope that I can deepen my knowle
 **Thoughts:** Making solid progress through the ZTM FAANG course. These next two problems were somewhat a rehash of some problems I've already done before on the Data Structures and Algorihms course, but it's nice to get another look at my previous codes and find a more optimal approach this time around.
 
 **Link to work:** [Question 5: Longest Substring Without Repeating Characters](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/5.%20Longest%20Substring%20Without%20Repeating%20Characters.md), [Question 6: Valid Palindrome & Almost a Palindrome](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/6.%20Palindromes.md)
+
+### Day 37: Friday, September 10th, 2021
+
+**Today's Progress**: Finished the React+Redux section of the ZTM JTS course.
+
+**Thoughts:** I just went ahead and satisfied my curiosity about Redux today by finishing the React+Redux section of the ZTM JTS course. I also went ahead and implemented the sample Robofirends app using React Hooks and Redux instead of the Class-based components seen in the lecture videos. It took a bit of reading through the documentation to figure out how to use the Hooks API for React-Redux, but it ended up being quite smoother to implement. Definitely excited to dive deeper with Redux in a later project!
+
+**Link to work:** [Robofriends with Hooks and Redux](https://github.com/Insidiae/ztm-robofriends-hooks-redux)
