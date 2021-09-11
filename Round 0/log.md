@@ -345,3 +345,13 @@ As I keep going through the ZTM FAANG course, I hope that I can deepen my knowle
 **Thoughts:** I just went ahead and satisfied my curiosity about Redux today by finishing the React+Redux section of the ZTM JTS course. I also went ahead and implemented the sample Robofirends app using React Hooks and Redux instead of the Class-based components seen in the lecture videos. It took a bit of reading through the documentation to figure out how to use the Hooks API for React-Redux, but it ended up being quite smoother to implement. Definitely excited to dive deeper with Redux in a later project!
 
 **Link to work:** [Robofriends with Hooks and Redux](https://github.com/Insidiae/ztm-robofriends-hooks-redux)
+
+### Day 38: Saturday, September 11th, 2021
+
+**Today's Progress**: Finished the Performance Part 1 and Part 2 sections of the ZTM JTS course.
+
+**Thoughts:** Decided to make some more progress on the ZTM JTS course today because why not :^)
+
+Picked up some new neat tricks about improving the performance of web applications, especially some really useful React tools like Code Splitting, `React.memo`, and PWAs using `create-react-app`. It's also really nice to see that PWA support is provided out of the box with `create-react-app`, and with just a couple minor adjustments we can have a perfect 100/100 score on Google Lighthouse tests!
+
+**Link to work:** [Code Splitting Exercise](https://github.com/Insidiae/code-splitting-exercise), [Robofriends with Hooks and Redux (ft. PWA)](https://github.com/Insidiae/ztm-robofriends-hooks-redux)

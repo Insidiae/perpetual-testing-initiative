@@ -155,3 +155,7 @@ Finished the 5th and 6th sections of the ZTM FAANG course.
 ### R0D37
 
 Finished the React+Redux section of the ZTM JTS course.
+
+### R0D38
+
+Finished the Performance Part 1 and Part 2 sections of the ZTM JTS course.
