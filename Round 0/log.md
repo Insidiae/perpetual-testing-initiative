@@ -355,3 +355,11 @@ As I keep going through the ZTM FAANG course, I hope that I can deepen my knowle
 Picked up some new neat tricks about improving the performance of web applications, especially some really useful React tools like Code Splitting, `React.memo`, and PWAs using `create-react-app`. It's also really nice to see that PWA support is provided out of the box with `create-react-app`, and with just a couple minor adjustments we can have a perfect 100/100 score on Google Lighthouse tests!
 
 **Link to work:** [Code Splitting Exercise](https://github.com/Insidiae/code-splitting-exercise), [Robofriends with Hooks and Redux (ft. PWA)](https://github.com/Insidiae/ztm-robofriends-hooks-redux)
+
+### Day 39: Sunday, September 12th, 2021
+
+**Today's Progress**: Hacktoberfest prep 2 - Massive progress in The Git and Github Bootcamp (Diff, Stash, Revert, Fetch, Pull).
+
+**Thoughts:** I made some great progress in The Git and Github Bootcamp today! I've just finished the basics of working with Git and Github, and learned several new Git commands for vrious different purposes. I especially enjoyed the Time Travelling section where we take a look at previous commits, moving changes into a new branch, and restoring/reverting commits. Looking forward to next week where we explore deeper into collaboration workflows using Git and Github!
+
+**Link to work:** [Github Basics Exercise](https://github.com/Insidiae/github-basics-exercise)
