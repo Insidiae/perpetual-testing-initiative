@@ -363,3 +363,11 @@ Picked up some new neat tricks about improving the performance of web applicatio
 **Thoughts:** I made some great progress in The Git and Github Bootcamp today! I've just finished the basics of working with Git and Github, and learned several new Git commands for vrious different purposes. I especially enjoyed the Time Travelling section where we take a look at previous commits, moving changes into a new branch, and restoring/reverting commits. Looking forward to next week where we explore deeper into collaboration workflows using Git and Github!
 
 **Link to work:** [Github Basics Exercise](https://github.com/Insidiae/github-basics-exercise)
+
+### Day 40: Thursday, September 16th, 2021
+
+**Today's Progress**: Finished the 7th to 9th sections of the ZTM FAANG course.
+
+**Thoughts:** Today's progress is all about Linked List traversal questions. The questions presented in the ZTM FAANG course did seem quite daunting at first, but watching the logical approach videos relly put me in the perfect place to solve the problems after I diagrammed the approach and planned out how the code is supposed to work. Even that one question about the multi-level linked list became a lot smoother to approach once I figured out how the traversal algorithm works!
+
+**Link to work:** [FAANG Question 7](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/7.%20M,%20N%20Reversals.md), [FAANG Question 8](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/8.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.md), [FAANG Question 9](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/9.%20Cycle%20Detection.md)

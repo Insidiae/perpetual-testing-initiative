@@ -163,3 +163,7 @@ Finished the Performance Part 1 and Part 2 sections of the ZTM JTS course.
 ### R0D39
 
 Hacktoberfest prep 2 - Massive progress in The Git and Github Bootcamp (Diff, Stash, Revert, Fetch, Pull).
+
+### R0D40
+
+Finished the 7th to 9th sections of the ZTM FAANG course.
