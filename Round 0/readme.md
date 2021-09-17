@@ -18,9 +18,9 @@ To be honest, I'm relying on these courses this heavily for now because they alr
 ### Current Progress
 
 1.  ✅ [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/): **100% Complete**
-2.  [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/): 80% Complete
-3.  [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/): 71% Complete
-4.  [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/): 65% Complete
+2.  ✅ [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/): **100% Complete**
+3.  [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/): 80% Complete
+4.  [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/): 71% Complete
 5.  [Complete Machine Learning & Data Science Bootcamp 2021](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/): 60% Complete
 6.  [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/): 55% Complete
 7.  [Master the Coding Interview: Big Tech (FAANG) Interviews](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/): 45% Complete
@@ -35,3 +35,4 @@ To be honest, I'm relying on these courses this heavily for now because they alr
 1. [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/certificate/UC-fc91917f-b187-47fb-8b60-7329da6777a7/)
 2. [Learning to Learn [Efficient Learning]: Zero to Mastery](https://www.udemy.com/certificate/UC-93fe6776-013f-4f2e-b03c-32c39cbc35a3/)
 3. [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/certificate/UC-5b058aca-ee22-4e5f-acde-8eb356433242/)
+4. [The Git & Github Bootcamp](https://www.udemy.com/certificate/UC-5d7a5381-30be-43b2-b6ac-59ca4867e999/)

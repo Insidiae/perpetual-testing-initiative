@@ -167,3 +167,7 @@ Hacktoberfest prep 2 - Massive progress in The Git and Github Bootcamp (Diff, St
 ### R0D40
 
 Finished the 7th to 9th sections of the ZTM FAANG course.
+
+### R0D41
+
+Hacktoberfest prep 3 - Finished The Git & Github Bootcamp course.

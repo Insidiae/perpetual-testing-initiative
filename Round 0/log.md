@@ -371,3 +371,13 @@ Picked up some new neat tricks about improving the performance of web applicatio
 **Thoughts:** Today's progress is all about Linked List traversal questions. The questions presented in the ZTM FAANG course did seem quite daunting at first, but watching the logical approach videos relly put me in the perfect place to solve the problems after I diagrammed the approach and planned out how the code is supposed to work. Even that one question about the multi-level linked list became a lot smoother to approach once I figured out how the traversal algorithm works!
 
 **Link to work:** [FAANG Question 7](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/7.%20M,%20N%20Reversals.md), [FAANG Question 8](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/8.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.md), [FAANG Question 9](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/9.%20Cycle%20Detection.md)
+
+### Day 41: Friday, September 17th, 2021
+
+**Today's Progress**: Hacktoberfest prep 3 - Finished The Git & Github Bootcamp course.
+
+**Thoughts:** Another course completed! That wraps up my prep for the upcoming Hacktoberfest by finishing off the Git and Github Bootcamp and taking a look at collaboration workflows, some advanced/niche Git stuff like reflogs and custom aliases, and taking a look at how Git works behind the scenes. I should now have the basic Git skills necessary to start contributing for Hacktoberfest projects!
+
+On a side note: that section on how Git works made me appreciate Git more, as well as the underlying topics Git was built upon like Cryptographic Hashing, key-value stores, trees and pointers, etc. I not have a much deeper respect for all the developers that made Git possible by applying such advanced computer science topics and made this powerful tool used by developers around the world!
+
+**Link to work:** [Interactive Rebase Demo solution](https://github.com/Insidiae/interactive-rebase-demo/tree/solution)
