@@ -381,3 +381,11 @@ Picked up some new neat tricks about improving the performance of web applicatio
 On a side note: that section on how Git works made me appreciate Git more, as well as the underlying topics Git was built upon like Cryptographic Hashing, key-value stores, trees and pointers, etc. I not have a much deeper respect for all the developers that made Git possible by applying such advanced computer science topics and made this powerful tool used by developers around the world!
 
 **Link to work:** [Interactive Rebase Demo solution](https://github.com/Insidiae/interactive-rebase-demo/tree/solution)
+
+### Day 42: Sunday, September 19th, 2021
+
+**Today's Progress**: Finished the Mongo and Express Data Relationships sections in The Web Developer Bootcamp.
+
+**Thoughts:** Been a while since my last progress in The WDBC revamp! For now I've just taken the time te review my code in the previous sections as well as reorient myself on the next steps in my MERN remake of the YelpCamp course project. Next up, I'll be applying what I learned in the Mongo Data Relationship sections and add some more functionalities in the YelpCamp MERN project!
+
+**Link to work:** [Mongo Data Relationships](https://github.com/Insidiae/wdbc-backend-2/tree/main/mongo-data-relationships), [Mongo Relationships with Express](https://github.com/Insidiae/wdbc-backend-2/tree/main/express-data-relationships)

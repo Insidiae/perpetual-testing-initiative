@@ -171,3 +171,7 @@ Finished the 7th to 9th sections of the ZTM FAANG course.
 ### R0D41
 
 Hacktoberfest prep 3 - Finished The Git & Github Bootcamp course.
+
+### R0D42
+
+Finished the Mongo and Express Data Relationships sections in The Web Developer Bootcamp.
