@@ -389,3 +389,11 @@ On a side note: that section on how Git works made me appreciate Git more, as we
 **Thoughts:** Been a while since my last progress in The WDBC revamp! For now I've just taken the time te review my code in the previous sections as well as reorient myself on the next steps in my MERN remake of the YelpCamp course project. Next up, I'll be applying what I learned in the Mongo Data Relationship sections and add some more functionalities in the YelpCamp MERN project!
 
 **Link to work:** [Mongo Data Relationships](https://github.com/Insidiae/wdbc-backend-2/tree/main/mongo-data-relationships), [Mongo Relationships with Express](https://github.com/Insidiae/wdbc-backend-2/tree/main/express-data-relationships)
+
+### Day 43: Wednesday, September 22nd, 2021
+
+**Today's Progress**: Finished the 10th to 12th sections of the ZTM FAANG course.
+
+**Thoughts:** Back to the classic Stacks and Queues problems today! I gained some valuable insight as to how Stacks can be applied in certain problems involving matching parentheses (because that one used to stump me back in university), and it's refreshing to see how well I can keep up with the lecture videos now, and even getting the Leetcode question already correct before I even finish the logic explanation lecture!
+
+**Link to work:** [FAANG Question 10](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/10.%20Valid%20Parentheses.md), [FAANG Question 11](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/11.%20Minimum%20Brackets%20To%20Remove.md), [FAANG Question 12](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/12.%20Implement%20Queue%20Using%20Stacks.md)
