@@ -179,3 +179,7 @@ Finished the Mongo and Express Data Relationships sections in The Web Developer 
 ### R0D43
 
 Finished the 10th to 12th sections of the ZTM FAANG course.
+
+### R0D44
+
+Finished the 13th and 14th sections of the ZTM FAANG course.

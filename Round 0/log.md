@@ -397,3 +397,11 @@ On a side note: that section on how Git works made me appreciate Git more, as we
 **Thoughts:** Back to the classic Stacks and Queues problems today! I gained some valuable insight as to how Stacks can be applied in certain problems involving matching parentheses (because that one used to stump me back in university), and it's refreshing to see how well I can keep up with the lecture videos now, and even getting the Leetcode question already correct before I even finish the logic explanation lecture!
 
 **Link to work:** [FAANG Question 10](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/10.%20Valid%20Parentheses.md), [FAANG Question 11](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/11.%20Minimum%20Brackets%20To%20Remove.md), [FAANG Question 12](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/12.%20Implement%20Queue%20Using%20Stacks.md)
+
+### Day 44: Thursday, September 23rd, 2021
+
+**Today's Progress**: Finished the 13th and 14th sections of the ZTM FAANG course.
+
+**Thoughts:** Again, the FAANG questions for today's topic revisit some of the concepts already covered in the Data Structures and Algorithms course. The code snippets I already had for Quicksort and Binary Search were extremely useful for quickly solving today's FAANG questions, plus going through the lecture videos gave additional insight and optimize and/or clean up my previous solutions!
+
+**Link to work:** [FAANG Question 13](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/13.%20Kth%20Largest%20Element.md), [FAANG Question 14](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/14.%20Start%20And%20End%20Of%20Target%20In%20A%20Sorted%20Array.md)
