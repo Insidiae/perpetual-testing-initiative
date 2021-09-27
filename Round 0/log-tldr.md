@@ -183,3 +183,7 @@ Finished the 10th to 12th sections of the ZTM FAANG course.
 ### R0D44
 
 Finished the 13th and 14th sections of the ZTM FAANG course.
+
+### R0D45
+
+Finished the third part of the Scikit-Learn section of the ZTM Machine Learning course.

@@ -405,3 +405,11 @@ On a side note: that section on how Git works made me appreciate Git more, as we
 **Thoughts:** Again, the FAANG questions for today's topic revisit some of the concepts already covered in the Data Structures and Algorithms course. The code snippets I already had for Quicksort and Binary Search were extremely useful for quickly solving today's FAANG questions, plus going through the lecture videos gave additional insight and optimize and/or clean up my previous solutions!
 
 **Link to work:** [FAANG Question 13](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/13.%20Kth%20Largest%20Element.md), [FAANG Question 14](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/14.%20Start%20And%20End%20Of%20Target%20In%20A%20Sorted%20Array.md)
+
+### Day 45: Monday, September 27th, 2021
+
+**Today's Progress**: Finished the third part of the Scikit-Learn section of the ZTM Machine Learning course.
+
+**Thoughts:** Pretty light day today, but it's still more progress on the ZTM ML course. Just a couple more parts left in the Scikit-Learn section and we can finally move on to doing the big projects!
+
+**Link to work:** [Intro to Scikit-Learn notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/4_scikit-learn_creating_machine_learning_models/introduction_to_scikit-learn.ipynb)
