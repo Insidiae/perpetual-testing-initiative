@@ -413,3 +413,11 @@ On a side note: that section on how Git works made me appreciate Git more, as we
 **Thoughts:** Pretty light day today, but it's still more progress on the ZTM ML course. Just a couple more parts left in the Scikit-Learn section and we can finally move on to doing the big projects!
 
 **Link to work:** [Intro to Scikit-Learn notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/4_scikit-learn_creating_machine_learning_models/introduction_to_scikit-learn.ipynb)
+
+### Day 46: Wednesday, September 29th, 2021
+
+**Today's Progress**: Finished the 15th to 19th sections of the ZTM FAANG course.
+
+**Thoughts:** Masive progress in the ZTM FAANG course! Today's progress is all about FAANG questions regarding Binary Trees. It's quite refreshing to see how my previous codes about traversing Binary Trees helping a lot by providing a solid starting point where the solutions are based off on. By slightly tweaking some bits on my BFS/DFS traversal code, I was easily able to get the solutions up and running!
+
+**Link to work:** [FAANG Question 15](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/15.%20Maximum%20Depth%20Of%20Binary%20Tree.md), [FAANG Question 16](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/16.%20Binary%20Tree%20Level%20Order%20Traversal.md), [FAANG Question 17](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/17.%20Right%20Side%20View%20Of%20Tree.md), [FAANG Question 18](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/18.%20Number%20Of%20Nodes%20In%20Complete%20Tree.md), [FAANG Question 19](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/19.%20Validate%20Binary%20Search%20Tree.md)
