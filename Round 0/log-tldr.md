@@ -191,3 +191,7 @@ Finished the third part of the Scikit-Learn section of the ZTM Machine Learning 
 ### R0D46
 
 Finished the 15th to 19th sections of the ZTM FAANG course.
+
+### R0D47
+
+Finished the 20th to 22nd sections of the ZTM FAANG course.
