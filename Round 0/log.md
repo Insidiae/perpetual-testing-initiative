@@ -429,3 +429,13 @@ On a side note: that section on how Git works made me appreciate Git more, as we
 **Thoughts:** Another massive progress in the ZTM FAANG course! I've also added a new topic about 2-dimensional arrays to my DSA repo thanks to today's topic. Following along the solutions on traversing 2D arrays via DFS and BFS was the key to solving today's FAANG questions. Once I figured out the general process on traversing 2D arrays, it's really just a matter of using the right traversal method and tweaking it to suit the problem's needs 🔥
 
 **Link to work:** [Notes on 2D Arrays](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/2D%20Arrays/1.%202D%20Arrays.md), [FAANG Question 20](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/20.%20Number%20Of%20Islands.md), [FAANG Question 21](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/21.%20Rotting%20Oranges.md), [FAANG Question 22](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/22.%20Walls%20And%20Gates.md)
+
+### Day 48: Thursday, October 7th, 2021
+
+**Today's Progress**: Finished the 23rd to 25th sections of the ZTM FAANG course.
+
+**Thoughts:** Today's topic is all about Graphs. Again, my previous experience with graphs on the DSA course proved to be essential in quickly solving these Graph-related FAANG questions. Plus, it does feel a bit refreshing to just code the graph directly for the FAANG questions without having to define a new class by just using the adjacency list and working from there.
+
+Only 5 more FAANG questions remain. Let's do our best in this home stretch and earn another course completion certificate!
+
+**Link to work:** [FAANG Question 23](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/23.%20Time%20Needed%20To%20Inform%20All%20Employees.md), [FAANG Question 24](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/24.%20Course%20Scheduler.md), [FAANG Question 25](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/25.%20Network%20Time%20Delay.md)

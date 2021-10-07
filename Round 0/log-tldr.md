@@ -195,3 +195,7 @@ Finished the 15th to 19th sections of the ZTM FAANG course.
 ### R0D47
 
 Finished the 20th to 22nd sections of the ZTM FAANG course.
+
+### R0D48
+
+Finished the 23rd to 25th sections of the ZTM FAANG course.
