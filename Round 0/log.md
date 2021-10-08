@@ -439,3 +439,13 @@ On a side note: that section on how Git works made me appreciate Git more, as we
 Only 5 more FAANG questions remain. Let's do our best in this home stretch and earn another course completion certificate!
 
 **Link to work:** [FAANG Question 23](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/23.%20Time%20Needed%20To%20Inform%20All%20Employees.md), [FAANG Question 24](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/24.%20Course%20Scheduler.md), [FAANG Question 25](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/25.%20Network%20Time%20Delay.md)
+
+### Day 49: Friday, October 8th, 2021
+
+**Today's Progress**: Finished the 26th and 27th sections of the ZTM FAANG course.
+
+**Thoughts:** Today I added another topic for the Graphs section of my DSA notes, thanks to the ZTM FAANG course introducing me to the Bellman-Ford algorithm. With that new algorithm added to my arsenal I can now handle negative weights and not get stuck in an infinite loop when there is a negative cycle on the input weighted graph!
+
+I also worked on the Dynamic Programming questions on the ZTM FAANG course. It honestly shocked me how well I was able to keep up with the lecture videos explaining the topic, and even being able to code out the solution before the instructor finishes explaining the solution approach!
+
+**Link to work:** [Bellman-ford notes](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/Graphs/3.%20Bellman-Ford%20Algorithm.md), [FAANG Question 26](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/26.%20Minimum%20Cost%20Of%20Climbing%20Stairs.md), [FAANG Question 27](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/27.%20Knight%20Probability%20In%20Chessboard.md)
