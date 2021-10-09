@@ -448,4 +448,12 @@ Only 5 more FAANG questions remain. Let's do our best in this home stretch and e
 
 I also worked on the Dynamic Programming questions on the ZTM FAANG course. It honestly shocked me how well I was able to keep up with the lecture videos explaining the topic, and even being able to code out the solution before the instructor finishes explaining the solution approach!
 
-**Link to work:** [Bellman-ford notes](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/Graphs/3.%20Bellman-Ford%20Algorithm.md), [FAANG Question 26](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/26.%20Minimum%20Cost%20Of%20Climbing%20Stairs.md), [FAANG Question 27](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/27.%20Knight%20Probability%20In%20Chessboard.md)
+### Day 50: Saturday, October 9th, 2021
+
+**Today's Progress**: Finished the 28th to 30th sections of the ZTM FAANG course, **and earned the course completion certificate**.
+
+**Thoughts:** We've now reached the halfway point in this round, and I'm quite proud to say that I have a lot of progress to show for it!
+
+Today I earned another course completion certificate by completing the ZTM FAANG course. Kudos to the instructors for taking my skills to another level! Cheers to this proof of my solid progress in this round, and here's to making steady progress on the rest of this round's courses!
+
+**Link to work:** [FAANG Question 28](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/28.%20Sudoku%20Solver.md), [FAANG Question 29](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/29.%20Monarchy.md), [FAANG Question 30](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/30.%20Implement%20Prefix%20Trie.md)

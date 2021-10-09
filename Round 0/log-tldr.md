@@ -203,3 +203,7 @@ Finished the 23rd to 25th sections of the ZTM FAANG course.
 ### R0D49
 
 Finished the 26th and 27th sections of the ZTM FAANG course.
+
+### R0D50
+
+Finished the 28th to 30th sections of the ZTM FAANG course, **and earned the course completion certificate**.
