@@ -457,3 +457,13 @@ I also worked on the Dynamic Programming questions on the ZTM FAANG course. It h
 Today I earned another course completion certificate by completing the ZTM FAANG course. Kudos to the instructors for taking my skills to another level! Cheers to this proof of my solid progress in this round, and here's to making steady progress on the rest of this round's courses!
 
 **Link to work:** [FAANG Question 28](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/28.%20Sudoku%20Solver.md), [FAANG Question 29](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/29.%20Monarchy.md), [FAANG Question 30](https://github.com/Insidiae/js-algos-and-data-structs/blob/main/FAANG%20Interview%20Questions/30.%20Implement%20Prefix%20Trie.md)
+
+### Day 51: Monday, October 11th, 2021
+
+**Today's Progress**: Continued through the Scikit-Learn section of the ZTM Machine Learning course, and updated my project notebook from Scikit-Learn v0.22 to v1.0.
+
+**Thoughts:** We're now in the second half of this round, which means I can take some time to refocus on some projects that I feel are lagging behind. I've done quite a lot of progress in the ZTM Machine Learning course today, and I plan to continue on with this solid progress and work my way into fuly completing this course!
+
+I've also noticed that Scikit-Learn released a major update, and so I've updated my project notebook to get the latest and greatest Scikit-Learn has to offer! A fair bit of testing to see if everything works and tweaking some minor hiccups along the way, and I now have access to the latest features of Scikit-Learn!
+
+**Link to work:** [Intro to Scikit-Learn notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/4_scikit-learn_creating_machine_learning_models/introduction_to_scikit-learn.ipynb)
