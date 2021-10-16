@@ -211,3 +211,7 @@ Finished the 28th to 30th sections of the ZTM FAANG course, **and earned the cou
 ### R0D51
 
 Continued through the Scikit-Learn section of the ZTM Machine Learning course, and updated my project notebook from Scikit-Learn v0.22 to v1.0.
+
+### R0D52
+
+Finished the Scikit-Learn section lectures of the ZTM Machine Learning course.

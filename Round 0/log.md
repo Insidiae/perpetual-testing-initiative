@@ -467,3 +467,13 @@ Today I earned another course completion certificate by completing the ZTM FAANG
 I've also noticed that Scikit-Learn released a major update, and so I've updated my project notebook to get the latest and greatest Scikit-Learn has to offer! A fair bit of testing to see if everything works and tweaking some minor hiccups along the way, and I now have access to the latest features of Scikit-Learn!
 
 **Link to work:** [Intro to Scikit-Learn notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/4_scikit-learn_creating_machine_learning_models/introduction_to_scikit-learn.ipynb)
+
+### Day 52: Saturday, October 16th, 2021
+
+**Today's Progress**: Finished the Scikit-Learn section lectures of the ZTM Machine Learning course.
+
+**Thoughts:** What a massive section! Seriously, the Scikit-Learn section of the ZTM Machine Learning course can be a standalone course all by itself, covering such a wide range of topics and workflows around Scikit-Learn.
+
+With this section finally completed, I can finally move on to doing the course projects and take the skills I've learned so far up to the test! Looking forward to doing the projects!
+
+**Link to work:** [Intro to Scikit-Learn notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/4_scikit-learn_creating_machine_learning_models/introduction_to_scikit-learn.ipynb)
