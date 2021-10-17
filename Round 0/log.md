@@ -477,3 +477,11 @@ I've also noticed that Scikit-Learn released a major update, and so I've updated
 With this section finally completed, I can finally move on to doing the course projects and take the skills I've learned so far up to the test! Looking forward to doing the projects!
 
 **Link to work:** [Intro to Scikit-Learn notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/4_scikit-learn_creating_machine_learning_models/introduction_to_scikit-learn.ipynb)
+
+### Day 53: Sunday, October 17th, 2021
+
+**Today's Progress**: Finished the Testing section of the ZTM JTS course.
+
+**Thoughts:** Overall a pretty straightforward section. I spiced things up a bit by diverting from the lectures and used React Testing Library to test my React app instead of Enzyme, but the process is still pretty much the same.
+
+**Link to work:** [Testing section solution repo](https://github.com/Insidiae/ztm-robofriends-testing)

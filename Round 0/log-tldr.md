@@ -215,3 +215,7 @@ Continued through the Scikit-Learn section of the ZTM Machine Learning course, a
 ### R0D52
 
 Finished the Scikit-Learn section lectures of the ZTM Machine Learning course.
+
+### R0D53
+
+Finished the Testing section of the ZTM JTS course.
