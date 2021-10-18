@@ -485,3 +485,13 @@ With this section finally completed, I can finally move on to doing the course p
 **Thoughts:** Overall a pretty straightforward section. I spiced things up a bit by diverting from the lectures and used React Testing Library to test my React app instead of Enzyme, but the process is still pretty much the same.
 
 **Link to work:** [Testing section solution repo](https://github.com/Insidiae/ztm-robofriends-testing)
+
+### Day 54: Monday, October 18th, 2021
+
+**Today's Progress**: Finished the Scikit-Learn section exercises of the ZTM Machine Learning course.
+
+**Thoughts:** And now the time I spent carefully going through the Scikit-Learn section lectures has finally paid off! The exercise ended up a breeze to go through, even moreso with the extremely helpful documentation outlining the steps I needed to go through. Plus, with the new knowledge I gained from upgrading my Scikit-Learn to the latest version, I also used the new and improved methods provided by Scikit-Learn v1.0 and really streamlined some parts of the code, particularly in plotting the ROC curve and Confusion Matrix graphs.
+
+Onwards to the milestone projects, coming up next!
+
+**Link to work:** [Scikit-Learn exercise notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/4_scikit-learn_creating_machine_learning_models/scikit-learn_exercises.ipynb)
