@@ -495,3 +495,11 @@ With this section finally completed, I can finally move on to doing the course p
 Onwards to the milestone projects, coming up next!
 
 **Link to work:** [Scikit-Learn exercise notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/4_scikit-learn_creating_machine_learning_models/scikit-learn_exercises.ipynb)
+
+### Day 55: Tuesday, October 19th, 2021
+
+**Today's Progress**: Finished Milestone Project 1 of the ZTM Machine Learning course.
+
+**Thoughts:** Massive progress in the ZTM Machine Learning course! With this first milestone project, we used the usual heart disease dataset and built a solid workflow for creating machine learning models for the dataset. It's pretty much the similar workflow as with the Scikit-Learn section's, but we take things a step further training and evaluating multiple types of machine learning models.
+
+**Link to work:** [Milestone Project 1 notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/5_milestone_project_classification/heart_disease_classification.ipynb)
