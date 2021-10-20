@@ -227,3 +227,7 @@ Finished the Scikit-Learn section exercises of the ZTM Machine Learning course.
 ### R0D55
 
 Finished Milestone Project 1 of the ZTM Machine Learning course.
+
+### R0D56
+
+Finished the Typescript section of the ZTM JTS course.

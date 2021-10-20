@@ -503,3 +503,11 @@ Onwards to the milestone projects, coming up next!
 **Thoughts:** Massive progress in the ZTM Machine Learning course! With this first milestone project, we used the usual heart disease dataset and built a solid workflow for creating machine learning models for the dataset. It's pretty much the similar workflow as with the Scikit-Learn section's, but we take things a step further training and evaluating multiple types of machine learning models.
 
 **Link to work:** [Milestone Project 1 notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/5_milestone_project_classification/heart_disease_classification.ipynb)
+
+### Day 56: Wednesday, October 20th, 2021
+
+**Today's Progress**: Finished the Typescript section of the ZTM JTS course.
+
+**Thoughts:** This section was a pretty simple but solid introduction to Typescript. It was pretty great to see how surprisingly smooth it was to convert an existing React Hooks app into Typescript using VSCode. The type hints pretty much carried me all the way to fully converting the Robofriends app!
+
+**Link to work:** [Robofriends with Hooks feat. Typescript](https://github.com/Insidiae/ztm-robofriends-hooks-typescript)
