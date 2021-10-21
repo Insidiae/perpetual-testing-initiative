@@ -511,3 +511,13 @@ Onwards to the milestone projects, coming up next!
 **Thoughts:** This section was a pretty simple but solid introduction to Typescript. It was pretty great to see how surprisingly smooth it was to convert an existing React Hooks app into Typescript using VSCode. The type hints pretty much carried me all the way to fully converting the Robofriends app!
 
 **Link to work:** [Robofriends with Hooks feat. Typescript](https://github.com/Insidiae/ztm-robofriends-hooks-typescript)
+
+### Day 57: Thursday, October 21st, 2021
+
+**Today's Progress**: Finished the SSR and Security sections of the ZTM JTS course.
+
+**Thoughts:** Great progress in the ZTM JTS course! It was pretty nice to revisit Next.js and see its latest features, and convert the Robofriends app into Next.js.
+
+The Security section was also a good introductory primer into the different vulnerabilities that arise when building web apps, and also some basic countermeasures and best practices to minimize the risk of falling into these vulnerabilities.
+
+**Link to work:** [Robofriends with Hooks feat. Next.js](https://github.com/Insidiae/ztm-next-ssr)
