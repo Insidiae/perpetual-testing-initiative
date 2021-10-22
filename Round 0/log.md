@@ -521,3 +521,13 @@ Onwards to the milestone projects, coming up next!
 The Security section was also a good introductory primer into the different vulnerabilities that arise when building web apps, and also some basic countermeasures and best practices to minimize the risk of falling into these vulnerabilities.
 
 **Link to work:** [Robofriends with Hooks feat. Next.js](https://github.com/Insidiae/ztm-next-ssr)
+
+### Day 58: Friday, October 22nd, 2021
+
+**Today's Progress**: Finished Milestone Project 2 of the ZTM Machine Learning course.
+
+**Thoughts:** We're into the homestretch in the ZTM Machine Learning course! This second Milestone Project was a very comprehensive exercise that tests pretty much everything discussed so far in the course.
+
+I'm super excited to do the final project of the course and finally get started with Deep Learning using Tensorflow!
+
+**Link to work:** [Milestone Project 2 notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/6_milestone_project_time_series_data/bulldozer-price-regression.ipynb)

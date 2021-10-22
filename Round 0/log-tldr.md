@@ -235,3 +235,7 @@ Finished the Typescript section of the ZTM JTS course.
 ### R0D57
 
 Finished the SSR and Security sections of the ZTM JTS course.
+
+### R0D58
+
+Finished Milestone Project 2 of the ZTM Machine Learning course.
