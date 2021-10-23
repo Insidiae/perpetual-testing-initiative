@@ -531,3 +531,11 @@ The Security section was also a good introductory primer into the different vuln
 I'm super excited to do the final project of the course and finally get started with Deep Learning using Tensorflow!
 
 **Link to work:** [Milestone Project 2 notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/6_milestone_project_time_series_data/bulldozer-price-regression.ipynb)
+
+### Day 59: Saturday, October 23rd, 2021
+
+**Today's Progress**: Started the Tensorflow section of the ZTM Machine Learning course.
+
+**Thoughts:** Today's my first deep dive into using Google Colaboratory and Tensorflow thanks to the ZTM Machine Learning course! Today's progress is all about doing the first half of the section and getting everything set up so that I can get right into building models tomorrow. For now, the general workflow for preprocessing the data feels right at home with what I've learned so far. Very excited to work on building the actual tensorflow models tomorrow!
+
+**Link to work:** [Tensorflow section notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/7_deep_learning_neural_networks_tensorflow_2/dog_vision.ipynb)

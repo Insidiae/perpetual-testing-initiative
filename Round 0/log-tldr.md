@@ -239,3 +239,7 @@ Finished the SSR and Security sections of the ZTM JTS course.
 ### R0D58
 
 Finished Milestone Project 2 of the ZTM Machine Learning course.
+
+### R0D59
+
+Started the Tensorflow section of the ZTM Machine Learning course.
