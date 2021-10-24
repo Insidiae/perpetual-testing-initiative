@@ -243,3 +243,7 @@ Finished Milestone Project 2 of the ZTM Machine Learning course.
 ### R0D59
 
 Started the Tensorflow section of the ZTM Machine Learning course.
+
+### R0D60
+
+Finished the Tensorflow section of the ZTM Machine Learning course, **and earned the course completion certificate**.

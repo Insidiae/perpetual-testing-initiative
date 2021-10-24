@@ -539,3 +539,15 @@ I'm super excited to do the final project of the course and finally get started 
 **Thoughts:** Today's my first deep dive into using Google Colaboratory and Tensorflow thanks to the ZTM Machine Learning course! Today's progress is all about doing the first half of the section and getting everything set up so that I can get right into building models tomorrow. For now, the general workflow for preprocessing the data feels right at home with what I've learned so far. Very excited to work on building the actual tensorflow models tomorrow!
 
 **Link to work:** [Tensorflow section notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/7_deep_learning_neural_networks_tensorflow_2/dog_vision.ipynb)
+
+### Day 60: Sunday, October 24th, 2021
+
+**Today's Progress**: Finished the Tensorflow section of the ZTM Machine Learning course, **and earned the course completion certificate**.
+
+**Thoughts:** Woohoo!!! Another course completion in the bag.
+
+Massive thanks to the instructors for such a comprehensive course on Machine Learning. The course lectures clock in at 43 total hours, but I've easily taken more than 2 or 3 times that time following along and doing the exercises because of how jam-packed with useful information this course is.
+
+Looking forward to taking on the Tensorflow course up next!
+
+**Link to work:** [Tensorflow section notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/7_deep_learning_neural_networks_tensorflow_2/dog_vision.ipynb)
