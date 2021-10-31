@@ -247,3 +247,7 @@ Started the Tensorflow section of the ZTM Machine Learning course.
 ### R0D60
 
 Finished the Tensorflow section of the ZTM Machine Learning course, **and earned the course completion certificate**.
+
+### R0D61
+
+Finished the Code Analysis section of the ZTM JTS course.

@@ -551,3 +551,13 @@ Massive thanks to the instructors for such a comprehensive course on Machine Lea
 Looking forward to taking on the Tensorflow course up next!
 
 **Link to work:** [Tensorflow section notebook](https://github.com/Insidiae/ztm-machine-learning/blob/main/7_deep_learning_neural_networks_tensorflow_2/dog_vision.ipynb)
+
+### Day 61: Sunday, October 31st, 2021
+
+**Today's Progress**: Finished the Code Analysis section of the ZTM JTS course.
+
+**Thoughts:** Onto the final project in the ZTM JTS course! The Code Analysis section introduces the Smart Brain project from ZTM's Web Dev course, and my task was to dive right in to the project, examine all the progress made so far, and add a new feature into the app.
+
+Going through the section I noticed that my method to add the new feature into the app was the inverse of how the intstructor did it in the solution video - Where the instructor prefers to scan through everything first and get a general idea of how the app works then works all the way down to the component/s where the new feature is to be added, I kinda did things in reverse and examined the component I needed to change, work my way upwards and examine the other components that affect/are affected by that component. The end result was exactly the same, but the contrast between the instructor's top-down approach vs my bottom-up approach felt quite interesting...
+
+**Link to work:** Smart Brain [frontend](https://github.com/Insidiae/smart-brain), [backend](https://github.com/Insidiae/smart-brain-api)
