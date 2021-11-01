@@ -561,3 +561,11 @@ Looking forward to taking on the Tensorflow course up next!
 Going through the section I noticed that my method to add the new feature into the app was the inverse of how the intstructor did it in the solution video - Where the instructor prefers to scan through everything first and get a general idea of how the app works then works all the way down to the component/s where the new feature is to be added, I kinda did things in reverse and examined the component I needed to change, work my way upwards and examine the other components that affect/are affected by that component. The end result was exactly the same, but the contrast between the instructor's top-down approach vs my bottom-up approach felt quite interesting...
 
 **Link to work:** Smart Brain [frontend](https://github.com/Insidiae/smart-brain), [backend](https://github.com/Insidiae/smart-brain-api)
+
+### Day 62: Monday, November 1st, 2021
+
+**Today's Progress**: Finished the Error Handling, Modules, and HTTP Requests sections of the Modern Python 3 Bootcamp.
+
+**Thoughts:** Now that I think about it, now's a pretty good time to dive deeper into Python and complete the Python 3 course. That said, I'm starting to get fairly comfortable using Python! With the help of gaining some extra bit of experience from doing the ZTM Machine Learning course and doing some other projects and exercises using Python, I'm starting to get more confident writing better Python code.
+
+**Link to work:** [Python Levelgrind](https://github.com/Insidiae/python-levelgrind/tree/master/intermediate)

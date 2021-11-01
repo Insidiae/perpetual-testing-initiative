@@ -251,3 +251,7 @@ Finished the Tensorflow section of the ZTM Machine Learning course, **and earned
 ### R0D61
 
 Finished the Code Analysis section of the ZTM JTS course.
+
+### R0D62
+
+Finished the Error Handling, Modules, and HTTP Requests sections of the Modern Python 3 Bootcamp.
