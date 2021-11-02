@@ -569,3 +569,21 @@ Going through the section I noticed that my method to add the new feature into t
 **Thoughts:** Now that I think about it, now's a pretty good time to dive deeper into Python and complete the Python 3 course. That said, I'm starting to get fairly comfortable using Python! With the help of gaining some extra bit of experience from doing the ZTM Machine Learning course and doing some other projects and exercises using Python, I'm starting to get more confident writing better Python code.
 
 **Link to work:** [Python Levelgrind](https://github.com/Insidiae/python-levelgrind/tree/master/intermediate)
+
+### Day 63: Tuesday, November 2nd, 2021
+
+**Today's Progress**: Finished the OOP Part 1 section and the Deck of Cards Project of the Modern Python 3 Bootcamp.
+
+**Thoughts:** Today's a pretty big day! I decided completely on a whim to check out freeCodeCamp's Scientific Computing with Python projects to see which topics I need to review, and I went and completed all five certification projects in one go! Yep, I'm definitely feeling more and more confident writing Python code now 🔥
+
+Oh, yeah, and I also progressed through the OOP section on the Modern Python 3 Bootcamp. I've already encountered the OOP topics while I was doing the freeCodeCamp projects, so going through today's sections was a breeze.
+
+**Link to work:** [Python Levelgrind](https://github.com/Insidiae/python-levelgrind/tree/master/intermediate),
+
+_freeCodeCamp Scientific Computing with Python projects_:
+
+- **Arithmetic Formatter** ([Github](https://github.com/Insidiae/fcc-arithmetic-formatter), [Replit](https://replit.com/@Insidiae/boilerplate-arithmetic-formatter))
+- **Time Calculator** ([Github](https://github.com/Insidiae/fcc-time-calculator), [Replit](https://replit.com/@Insidiae/boilerplate-time-calculator))
+- **Budget App** ([Github](https://github.com/Insidiae/fcc-budget-app), [Replit](https://replit.com/@Insidiae/boilerplate-budget-app))
+- **Polygon Area Calculator** ([Github](https://github.com/Insidiae/fcc-polygon-area-calculator), [Replit](https://replit.com/@Insidiae/boilerplate-polygon-area-calculator))
+- **Probability Calculator** ([Github](https://github.com/Insidiae/fcc-probability-calculator), [Replit](https://replit.com/@Insidiae/boilerplate-arithmetic-formatter))

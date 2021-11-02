@@ -255,3 +255,7 @@ Finished the Code Analysis section of the ZTM JTS course.
 ### R0D62
 
 Finished the Error Handling, Modules, and HTTP Requests sections of the Modern Python 3 Bootcamp.
+
+### R0D63
+
+Finished the OOP Part 1 section and the Deck of Cards Project of the Modern Python 3 Bootcamp.
