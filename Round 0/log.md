@@ -587,3 +587,11 @@ _freeCodeCamp Scientific Computing with Python projects_:
 - **Budget App** ([Github](https://github.com/Insidiae/fcc-budget-app), [Replit](https://replit.com/@Insidiae/boilerplate-budget-app))
 - **Polygon Area Calculator** ([Github](https://github.com/Insidiae/fcc-polygon-area-calculator), [Replit](https://replit.com/@Insidiae/boilerplate-polygon-area-calculator))
 - **Probability Calculator** ([Github](https://github.com/Insidiae/fcc-probability-calculator), [Replit](https://replit.com/@Insidiae/boilerplate-arithmetic-formatter))
+
+### Day 64: Wednesday, November 3rd, 2021
+
+**Today's Progress**: Finished the YelpCamp Reviews section of The Web Developer Bootcamp 2021.
+
+**Thoughts:** Been a while since I worked on my MERN remake of the YelpCamp project, and admittedly at first taking on this MERN remake project feels quite daunting, but as I follow along with the course lectures and reading the docs on the things the course doesn't cover for my MERN remake, I can easily compare the differences and implement the same features in my project. Onwards to the next sections!
+
+**Link to work:** [YelpCamp MERN](https://github.com/Insidiae/yelpcamp-mern)
