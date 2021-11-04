@@ -595,3 +595,11 @@ _freeCodeCamp Scientific Computing with Python projects_:
 **Thoughts:** Been a while since I worked on my MERN remake of the YelpCamp project, and admittedly at first taking on this MERN remake project feels quite daunting, but as I follow along with the course lectures and reading the docs on the things the course doesn't cover for my MERN remake, I can easily compare the differences and implement the same features in my project. Onwards to the next sections!
 
 **Link to work:** [YelpCamp MERN](https://github.com/Insidiae/yelpcamp-mern)
+
+### Day 65: Wednesday, November 4th, 2021
+
+**Today's Progress**: Finished the Express Router & Cookies and Express Session & Flash sections of The Web Developer Bootcamp 2021.
+
+**Thoughts:** The two sections went by pretty fast, but they do cover quite a bunch of important topics.Moving over back into the YelpCamp MERN project, the Express Router/Cookies/Session topics can translate over pretty much the same way, but I'm mostly wondering how I'll be implementing flash messages in the React frontend...
+
+**Link to work:** [Web Dev Bootcamp Backend repo](https://github.com/Insidiae/wdbc-backend-2)
