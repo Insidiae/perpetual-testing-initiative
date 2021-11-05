@@ -267,3 +267,7 @@ Finished the YelpCamp Reviews section of The Web Developer Bootcamp 2021.
 ### R0D65
 
 Finished the Express Router & Cookies and Express Session & Flash sections of The Web Developer Bootcamp 2021.
+
+### R0D66
+
+Finished the YelpCamp Restructuring & Flash section of The Web Developer Bootcamp 2021.

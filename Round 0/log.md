@@ -603,3 +603,11 @@ _freeCodeCamp Scientific Computing with Python projects_:
 **Thoughts:** The two sections went by pretty fast, but they do cover quite a bunch of important topics.Moving over back into the YelpCamp MERN project, the Express Router/Cookies/Session topics can translate over pretty much the same way, but I'm mostly wondering how I'll be implementing flash messages in the React frontend...
 
 **Link to work:** [Web Dev Bootcamp Backend repo](https://github.com/Insidiae/wdbc-backend-2)
+
+### Day 66: Wednesday, November 5th, 2021
+
+**Today's Progress**: Finished the YelpCamp Restructuring & Flash section of The Web Developer Bootcamp 2021.
+
+**Thoughts:** React-Router really helped make implementing flash messeges a breeze! Reading up a bit on the react-router docs, turns out I can just pass along the flash message via location state and now all I had to do was make some fancy dismissable alert boxes via Tailwind to display my new flash messages.
+
+**Link to work:** [YelpCamp MERN](https://github.com/Insidiae/yelpcamp-mern)
