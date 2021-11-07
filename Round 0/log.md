@@ -596,7 +596,7 @@ _freeCodeCamp Scientific Computing with Python projects_:
 
 **Link to work:** [YelpCamp MERN](https://github.com/Insidiae/yelpcamp-mern)
 
-### Day 65: Wednesday, November 4th, 2021
+### Day 65: Thursday, November 4th, 2021
 
 **Today's Progress**: Finished the Express Router & Cookies and Express Session & Flash sections of The Web Developer Bootcamp 2021.
 
@@ -604,10 +604,18 @@ _freeCodeCamp Scientific Computing with Python projects_:
 
 **Link to work:** [Web Dev Bootcamp Backend repo](https://github.com/Insidiae/wdbc-backend-2)
 
-### Day 66: Wednesday, November 5th, 2021
+### Day 66: Friday, November 5th, 2021
 
 **Today's Progress**: Finished the YelpCamp Restructuring & Flash section of The Web Developer Bootcamp 2021.
 
 **Thoughts:** React-Router really helped make implementing flash messeges a breeze! Reading up a bit on the react-router docs, turns out I can just pass along the flash message via location state and now all I had to do was make some fancy dismissable alert boxes via Tailwind to display my new flash messages.
+
+**Link to work:** [YelpCamp MERN](https://github.com/Insidiae/yelpcamp-mern)
+
+### Day 67: Sunday, November 7th, 2021
+
+**Today's Progress**: Finished the YelpCamp Authentication and Authorization sections of The Web Developer Bootcamp 2021.
+
+**Thoughts:** Massive progress today! And for good reason too. I'm pretty much in the homestretch of The Web Developer Bootcamp after finishing these two massive sections and implementing them in my YelpCamp MERN remake. Adding in these Authentication and Authorization feetures was indeed no small feat, and it did take me quite a while to wrap my head around it especially when trying to interface my React frontend with the Express backend. On the flip side, that's pretty much all the heavy features of the YelpCamp project done. All that's left is to add in some bonus features such as image upload and map views, and we're good to deploy and finish course for the second time around!
 
 **Link to work:** [YelpCamp MERN](https://github.com/Insidiae/yelpcamp-mern)

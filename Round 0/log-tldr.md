@@ -271,3 +271,7 @@ Finished the Express Router & Cookies and Express Session & Flash sections of Th
 ### R0D66
 
 Finished the YelpCamp Restructuring & Flash section of The Web Developer Bootcamp 2021.
+
+### R0D67
+
+Finished the YelpCamp Authentication and Authorization sections of The Web Developer Bootcamp 2021.
