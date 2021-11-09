@@ -619,3 +619,11 @@ _freeCodeCamp Scientific Computing with Python projects_:
 **Thoughts:** Massive progress today! And for good reason too. I'm pretty much in the homestretch of The Web Developer Bootcamp after finishing these two massive sections and implementing them in my YelpCamp MERN remake. Adding in these Authentication and Authorization feetures was indeed no small feat, and it did take me quite a while to wrap my head around it especially when trying to interface my React frontend with the Express backend. On the flip side, that's pretty much all the heavy features of the YelpCamp project done. All that's left is to add in some bonus features such as image upload and map views, and we're good to deploy and finish course for the second time around!
 
 **Link to work:** [YelpCamp MERN](https://github.com/Insidiae/yelpcamp-mern)
+
+### Day 68: Tuesday, November 9th, 2021
+
+**Today's Progress**: Finished the OOP Part 2 section of the Modern Python 3 Bootcamp.
+
+**Thoughts:** Alright, I think I've caught up to the basic and intermediate stuff about Python now. Just a couple topics left to review, then I can proceed to doing some more Python projects and finish the course!
+
+**Link to work:** [Python Levelgrind](https://github.com/Insidiae/python-levelgrind/tree/master/intermediate)

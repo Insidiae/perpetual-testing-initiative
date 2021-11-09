@@ -275,3 +275,7 @@ Finished the YelpCamp Restructuring & Flash section of The Web Developer Bootcam
 ### R0D67
 
 Finished the YelpCamp Authentication and Authorization sections of The Web Developer Bootcamp 2021.
+
+### R0D68
+
+Finished the OOP Part 2 section of the Modern Python 3 Bootcamp.
