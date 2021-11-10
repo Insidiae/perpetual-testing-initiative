@@ -279,3 +279,7 @@ Finished the YelpCamp Authentication and Authorization sections of The Web Devel
 ### R0D68
 
 Finished the OOP Part 2 section of the Modern Python 3 Bootcamp.
+
+### R0D69 (nice)
+
+Finished the YelpCamp Image Upload section of The Web Developer Bootcamp 2021.

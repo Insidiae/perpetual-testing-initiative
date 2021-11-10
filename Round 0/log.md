@@ -627,3 +627,11 @@ _freeCodeCamp Scientific Computing with Python projects_:
 **Thoughts:** Alright, I think I've caught up to the basic and intermediate stuff about Python now. Just a couple topics left to review, then I can proceed to doing some more Python projects and finish the course!
 
 **Link to work:** [Python Levelgrind](https://github.com/Insidiae/python-levelgrind/tree/master/intermediate)
+
+### Day 69 (nice): Wednesday, November 10th, 2021
+
+**Today's Progress**: Finished the YelpCamp Image Upload section of The Web Developer Bootcamp 2021.
+
+**Thoughts:** This one was admittedly quite tricky to implement, as I have to juggle my data and API requests between my React frontend and Express backend. There's definitely a lot of room for improvement and refactoring, but hey, this one works fine for now so I'll take it.
+
+**Link to work:** [YelpCamp MERN](https://github.com/Insidiae/yelpcamp-mern)
