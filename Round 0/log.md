@@ -635,3 +635,11 @@ _freeCodeCamp Scientific Computing with Python projects_:
 **Thoughts:** This one was admittedly quite tricky to implement, as I have to juggle my data and API requests between my React frontend and Express backend. There's definitely a lot of room for improvement and refactoring, but hey, this one works fine for now so I'll take it.
 
 **Link to work:** [YelpCamp MERN](https://github.com/Insidiae/yelpcamp-mern)
+
+### Day 70: Thursday, November 11th, 2021
+
+**Today's Progress**: Finished the YelpCamp Maps and Style Cleanup sections of The Web Developer Bootcamp 2021.
+
+**Thoughts:** The YelpCamp MERN Remake is now functionally done! All that is left for the project is some bonus security features and deployment and I can wrap up the project and get the course certificate for The Web Developer Bootcamp (again). This project covered quite a lot, and quite a few features ended up being quite daunting to implement, but we did it! Cheers!
+
+**Link to work:** [YelpCamp MERN](https://github.com/Insidiae/yelpcamp-mern)
