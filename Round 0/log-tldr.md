@@ -287,3 +287,7 @@ Finished the YelpCamp Image Upload section of The Web Developer Bootcamp 2021.
 ### R0D70
 
 Finished the YelpCamp Maps and Style Cleanup sections of The Web Developer Bootcamp 2021.
+
+### R0D71
+
+Finished the YelpCamp project of The Web Developer Bootcamp 2021, **and re-earned the course completion certificate**.

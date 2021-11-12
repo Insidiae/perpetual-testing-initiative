@@ -21,7 +21,7 @@ To be honest, I'm relying on these courses this heavily for now because they alr
 2.  ✅ [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/): **100% Complete**
 3.  ✅ [Master the Coding Interview: Big Tech (FAANG) Interviews](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/): **100% Complete**
 4.  ✅ [Complete Machine Learning & Data Science Bootcamp 2021](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/): **100% Complete**
-5.  [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/): 95% Complete
+5.  ✅ [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/): **100% Complete**
 6.  [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/): 71% Complete
 7.  [The Complete Junior to Senior Web Developer Roadmap (2021)](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/): 70% Complete
 8.  [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/): 65% Complete
@@ -39,3 +39,4 @@ To be honest, I'm relying on these courses this heavily for now because they alr
 5. [Master the Coding Interview: Big Tech (FAANG) Interviews](https://www.udemy.com/certificate/UC-e80f01f9-bd05-4613-856e-f653180112f3/)
 6. [Complete Machine Learning & Data Science Bootcamp 2021](https://www.udemy.com/certificate/UC-d5e4c65e-1645-4aba-a502-b74eec122bf5/)
 7. [freeCodeCamp's Scientific Computing with Python Certification](https://www.freecodecamp.org/certification/insidiae/scientific-computing-with-python-v7)
+8. [The Web Developer Bootcamp 2021](https://www.udemy.com/certificate/UC-RU0ZW4GZ/)

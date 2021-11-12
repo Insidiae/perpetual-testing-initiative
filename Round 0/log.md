@@ -643,3 +643,11 @@ _freeCodeCamp Scientific Computing with Python projects_:
 **Thoughts:** The YelpCamp MERN Remake is now functionally done! All that is left for the project is some bonus security features and deployment and I can wrap up the project and get the course certificate for The Web Developer Bootcamp (again). This project covered quite a lot, and quite a few features ended up being quite daunting to implement, but we did it! Cheers!
 
 **Link to work:** [YelpCamp MERN](https://github.com/Insidiae/yelpcamp-mern)
+
+### Day 71: Thursday, November 12th, 2021
+
+**Today's Progress**: Finished the YelpCamp project of The Web Developer Bootcamp 2021, **and re-earned the course completion certificate**.
+
+**Thoughts:** That's it for the YelpCamp MERN Remake project, and by extension my second round at The Web Developer Bootcamp! This has been a truly comprehensive course, even moreso with all the revamped videos. Going through the new content was a blast the entire time, and remaking the final course project using a different tech stack was really tough for sure, but it feels so rewarding to see the completed project fully live and deployed. Onwards to the next course projects!
+
+**Link to work:** [YelpCamp MERN repo](https://github.com/Insidiae/yelpcamp-mern), [Live version](https://focused-davinci-28075a.netlify.app/)
