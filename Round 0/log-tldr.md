@@ -291,3 +291,7 @@ Finished the YelpCamp Maps and Style Cleanup sections of The Web Developer Bootc
 ### R0D71
 
 Finished the YelpCamp project of The Web Developer Bootcamp 2021, **and re-earned the course completion certificate**.
+
+### R0D72
+
+Finished the Intro to CSS Grid section of the Advanced CSS and Sass course, and updated the project dependencies.
