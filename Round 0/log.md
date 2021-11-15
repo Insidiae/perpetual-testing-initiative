@@ -659,3 +659,11 @@ _freeCodeCamp Scientific Computing with Python projects_:
 **Thoughts:** That's it for the YelpCamp MERN Remake project, and by extension my second round at The Web Developer Bootcamp! This has been a truly comprehensive course, even moreso with all the revamped videos. Going through the new content was a blast the entire time, and remaking the final course project using a different tech stack was really tough for sure, but it feels so rewarding to see the completed project fully live and deployed. Onwards to the next course projects!
 
 **Link to work:** [Advanced CSS and Sass course repo](https://github.com/Insidiae/advanced-css-and-sass), [CSS Grid playground](https://codepen.io/Insidiae/pen/ExvdLOG)
+
+### Day 73: Monday, November 15th, 2021
+
+**Today's Progress**: Finished the Iterators and Generators section of the Modern Python 3 Bootcamp.
+
+**Thoughts:** Pretty decent progress today. Iterators are a pretty nifty way to loop over items in Python, and I can definitely see some use cases where it makes more sense to use these. They're also made even easier using Generators to create iterators super quickly!
+
+**Link to work:** [Iterators and Generators notebook](https://github.com/Insidiae/python-levelgrind/blob/master/advanced/iterators-generators.ipynb)

@@ -295,3 +295,7 @@ Finished the YelpCamp project of The Web Developer Bootcamp 2021, **and re-earne
 ### R0D72
 
 Finished the Intro to CSS Grid section of the Advanced CSS and Sass course, and updated the project dependencies.
+
+### R0D73
+
+Finished the Iterators and Generators section of the Modern Python 3 Bootcamp.

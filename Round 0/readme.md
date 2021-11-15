@@ -24,7 +24,7 @@ To be honest, I'm relying on these courses this heavily for now because they alr
 5.  ✅ [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/): **100% Complete**
 6.  [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/): 80% Complete
 7.  [The Complete Junior to Senior Web Developer Roadmap (2021)](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/): 70% Complete
-8.  [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/): 65% Complete
+8.  [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/): 70% Complete
 9.  [TensorFlow Developer Certificate in 2021: Zero to Mastery](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/): 19% Complete
 10. [Complete Web & Mobile Designer in 2021: UI/UX, Figma, +more](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/): 10% Complete
 11. [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/): 1% Complete
