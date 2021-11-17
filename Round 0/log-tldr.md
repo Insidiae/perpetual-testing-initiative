@@ -299,3 +299,7 @@ Finished the Intro to CSS Grid section of the Advanced CSS and Sass course, and 
 ### R0D73
 
 Finished the Iterators and Generators section of the Modern Python 3 Bootcamp.
+
+### R0D74
+
+Finished the basic layout for the Nexter project of the Advanced CSS and Sass course.

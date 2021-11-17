@@ -667,3 +667,11 @@ _freeCodeCamp Scientific Computing with Python projects_:
 **Thoughts:** Pretty decent progress today. Iterators are a pretty nifty way to loop over items in Python, and I can definitely see some use cases where it makes more sense to use these. They're also made even easier using Generators to create iterators super quickly!
 
 **Link to work:** [Iterators and Generators notebook](https://github.com/Insidiae/python-levelgrind/blob/master/advanced/iterators-generators.ipynb)
+
+### Day 74: Wednesday, November 17th, 2021
+
+**Today's Progress**: Finished the basic layout for the Nexter project of the Advanced CSS and Sass course.
+
+**Thoughts:** That went a lot quicker than I expected! Seems like I've still got my CSS skills up to spec, and I can follow along with the course lectures really smoothly. Up next, I'll be adding a bit of my own custom touches to wrap things up for the Nexter project and get that course completion certificate!
+
+**Link to work:** [Nexter](https://insidiae.github.io/advanced-css-and-sass/Nexter/index.html)
