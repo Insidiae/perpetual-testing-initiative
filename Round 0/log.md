@@ -675,3 +675,11 @@ _freeCodeCamp Scientific Computing with Python projects_:
 **Thoughts:** That went a lot quicker than I expected! Seems like I've still got my CSS skills up to spec, and I can follow along with the course lectures really smoothly. Up next, I'll be adding a bit of my own custom touches to wrap things up for the Nexter project and get that course completion certificate!
 
 **Link to work:** [Nexter](https://insidiae.github.io/advanced-css-and-sass/Nexter/index.html)
+
+### Day 75: Friday, November 19th, 2021
+
+**Today's Progress**: Finished the Nexter project of the Advanced CSS and Sass course, **and earned the course completion certificate**.
+
+**Thoughts:** Another course completed! The Nexter project was a breeze to work with, and I really like how CSS Grid minimized the amount of media queries we had to write to make the site truly responsive. As a bonus, I also made the sidebar nav come to life by porting some of the navigation tricks from the earlier projects, and I like how the final project turned out!
+
+**Link to work:** [Nexter](https://insidiae.github.io/advanced-css-and-sass/Nexter/index.html)
