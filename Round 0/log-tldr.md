@@ -307,3 +307,7 @@ Finished the basic layout for the Nexter project of the Advanced CSS and Sass co
 ### R0D75
 
 Finished the Nexter project of the Advanced CSS and Sass course, **and earned the course completion certificate**.
+
+### R0D76
+
+Finished the Docker section of the ZTM JTS course.

@@ -683,3 +683,11 @@ _freeCodeCamp Scientific Computing with Python projects_:
 **Thoughts:** Another course completed! The Nexter project was a breeze to work with, and I really like how CSS Grid minimized the amount of media queries we had to write to make the site truly responsive. As a bonus, I also made the sidebar nav come to life by porting some of the navigation tricks from the earlier projects, and I like how the final project turned out!
 
 **Link to work:** [Nexter](https://insidiae.github.io/advanced-css-and-sass/Nexter/index.html)
+
+### Day 76: Saturday, November 20th, 2021
+
+**Today's Progress**: Finished the Docker section of the ZTM JTS course.
+
+**Thoughts:** Installed Docker for the first time today. I can definitely see the appeal in being able to setup a whole environment in just a couple config files, and not have to worry about most installation problems on different operting systems. Plus, with the next section about Redis which doesn't support Windows as far as I've heard, Docker can be a great tool to add Redis into the course project anyway!
+
+**Link to work:** [Dockerized Smart Brain](https://github.com/Insidiae/smart-brain-api-dockerized)
