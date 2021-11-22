@@ -699,3 +699,11 @@ _freeCodeCamp Scientific Computing with Python projects_:
 **Thoughts:** Used the Try Redis playground for now instead of installing on my PC, since it seems like we'll be using Docker to help with that in the later section. I've gotten a sneak peek of how to store session data with the YelpCamp MERN project, let's see how Redis helps with that in the upcoming Sessions + JWT section of the ZTM JTS course!
 
 **Link to work:** [Redis Playground](https://try.redis.io/)
+
+### Day 78: Monday, November 22nd, 2021
+
+**Today's Progress**: Finished the Decorators section of The Modern Python 3 Bootcamp.
+
+**Thoughts:** Today I got a peek at how those `@` symbol decorators work behind the scenes. I've seen them here and there among various code snippets I encounter, and it's quite amusing to know that they're really just a special kind of higher order functions behind the scenes. This topic also seems relevant not just in Python, but in JavaScript/TypeScript as well - I've definitely seen those `@` symbols in some code snippets as well!
+
+**Link to work:** [Decorators](https://github.com/Insidiae/python-levelgrind/blob/master/advanced/decorators.ipynb)

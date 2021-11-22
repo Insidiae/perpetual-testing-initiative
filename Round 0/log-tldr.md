@@ -315,3 +315,7 @@ Finished the Docker section of the ZTM JTS course.
 ### R0D77
 
 Finished the Redis section of the ZTM JTS course.
+
+### R0D78
+
+Finished the Decorators section of The Modern Python 3 Bootcamp.
