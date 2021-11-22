@@ -691,3 +691,11 @@ _freeCodeCamp Scientific Computing with Python projects_:
 **Thoughts:** Installed Docker for the first time today. I can definitely see the appeal in being able to setup a whole environment in just a couple config files, and not have to worry about most installation problems on different operting systems. Plus, with the next section about Redis which doesn't support Windows as far as I've heard, Docker can be a great tool to add Redis into the course project anyway!
 
 **Link to work:** [Dockerized Smart Brain](https://github.com/Insidiae/smart-brain-api-dockerized)
+
+### Day 77: Sunday, November 21st, 2021
+
+**Today's Progress**: Finished the Redis section of the ZTM JTS course.
+
+**Thoughts:** Used the Try Redis playground for now instead of installing on my PC, since it seems like we'll be using Docker to help with that in the later section. I've gotten a sneak peek of how to store session data with the YelpCamp MERN project, let's see how Redis helps with that in the upcoming Sessions + JWT section of the ZTM JTS course!
+
+**Link to work:** [Redis Playground](https://try.redis.io/)

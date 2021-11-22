@@ -311,3 +311,7 @@ Finished the Nexter project of the Advanced CSS and Sass course, **and earned th
 ### R0D76
 
 Finished the Docker section of the ZTM JTS course.
+
+### R0D77
+
+Finished the Redis section of the ZTM JTS course.
