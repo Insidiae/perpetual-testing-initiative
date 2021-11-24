@@ -707,3 +707,11 @@ _freeCodeCamp Scientific Computing with Python projects_:
 **Thoughts:** Today I got a peek at how those `@` symbol decorators work behind the scenes. I've seen them here and there among various code snippets I encounter, and it's quite amusing to know that they're really just a special kind of higher order functions behind the scenes. This topic also seems relevant not just in Python, but in JavaScript/TypeScript as well - I've definitely seen those `@` symbols in some code snippets as well!
 
 **Link to work:** [Decorators](https://github.com/Insidiae/python-levelgrind/blob/master/advanced/decorators.ipynb)
+
+### Day 79: Tuesday, November 23rd, 2021
+
+**Today's Progress**: Finished the Testing section of The Modern Python 3 Bootcamp.
+
+**Thoughts:** Decent progress today. It's great to know that Python actually has a built-in testing module to help write tests for my Python code, and writing tests for a previous exercise was a breeze.
+
+**Link to work:** [Testing Exercise](https://github.com/Insidiae/python-levelgrind/blob/master/advanced/deck_of_cards_tests.py)

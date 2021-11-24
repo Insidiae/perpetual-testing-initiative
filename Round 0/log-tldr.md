@@ -319,3 +319,7 @@ Finished the Redis section of the ZTM JTS course.
 ### R0D78
 
 Finished the Decorators section of The Modern Python 3 Bootcamp.
+
+### R0D78
+
+Finished the Testing section of The Modern Python 3 Bootcamp.
