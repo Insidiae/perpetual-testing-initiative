@@ -715,3 +715,11 @@ _freeCodeCamp Scientific Computing with Python projects_:
 **Thoughts:** Decent progress today. It's great to know that Python actually has a built-in testing module to help write tests for my Python code, and writing tests for a previous exercise was a breeze.
 
 **Link to work:** [Testing Exercise](https://github.com/Insidiae/python-levelgrind/blob/master/advanced/deck_of_cards_tests.py)
+
+### Day 80: Wednesday, November 24th, 2021
+
+**Today's Progress**: Started the Sesstions + JWT section of the ZTM JTS course.
+
+**Thoughts:** Set up the dev environment for this section for the first time using Docker. I really like how smooth and consistent the workflow is using Docker + WSL2. It just feels so natural and my workflow for developing this new SmartBrain course project stayed pretty much the same even while using Docker.
+
+**Link to work:** Smart Brain [frontend](https://github.com/Insidiae/smart-brain-jwt), [backend](https://github.com/Insidiae/smart-brain-api-jwt)
