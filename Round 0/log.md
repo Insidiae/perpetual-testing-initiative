@@ -723,3 +723,13 @@ _freeCodeCamp Scientific Computing with Python projects_:
 **Thoughts:** Set up the dev environment for this section for the first time using Docker. I really like how smooth and consistent the workflow is using Docker + WSL2. It just feels so natural and my workflow for developing this new SmartBrain course project stayed pretty much the same even while using Docker.
 
 **Link to work:** Smart Brain [frontend](https://github.com/Insidiae/smart-brain-jwt), [backend](https://github.com/Insidiae/smart-brain-api-jwt)
+
+### Day 81: Thursday, November 25th, 2021
+
+**Today's Progress**: Finished the Sesstions + JWT section of the ZTM JTS course.
+
+**Thoughts:** Again, the general workflow for the backend server was pretty smooth using Docker, aside from one small hiccup caused by the `node-redis` package being updated literally today, but it was pretty simple to fix once I figured out what's going on and used the appropriate version for the project.
+
+Adding in the JWT + Session code for the Smart Brain project, I was able to compare it to my previos YelpCamp MERN project and how I managed user sessions using cookies. With both of these session management strategies in mind, I now have a solid reference for whatever project I'll be doing next!
+
+**Link to work:** Smart Brain [frontend](https://github.com/Insidiae/smart-brain-jwt), [backend](https://github.com/Insidiae/smart-brain-api-jwt)
