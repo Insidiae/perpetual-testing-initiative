@@ -733,3 +733,11 @@ _freeCodeCamp Scientific Computing with Python projects_:
 Adding in the JWT + Session code for the Smart Brain project, I was able to compare it to my previos YelpCamp MERN project and how I managed user sessions using cookies. With both of these session management strategies in mind, I now have a solid reference for whatever project I'll be doing next!
 
 **Link to work:** Smart Brain [frontend](https://github.com/Insidiae/smart-brain-jwt), [backend](https://github.com/Insidiae/smart-brain-api-jwt)
+
+### Day 82: Friday, November 26th, 2021
+
+**Today's Progress**: Finished the AWS and Performance Part 3 sections of the ZTM JTS course.
+
+**Thoughts:** Decided to take it easy for today and just follow along with the course lectures. These two sections about AWS and improving server-side performance do have really useful information, but I feel like it's a bit beyond the scope of what I'm trying to accomplish for now. I can definitely see myself going back to these sections when the time comes where these topics become more relevant for me, and I'm looking forward to progress enough with my career to get to that level!
+
+**Link to work:** N/A
