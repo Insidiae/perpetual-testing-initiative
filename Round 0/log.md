@@ -741,3 +741,11 @@ Adding in the JWT + Session code for the Smart Brain project, I was able to comp
 **Thoughts:** Decided to take it easy for today and just follow along with the course lectures. These two sections about AWS and improving server-side performance do have really useful information, but I feel like it's a bit beyond the scope of what I'm trying to accomplish for now. I can definitely see myself going back to these sections when the time comes where these topics become more relevant for me, and I'm looking forward to progress enough with my career to get to that level!
 
 **Link to work:** N/A
+
+### Day 83: Saturday, November 27th, 2021
+
+**Today's Progress**: Finished the CI/CD section of the ZTM JTS course, **and earned the course completion certificate**.
+
+**Thoughts:** Another course completion in the bag, and boy what a ride that was! The ZTM JTS course covered a truly wide range of topics, and following along with the course exercises and projects was a blast, especially with how we can see the improvements being made as we add more features demonstrating what we've learned in each section the two main projects featured in the course.
+
+**Link to work:** [Robofriends feat. CircleCI](https://github.com/Insidiae/ztm-robofriends-ci)

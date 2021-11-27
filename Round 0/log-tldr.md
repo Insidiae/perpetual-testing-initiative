@@ -335,3 +335,7 @@ Finished the Sesstions + JWT section of the ZTM JTS course.
 ### R0D82
 
 Finished the AWS and Performance Part 3 sections of the ZTM JTS course.
+
+### R0D83
+
+Finished the CI/CD section of the ZTM JTS course, **and earned the course completion certificate**.
