@@ -339,3 +339,7 @@ Finished the AWS and Performance Part 3 sections of the ZTM JTS course.
 ### R0D83
 
 Finished the CI/CD section of the ZTM JTS course, **and earned the course completion certificate**.
+
+### R0D84
+
+Finished the File I/O and Working with CSV sections of The Modern Python 3 Bootcamp.

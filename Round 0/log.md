@@ -749,3 +749,11 @@ Adding in the JWT + Session code for the Smart Brain project, I was able to comp
 **Thoughts:** Another course completion in the bag, and boy what a ride that was! The ZTM JTS course covered a truly wide range of topics, and following along with the course exercises and projects was a blast, especially with how we can see the improvements being made as we add more features demonstrating what we've learned in each section the two main projects featured in the course.
 
 **Link to work:** [Robofriends feat. CircleCI](https://github.com/Insidiae/ztm-robofriends-ci)
+
+### Day 84: Sunday, November 28th, 2021
+
+**Today's Progress**: Finished the File I/O and Working with CSV sections of The Modern Python 3 Bootcamp.
+
+**Thoughts:** I've already worked with files for quite a bunch on the ZTM ML course, so this section was a breeze to go through. It was nice to see how vanilla Python works with files and even CSV datasets.
+
+**Link to work:** [File I/O notes](https://github.com/Insidiae/python-levelgrind/blob/master/advanced/file_io.ipynb), [CSV Exercise](https://github.com/Insidiae/python-levelgrind/blob/master/advanced/csv_exercise.py)
