@@ -757,3 +757,11 @@ Adding in the JWT + Session code for the Smart Brain project, I was able to comp
 **Thoughts:** I've already worked with files for quite a bunch on the ZTM ML course, so this section was a breeze to go through. It was nice to see how vanilla Python works with files and even CSV datasets.
 
 **Link to work:** [File I/O notes](https://github.com/Insidiae/python-levelgrind/blob/master/advanced/file_io.ipynb), [CSV Exercise](https://github.com/Insidiae/python-levelgrind/blob/master/advanced/csv_exercise.py)
+
+### Day 85: Monday, November 29th, 2021
+
+**Today's Progress**: Finished the Web Scraping with BeautifulSoup section of The Modern Python 3 Bootcamp.
+
+**Thoughts:** Working with BeautifulSoup to scrape data from websites was quite fun, and surprisingly intuitive thanks to my previous experience working with the web. Once I know which elements to get data from, it was just a matter of applying the appropriate selectors and get the data I need!
+
+**Link to work:** [Web Scraping Project](https://github.com/Insidiae/python-levelgrind/blob/master/advanced/scraping_project.py)
