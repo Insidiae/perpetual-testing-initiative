@@ -765,3 +765,11 @@ Adding in the JWT + Session code for the Smart Brain project, I was able to comp
 **Thoughts:** Working with BeautifulSoup to scrape data from websites was quite fun, and surprisingly intuitive thanks to my previous experience working with the web. Once I know which elements to get data from, it was just a matter of applying the appropriate selectors and get the data I need!
 
 **Link to work:** [Web Scraping Project](https://github.com/Insidiae/python-levelgrind/blob/master/advanced/scraping_project.py)
+
+### Day 86: Tuesday, November 30th, 2021
+
+**Today's Progress**: Finished the Regular Expressions section of The Modern Python 3 Bootcamp.
+
+**Thoughts:** Regular Expressions are a really powerful tool to work with strings - not just in Python specifically, but in other languages as well. The Modern Python 3 Bootcamp only touches upon the basics of RegEx, but it's still really nice to learn about some common RegEx use cases. I can definitely see myself doing more RegEx exercises in the future!
+
+**Link to work:** N/A, all progress was done thru the Udemy coding exercises!

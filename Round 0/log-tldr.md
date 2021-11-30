@@ -347,3 +347,7 @@ Finished the File I/O and Working with CSV sections of The Modern Python 3 Bootc
 ### R0D85
 
 Finished the Web Scraping with BeautifulSoup section of The Modern Python 3 Bootcamp.
+
+### R0D86
+
+Finished the Web Scraping with BeautifulSoup section of The Modern Python 3 Bootcamp.
