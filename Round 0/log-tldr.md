@@ -351,3 +351,7 @@ Finished the Web Scraping with BeautifulSoup section of The Modern Python 3 Boot
 ### R0D86
 
 Finished the Web Scraping with BeautifulSoup section of The Modern Python 3 Bootcamp.
+
+### R0D87
+
+Finished the Python + SQL section of The Modern Python 3 Bootcamp.

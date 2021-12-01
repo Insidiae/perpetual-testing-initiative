@@ -773,3 +773,11 @@ Adding in the JWT + Session code for the Smart Brain project, I was able to comp
 **Thoughts:** Regular Expressions are a really powerful tool to work with strings - not just in Python specifically, but in other languages as well. The Modern Python 3 Bootcamp only touches upon the basics of RegEx, but it's still really nice to learn about some common RegEx use cases. I can definitely see myself doing more RegEx exercises in the future!
 
 **Link to work:** N/A, all progress was done thru the Udemy coding exercises!
+
+### Day 87: Wednesday, December 1st, 2021
+
+**Today's Progress**: Finished the Python + SQL section of The Modern Python 3 Bootcamp.
+
+**Thoughts:** SQLite was apparently so light I didn't realize I already have it installed all along! It might've been from some random package install on some previous project, but the installation part was besically instant thanks to that. I really like how easy it was to create new databases using SQLite, and how _lite_ those databases I created in the section exercises ended up being!
+
+**Link to work:** [SQL Book Scraper project](https://github.com/Insidiae/python-levelgrind/blob/master/advanced/sql_book_scraper.py)
