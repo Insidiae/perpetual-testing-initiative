@@ -781,3 +781,11 @@ Adding in the JWT + Session code for the Smart Brain project, I was able to comp
 **Thoughts:** SQLite was apparently so light I didn't realize I already have it installed all along! It might've been from some random package install on some previous project, but the installation part was besically instant thanks to that. I really like how easy it was to create new databases using SQLite, and how _lite_ those databases I created in the section exercises ended up being!
 
 **Link to work:** [SQL Book Scraper project](https://github.com/Insidiae/python-levelgrind/blob/master/advanced/sql_book_scraper.py)
+
+### Day 88: Thursday, December 2nd, 2021
+
+**Today's Progress**: Finished the Python coding challenges section of The Modern Python 3 Bootcamp, **and earned the course completion certificate**.
+
+**Thoughts:** Another course completion in the bag! I really like how The Modern Python 3 bootcamp takes advantage of the Udemy coding challenge platform to give lots of hands-on exercises that test the topics we've learned in the course. The last massive section of coding challenges contained a bunch of short and sweet exercises, and it was quite fun going back to the good ol' DSA topics and apply them in Python!
+
+**Link to work:** N/A, all progress was done thru the Udemy coding exercises!

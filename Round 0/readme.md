@@ -24,7 +24,7 @@ To be honest, I'm relying on these courses this heavily for now because they alr
 5.  ✅ [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/): **100% Complete**
 6.  ✅ [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/): **100% Complete**
 7.  ✅ [The Complete Junior to Senior Web Developer Roadmap (2021)](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/): **100% Complete**
-8.  [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/): 95% Complete
+8.  ✅ [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/): **100% Complete**
 9.  [TensorFlow Developer Certificate in 2021: Zero to Mastery](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/): 19% Complete
 10. [Complete Web & Mobile Designer in 2021: UI/UX, Figma, +more](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/): 10% Complete
 11. [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/): 1% Complete
@@ -42,3 +42,4 @@ To be honest, I'm relying on these courses this heavily for now because they alr
 8. [The Web Developer Bootcamp 2021](https://www.udemy.com/certificate/UC-RU0ZW4GZ/)
 9. [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/certificate/UC-71708616-b9f7-48e1-9626-89b2fed51d5c/)
 10. [The Complete Junior to Senior Web Developer Roadmap (2021)](https://www.udemy.com/certificate/UC-e0f9a19c-a002-4810-a006-9589ddcb89f0/)
+11. [The Modern Python 3 Bootcamp](https://www.udemy.com/certificate/UC-25f3e2a3-5f26-4dbb-8dc3-9a68e4da3591/)

@@ -355,3 +355,7 @@ Finished the Web Scraping with BeautifulSoup section of The Modern Python 3 Boot
 ### R0D87
 
 Finished the Python + SQL section of The Modern Python 3 Bootcamp.
+
+### R0D88
+
+Finished the Python coding challenges section of The Modern Python 3 Bootcamp, **and earned the course completion certificate**.
