@@ -359,3 +359,7 @@ Finished the Python + SQL section of The Modern Python 3 Bootcamp.
 ### R0D88
 
 Finished the Python coding challenges section of The Modern Python 3 Bootcamp, **and earned the course completion certificate**.
+
+### R0D89
+
+Finished the User Flows and Sitemaps section of the ZTM Web & Mobile Designer course, and binged the bonus sections.

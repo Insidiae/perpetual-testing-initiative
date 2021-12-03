@@ -789,3 +789,11 @@ Adding in the JWT + Session code for the Smart Brain project, I was able to comp
 **Thoughts:** Another course completion in the bag! I really like how The Modern Python 3 bootcamp takes advantage of the Udemy coding challenge platform to give lots of hands-on exercises that test the topics we've learned in the course. The last massive section of coding challenges contained a bunch of short and sweet exercises, and it was quite fun going back to the good ol' DSA topics and apply them in Python!
 
 **Link to work:** N/A, all progress was done thru the Udemy coding exercises!
+
+### Day 89: Friday, December 3rd, 2021
+
+**Today's Progress**: Finished the User Flows and Sitemaps section of the ZTM Web & Mobile Designer course, and binged the bonus sections.
+
+**Thoughts:** We're so close to hitting the 100 day mark! The ZTM Web & Mobile Designer course is most likely the last course I'll be completing for this round, and I'll just save the other ones for the new round next year. It's definitely a lot more chill compared to the previous courses I've completed this round, but it's nice to learn some design fundamentals before diving deep into more advanced stuff next year 😉
+
+**Link to work:** N/A
