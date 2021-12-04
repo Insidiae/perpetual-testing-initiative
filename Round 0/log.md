@@ -797,3 +797,11 @@ Adding in the JWT + Session code for the Smart Brain project, I was able to comp
 **Thoughts:** We're so close to hitting the 100 day mark! The ZTM Web & Mobile Designer course is most likely the last course I'll be completing for this round, and I'll just save the other ones for the new round next year. It's definitely a lot more chill compared to the previous courses I've completed this round, but it's nice to learn some design fundamentals before diving deep into more advanced stuff next year 😉
 
 **Link to work:** N/A
+
+### Day 90: Saturday, December 4th, 2021
+
+**Today's Progress**: Finished the Wireframes, Prototypes, and Feedback sections of the ZTM Web & Mobile Designer course.
+
+**Thoughts:** Still have to get used to the user interface, but creating wireframes for web and mobile apps in Figma was really smooth! I can see how this workflow can be used in my next projects as an initial design step. Good stuff!
+
+**Link to work:** N/A
