@@ -25,7 +25,7 @@ To be honest, I'm relying on these courses this heavily for now because they alr
 6.  ✅ [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/): **100% Complete**
 7.  ✅ [The Complete Junior to Senior Web Developer Roadmap (2021)](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/): **100% Complete**
 8.  ✅ [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/): **100% Complete**
-9.  [Complete Web & Mobile Designer in 2021: UI/UX, Figma, +more](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/): 55% Complete
+9.  [Complete Web & Mobile Designer in 2021: UI/UX, Figma, +more](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/): 65% Complete
 10. [TensorFlow Developer Certificate in 2021: Zero to Mastery](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/): 19% Complete
 11. [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/): 1% Complete
 12. [Online Japanese N5 Kanji Character Course（All 9 lessons)](https://www.udemy.com/course/online-japanese-kanji-character-course/): 20% Complete

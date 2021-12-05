@@ -805,3 +805,11 @@ Adding in the JWT + Session code for the Smart Brain project, I was able to comp
 **Thoughts:** Still have to get used to the user interface, but creating wireframes for web and mobile apps in Figma was really smooth! I can see how this workflow can be used in my next projects as an initial design step. Good stuff!
 
 **Link to work:** N/A
+
+### Day 91: Sunday, December 5th, 2021
+
+**Today's Progress**: Finished the Spacing and the Grid, Typography, and Color sections of the ZTM Web & Mobile Designer course.
+
+**Thoughts:** I still find it somewhat tough to apply these sections' concepts into a concrete example, but I occasionally think of small glimpses for how I can choose fonts and create a color scheme for my projects, with the help of the tools I'm familiar with plus some bits of CSS knowledge here and there. I figure these concepts are going to click much more when I get to a part where I can translate these Figma designs into actual websites/applications.
+
+**Link to work:** N/A
