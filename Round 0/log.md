@@ -813,3 +813,11 @@ Adding in the JWT + Session code for the Smart Brain project, I was able to comp
 **Thoughts:** I still find it somewhat tough to apply these sections' concepts into a concrete example, but I occasionally think of small glimpses for how I can choose fonts and create a color scheme for my projects, with the help of the tools I'm familiar with plus some bits of CSS knowledge here and there. I figure these concepts are going to click much more when I get to a part where I can translate these Figma designs into actual websites/applications.
 
 **Link to work:** N/A
+
+### Day 92: Monday, December 6th, 2021
+
+**Today's Progress**: Finished the Forms + UI Elements section of the ZTM Web & Mobile Designer course.
+
+**Thoughts:** I really like how Figma lets us create composable components and tweak each instance as needed. It truly feels like a very productive way to prototype my apps, starting from the smallest components to the full pages and screens!
+
+**Link to work:** N/A

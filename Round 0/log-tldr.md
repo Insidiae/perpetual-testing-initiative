@@ -371,3 +371,7 @@ Finished the Wireframes, Prototypes, and Feedback sections of the ZTM Web & Mobi
 ### R0D91
 
 Finished the Spacing and the Grid, Typography, and Color sections of the ZTM Web & Mobile Designer course.
+
+### R0D92
+
+Finished the Forms + UI Elements section of the ZTM Web & Mobile Designer course.
