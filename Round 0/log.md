@@ -821,3 +821,11 @@ Adding in the JWT + Session code for the Smart Brain project, I was able to comp
 **Thoughts:** I really like how Figma lets us create composable components and tweak each instance as needed. It truly feels like a very productive way to prototype my apps, starting from the smallest components to the full pages and screens!
 
 **Link to work:** N/A
+
+### Day 93: Tuesday, December 7th, 2021
+
+**Today's Progress**: Finished the Visual Assets and Accessibility sections of the ZTM Web & Mobile Designer course.
+
+**Thoughts:** Got a few more Figma tricks up my sleeve. Using the right plugins can really speed up my design workflow, plus I can also do some pretty cool stuff with the pre-made assets given by some of these plugins as well. Pretty cool stuff!
+
+**Link to work:** N/A

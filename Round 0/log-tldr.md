@@ -375,3 +375,7 @@ Finished the Spacing and the Grid, Typography, and Color sections of the ZTM Web
 ### R0D92
 
 Finished the Forms + UI Elements section of the ZTM Web & Mobile Designer course.
+
+### R0D93
+
+Finished the Visual Assets and Accessibility sections of the ZTM Web & Mobile Designer course.
