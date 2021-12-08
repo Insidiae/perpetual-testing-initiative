@@ -829,3 +829,11 @@ Adding in the JWT + Session code for the Smart Brain project, I was able to comp
 **Thoughts:** Got a few more Figma tricks up my sleeve. Using the right plugins can really speed up my design workflow, plus I can also do some pretty cool stuff with the pre-made assets given by some of these plugins as well. Pretty cool stuff!
 
 **Link to work:** N/A
+
+### Day 94: Wednesday, December 8th, 2021
+
+**Today's Progress**: Finished the Design Patterns, Mobile Design, and Visual Style + Exploration sections of the ZTM Web & Mobile Designer course.
+
+**Thoughts:** The designs are starting to come together! It's really exciting to see all the topics discussed in the previous sections start working together to produce a wonderful initial design. There's most likely going to be further iterations that this design will go, but even this first one already looks so good, and it was really quick and easy to make with Figma!
+
+**Link to work:** N/A
