@@ -837,3 +837,11 @@ Adding in the JWT + Session code for the Smart Brain project, I was able to comp
 **Thoughts:** The designs are starting to come together! It's really exciting to see all the topics discussed in the previous sections start working together to produce a wonderful initial design. There's most likely going to be further iterations that this design will go, but even this first one already looks so good, and it was really quick and easy to make with Figma!
 
 **Link to work:** N/A
+
+### Day 95: Thursday, December 9th, 2021
+
+**Today's Progress**: Finished the Motion and Microinteractions sections of the ZTM Web & Mobile Designer course.
+
+**Thoughts:** I still have my reservations about putting loads of animations into my projects, but it's really nice to see the course actually address the issue and providing tips on how to use minimal but meaningful animations into our projects. That aside, Figma streamlines adding transitions and animations and testing which ones work well, especially with the Figmotion plugin. Now I just have to get the CSS chops to actually implement those animations into my code, and I can see my next projects being so much better!
+
+**Link to work:** N/A

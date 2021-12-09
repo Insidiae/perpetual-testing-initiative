@@ -383,3 +383,7 @@ Finished the Visual Assets and Accessibility sections of the ZTM Web & Mobile De
 ### R0D94
 
 Finished the Design Patterns, Mobile Design, and Visual Style + Exploration sections of the ZTM Web & Mobile Designer course.
+
+### R0D95
+
+Finished the Motion and Microinteractions sections of the ZTM Web & Mobile Designer course.
