@@ -387,3 +387,7 @@ Finished the Design Patterns, Mobile Design, and Visual Style + Exploration sect
 ### R0D95
 
 Finished the Motion and Microinteractions sections of the ZTM Web & Mobile Designer course.
+
+### R0D96
+
+Finished the Design Systems section of the ZTM Web & Mobile Designer course.

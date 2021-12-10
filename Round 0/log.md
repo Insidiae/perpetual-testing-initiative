@@ -845,3 +845,11 @@ Adding in the JWT + Session code for the Smart Brain project, I was able to comp
 **Thoughts:** I still have my reservations about putting loads of animations into my projects, but it's really nice to see the course actually address the issue and providing tips on how to use minimal but meaningful animations into our projects. That aside, Figma streamlines adding transitions and animations and testing which ones work well, especially with the Figmotion plugin. Now I just have to get the CSS chops to actually implement those animations into my code, and I can see my next projects being so much better!
 
 **Link to work:** N/A
+
+### Day 96: Friday, December 10th, 2021
+
+**Today's Progress**: Finished the Design Systems section of the ZTM Web & Mobile Designer course.
+
+**Thoughts:** Now these sections are starting to feel more relatable to how I do projects. At first the sheer amount of styles/elements/components we have to make for our design system does feel overwhelming, but having all these reusable styles/elements/components would greatly streamline how we structure our projects later. Throw in a little bit of component-driven design, maybe use some well-defined pre-made styles, and we got ourselves a great headstart for our project designs!
+
+**Link to work:** N/A
