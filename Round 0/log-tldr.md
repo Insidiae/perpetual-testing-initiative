@@ -391,3 +391,7 @@ Finished the Motion and Microinteractions sections of the ZTM Web & Mobile Desig
 ### R0D96
 
 Finished the Design Systems section of the ZTM Web & Mobile Designer course.
+
+### R0D97
+
+Finished the Final Compositions section of the ZTM Web & Mobile Designer course.

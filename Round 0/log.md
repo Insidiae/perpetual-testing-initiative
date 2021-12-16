@@ -853,3 +853,11 @@ Adding in the JWT + Session code for the Smart Brain project, I was able to comp
 **Thoughts:** Now these sections are starting to feel more relatable to how I do projects. At first the sheer amount of styles/elements/components we have to make for our design system does feel overwhelming, but having all these reusable styles/elements/components would greatly streamline how we structure our projects later. Throw in a little bit of component-driven design, maybe use some well-defined pre-made styles, and we got ourselves a great headstart for our project designs!
 
 **Link to work:** N/A
+
+### Day 97: Thursday, December 16th, 2021
+
+**Today's Progress**: Finished the Final Compositions section of the ZTM Web & Mobile Designer course.
+
+**Thoughts:** That's pretty much it for the main content of the ZTM Web & Mobile Designer course! While there may be some things that I haven't related to that much (especially since I'm a beginner at using Figma), but with these last sections I started to see just how powerful of a tool Figma can be for rapidly creating web and mobile designs, and what's even cooler is that we can use the same principles of Component-driven design in Figma to create high fidelity, reusable components and put the pieces together into a well-structured design system that can really speed things up for prototyping my next web/mobile projects.
+
+**Link to work:** N/A
