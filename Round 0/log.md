@@ -861,3 +861,11 @@ Adding in the JWT + Session code for the Smart Brain project, I was able to comp
 **Thoughts:** That's pretty much it for the main content of the ZTM Web & Mobile Designer course! While there may be some things that I haven't related to that much (especially since I'm a beginner at using Figma), but with these last sections I started to see just how powerful of a tool Figma can be for rapidly creating web and mobile designs, and what's even cooler is that we can use the same principles of Component-driven design in Figma to create high fidelity, reusable components and put the pieces together into a well-structured design system that can really speed things up for prototyping my next web/mobile projects.
 
 **Link to work:** N/A
+
+### Day 98: Friday, December 17th, 2021
+
+**Today's Progress**: Finished the Working with a Client Revisited section of the ZTM Web & Mobile Designer course.
+
+**Thoughts:** This section was a nice throwback to some of the lean startup seminars I attended in my past gig, creating user stories to full on customer journey maps and just brainstorming the goals and target users of the product we're trying to build. I think this section's topic would really be a lot more useful when I work with a team.
+
+**Link to work:** N/A
