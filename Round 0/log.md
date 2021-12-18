@@ -869,3 +869,13 @@ Adding in the JWT + Session code for the Smart Brain project, I was able to comp
 **Thoughts:** This section was a nice throwback to some of the lean startup seminars I attended in my past gig, creating user stories to full on customer journey maps and just brainstorming the goals and target users of the product we're trying to build. I think this section's topic would really be a lot more useful when I work with a team.
 
 **Link to work:** N/A
+
+### Day 99: Saturday, December 18th, 2021
+
+**Today's Progress**: Finished the From Figma to Website section of the ZTM Web & Mobile Designer course.
+
+**Thoughts:** While it was absolutely convenient to export image assets from Figma and essentially just copy-paste the generated CSS code, I'm still a bit iffy about setting fixed sizes and setting `position: absolute` on pretty much everything. I'm thinking we could maybe add responsive styles if we were provided assets for smaller screen sizes, but I figure that would probably be just as much work as just implementing the responsive styles ourselves though CSS. Regardless, this section shows how Figma can make things easier for designers working with developers. Really excited to dive deeper on this once I start building my own projects!
+
+And with that, we're pretty much done for this round's #100DaysOfCode challenge. All that's left to do is to clean up a few loose ends and we can close up this round!
+
+**Link to work:** [Splash Page demo](https://github.com/Insidiae/ztm-js20/tree/main/18-splash-page)
