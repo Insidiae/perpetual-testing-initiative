@@ -879,3 +879,25 @@ Adding in the JWT + Session code for the Smart Brain project, I was able to comp
 And with that, we're pretty much done for this round's #100DaysOfCode challenge. All that's left to do is to clean up a few loose ends and we can close up this round!
 
 **Link to work:** [Splash Page demo](https://github.com/Insidiae/ztm-js20/tree/main/18-splash-page)
+
+### Day 100: Friday, December 24th, 2021
+
+**Today's Progress**: Completed the ZTM Web & Mobile Designer course and the N5 Kanji Course, **and earned the course completion certificates**
+
+**Thoughts:** Finally completed the last two corses I wanted to complete in this round. What a journey it has been! Completing 10 online courses (plus some extra ones that I didn't count as progress for this round) from start to finish was certainly no small task, and I'm really happy with my overall progress for these 100 days.
+
+Let's take a look back at our progess back in Day 0 and compare it to our progress now:
+
+**Before**
+
+![Day 0 Progress](./img/initial-progress.png)
+
+**After**
+
+![Day 100 Progress](img/final-progress.png)
+
+I wasn't able to make much progress on the ZTM Tensorflow course and the 100 Days of Python course, but given the limited amount of days I had for this round I'm still extremely happy with the other courses I completed. I might just take on these two courses next round.
+
+All in all, this round was quite fun. I can definitely see my skills having improved from taking on a decent variety of courses within these 100 days. I plan to continue this momentum for the next round, but I figure it's time for me to take a small break for the holidays as I work out some improvements I'm thinking of for the next round. Stay tuned!
+
+**Link to work:** N/A

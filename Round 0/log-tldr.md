@@ -403,3 +403,7 @@ Finished the Working with a Client Revisited section of the ZTM Web & Mobile Des
 ### R0D99
 
 Finished the From Figma to Website section of the ZTM Web & Mobile Designer course.
+
+### R0D100
+
+Completed the ZTM Web & Mobile Designer course and the N5 Kanji Course, **and earned the course completion certificates**.
