@@ -1,26 +1,41 @@
 # Curriculum
 
-(...TODO)
+## Objectives
+
+This round is an improvement of sorts refining the ideas from the previous round I completed last year, improving the parts I really liked about last round, and developing a streamlined curriculum of online courses mostly about various topics I'm curious about (hence "Mad Science"), and other topics that reinforce the skills relevant to my career.
+
+My main task for this round remains the same: Complete as many of these courses as I can, making steady progress each day for the next 100 days. This includes, but is not limited to:
+
+- Getting the _100% Complete_ status on the course, and thus acquiring the Certificate of Completion
+- Completing the course projects
 
 ## Why Online Courses?
 
-[I've done quite a few online courses last year](../Round%200/readme.md), and it tuned out to be something I very much enjoy. (...TODO)
+Honestly? Because it's fun! [I've done quite a few online courses last year](../Round%200/readme.md), and it tuned out to be something I very much enjoy. As such, I want to take the parts I liked about last round, refine these ideas into a curriculum of online courses, and pretty much just continue doing what I love and make lots of progress this year!
 
-For this round, I've chosen exercise-heavy courses for topics I don't know much about (or want to take a deeper dive in). To help myself come up with project ideas, something that I admittedly lack the skill (or creativity?) to do, I've also picked a bunch of project-based courses with some interesting and comprehensive projects that I can tweak to my liking as I learn more throughout this round. In the rare occasion that I actually come up with a project idea as I go through this round, I'll also make sure to add those to the Main Curriculum section below.
+For this round, I've chosen exercise-driven courses for topics I don't know much about (or want to take a deeper dive in). To help myself come up with project ideas, something that I admittedly lack the skill (or creativity?) to do, I've also picked a bunch of project-based courses with some interesting and comprehensive projects that I can tweak to my liking as I learn more throughout this round. In the rare occasion that I actually come up with a project idea as I go through this round, I'll also make sure to add those to the Main Curriculum section below.
 
 ## Main Curriculum
 
 ### 1. [Epic React](https://epicreact.dev/)
 
-More details soon
+Starting the year off strong with this course! I'm really excited about the workshop format of this course, which is unlike any other video-based course I've seen so far.
+
+Epic React also has a Typescript-based `next` branch for most of its workshops, and I do plan on checking those out and learn Typescript as I go along with the course.
 
 #### Supplemental Resources
 
 - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
 
+#### 💯 Extra Credit
+
+- [freeCodeCamp - Front End Development Libraries Projects](https://www.freecodecamp.org/learn/front-end-development-libraries/#front-end-development-libraries-projects)
+  - Build a Markdown Previewer
+  - Build a Drum Machine
+
 ### 2. [CSS for Javascript Developers](https://css-for-js.dev/)
 
-More details soon
+This is another course with a somewhat different format to what I'm used to with Udemy courses. Combined with a solid course content, I have high hopes that this course will help me get even better with CSS!
 
 #### Supplemental Resources
 
@@ -28,17 +43,27 @@ More details soon
 - [ZTM Academy Workshop: Designer to Developer Handoff ➡ Design File to Code](https://zerotomastery.io/workshops-and-more/)
 - [The Ultimate JavaScript Animation Course](https://developedbyed.com/p/the-ultimate-javascript-animation-course)
 
+#### 💯 Extra Credit
+
+- [freeCodeCamp: Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects)
+  - Build a Technical Documentation Page
+  - Build a Personal Portfolio Page
+
 ### 3. [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
 
-More details soon
+After I finished the D3 section of [The Advanced Web Developer Bootcamp](https://www.udemy.com/course/the-advanced-web-developer-bootcamp) last year, I've always been intrigued by data visualization with D3. With this course, I hope to satisfy that curiosity about D3 and build some beautiful data visualization projects. Bonus points if I can combine React with D3 to make the visualizations interactive as well!
 
 #### Supplemental Resources
 
 - [freeCodeCamp - Data Visualization Certification Projects](https://www.freecodecamp.org/learn/data-visualization/)
 
+#### 💯 Extra Credit
+
+- Redo projects using React + D3
+
 ### 4. Major Project - TBA
 
-More details soon
+More details soon, but I've got some plans cooking up...
 
 #### Supplemental Resources
 
@@ -46,12 +71,7 @@ More details soon
 
 ## Specializations
 
-### JS Framework Face-Off
-
-- [Modern React with Redux](https://www.udemy.com/course/react-redux/) (specifically, just the Redux part of the course)
-- [Complete Vue Developer in 2022 (w/ Vuex, Composition API, Router)](https://academy.zerotomastery.io/p/learn-vue-js)
-- [Complete Angular Developer in 2022: Zero to Mastery](https://academy.zerotomastery.io/p/learn-angular)
-- Svelte Course TBA?
+The specializations listed below are some options I'm thinking of doing as I make progress with this round. After I finish doing the first part of the Main Curriculum, I'll be picking one of these options and add it into the Main Curriculum as my next step.
 
 ### IoT Starter Kit
 
@@ -78,9 +98,20 @@ feat. Rust
 5. [Rust Programming: The Complete Developer's Guide](https://academy.zerotomastery.io/p/learn-rust)
    - See also: [WebAssembly: A Practical Guide](https://academy.zerotomastery.io/p/learn-webassembly)
 6. [Microservices with Node JS and React](https://www.udemy.com/course/microservices-with-node-js-and-react/)
-7. Project TBA
+7. [freeCodeCamp - Back End Development and APIs Projects](https://www.freecodecamp.org/learn/back-end-development-and-apis/#back-end-development-and-apis-projects)
 
 ## Electives
+
+Going with my "Mad Science" theme for this round, I've written down a list of some things I want to learn purely out of curiosity.
+
+These are paths where I might take a more casual approach than usual, or who knows, my initial curiosity might evolve into some well-developed ideas and turn these electives into a full part of this round's Main Curriculum.
+
+### Curiosity: JS Framework Face-Off
+
+- [Modern React with Redux](https://www.udemy.com/course/react-redux/) (specifically, just the Redux part of the course)
+- [Complete Vue Developer in 2022 (w/ Vuex, Composition API, Router)](https://academy.zerotomastery.io/p/learn-vue-js)
+- [Complete Angular Developer in 2022: Zero to Mastery](https://academy.zerotomastery.io/p/learn-angular)
+- Svelte Course TBA?
 
 ### Curiosity: Creative Coding
 
@@ -110,6 +141,8 @@ feat. Rust
 7. [Online Japanese N1 Course](https://www.udemy.com/course/japanese-n1-course/)
 
 ## Misc. Project Grab Bag
+
+This is a list of some of my project-based online course backlogs. I'll be using some of these projects, though I'll most likely be tweaking them for my own purposes as I do the Main Curriculum courses.
 
 - [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 - [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) - Forkify App Project
