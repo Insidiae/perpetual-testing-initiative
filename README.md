@@ -4,7 +4,7 @@ A collection of my attempts on the 100 Days of Code Challenge, with some fun(?) 
 
 ## Main Commitment
 
-### _Make progress every day, and try to keep that progress well-documented._
+### _Create a compendium of knowledge, containing an easily accessible reference documenting the things I learn every step of the way._
 
 ## Current Status:
 
