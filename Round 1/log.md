@@ -23,3 +23,11 @@
 **Thoughts:** This is only the 2nd module of the course, yet it already covers about 90% of what I know about React 😅 Looking forward to learning so much more in the following workshops!
 
 **Link to work:** [Epic React Checkpoints - React Hooks](https://github.com/Insidiae/epic-react-checkpoints/tree/main/02-react-hooks)
+
+### Day 4: Friday, February 4th, 2022
+
+**Today's Progress**: Finished the `next` branch exercises in Epic React's React Hooks workshop.
+
+**Thoughts:** Got a bit more practice in TypeScript by converting the exercises from JS to TS. Still need to get more practice to apply the correct types on stuff
+
+**Link to work:** [Epic React Checkpoints - React Hooks](https://github.com/Insidiae/epic-react-checkpoints/tree/main/02-react-hooks)

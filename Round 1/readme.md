@@ -10,7 +10,7 @@ You can check my progress logs for this round [here](log.md). You may also check
 
 1. ▶️ [Epic React](https://epicreact.dev/)
    1. ✅ React Fundamentals
-   2. ▶️ React Hooks
+   2. ✅ React Hooks
 2. [CSS for Javascript Developers](https://css-for-js.dev/)
 3. [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
 
