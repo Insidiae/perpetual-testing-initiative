@@ -39,3 +39,11 @@
 **Thoughts:** Learned some more situational React Hooks, and got more practice writing reusable custom hooks. We also implemented this amazing [useAsync hook](https://usehooks.com/useAsync/) from scratch!
 
 **Link to work:** [Epic React Checkpoints - Advanced React Hooks](https://github.com/Insidiae/epic-react-checkpoints/tree/main/03-advanced-react-hooks)
+
+### Day 6: Sunday, February 6th, 2022
+
+**Today's Progress**: Finished the `next` branch exercises in Epic React's Advanced React Hooks workshop.
+
+**Thoughts:** Converting my exercise solutions to TypeScript is fun and all, but I think I'd like to learn more about TypeScript first before getting to the good parts of the Epic React course.
+
+**Link to work:** [Epic React Checkpoints - Advanced React Hooks](https://github.com/Insidiae/epic-react-checkpoints/tree/main/03-advanced-react-hooks)
