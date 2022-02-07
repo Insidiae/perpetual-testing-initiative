@@ -47,3 +47,11 @@
 **Thoughts:** Converting my exercise solutions to TypeScript is fun and all, but I think I'd like to learn more about TypeScript first before getting to the good parts of the Epic React course.
 
 **Link to work:** [Epic React Checkpoints - Advanced React Hooks](https://github.com/Insidiae/epic-react-checkpoints/tree/main/03-advanced-react-hooks)
+
+### Day 7: Monday, February 7th, 2022
+
+**Today's Progress**: Finished the Design Patterns sections of Typescript: The Complete Developer's Guide.
+
+**Thoughts:** Refreshed my current knowledge of TypeScript today. I'm loving how well TypeScript integrates with VSCode, providing static analysis and autocomplete that makes writing code a lot easier and faster too!
+
+**Link to work:** [Course progress repo - TypeScript Levelgrind](https://github.com/Insidiae/typescript-levelgrind)

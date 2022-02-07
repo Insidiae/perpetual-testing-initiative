@@ -4,7 +4,7 @@ You can check my progress logs for this round [here](log.md). You may also check
 
 ## ▶️ Now Playing: [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
 
-Course progress repo TBA
+[Course progress repo](https://github.com/Insidiae/typescript-levelgrind)
 
 ⏸️ [Epic React](https://epicreact.dev/)
 
