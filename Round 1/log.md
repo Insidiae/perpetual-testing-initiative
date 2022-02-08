@@ -55,3 +55,11 @@
 **Thoughts:** Refreshed my current knowledge of TypeScript today. I'm loving how well TypeScript integrates with VSCode, providing static analysis and autocomplete that makes writing code a lot easier and faster too!
 
 **Link to work:** [Course progress repo - TypeScript Levelgrind](https://github.com/Insidiae/typescript-levelgrind)
+
+### Day 8: Tuesday, February 8th, 2022
+
+**Today's Progress**: Finished the Reusable Code section of Typescript: The Complete Developer's Guide.
+
+**Thoughts:** Having prior experience with C# definitely helps me make sense of most of TypeScript's features covered in the course. Learning the same topics now feels even more valuable because I can actually see where to apply them in real-world projects.
+
+**Link to work:** [TypeScript Levelgrind](https://github.com/Insidiae/typescript-levelgrind)
