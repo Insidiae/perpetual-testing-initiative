@@ -63,3 +63,11 @@
 **Thoughts:** Having prior experience with C# definitely helps me make sense of most of TypeScript's features covered in the course. Learning the same topics now feels even more valuable because I can actually see where to apply them in real-world projects.
 
 **Link to work:** [TypeScript Levelgrind](https://github.com/Insidiae/typescript-levelgrind)
+
+### Day 9: Tuesday, February 9th, 2022
+
+**Today's Progress**: Started the Build a Web Framework section of Typescript: The Complete Developer's Guide.
+
+**Thoughts:** The major project is a pretty large section of the course, so I just did the first half today and set up the boilerplate for the project. Finishing this up tomorrow!
+
+**Link to work:** [TypeScript Web Framework Project (WIP)](https://github.com/Insidiae/typescript-levelgrind/tree/web-framework/web)
