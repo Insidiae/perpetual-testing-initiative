@@ -64,10 +64,18 @@
 
 **Link to work:** [TypeScript Levelgrind](https://github.com/Insidiae/typescript-levelgrind)
 
-### Day 9: Tuesday, February 9th, 2022
+### Day 9: Wednesday, February 9th, 2022
 
 **Today's Progress**: Started the Build a Web Framework section of Typescript: The Complete Developer's Guide.
 
 **Thoughts:** The major project is a pretty large section of the course, so I just did the first half today and set up the boilerplate for the project. Finishing this up tomorrow!
 
 **Link to work:** [TypeScript Web Framework Project (WIP)](https://github.com/Insidiae/typescript-levelgrind/tree/web-framework/web)
+
+### Day 10: Thursday, February 10th, 2022
+
+**Today's Progress**: Finished the Build a Web Framework section of Typescript: The Complete Developer's Guide.
+
+**Thoughts:** Implementing the basic components needed to build a simple web application using TypeScript in this course project provides some valuable insight into how (relatively old) web frameworks work. I'm actually pretty certain I could build the usual Todo List project using this web framework we just made in the course. Pretty good stuff!
+
+**Link to work:** [TypeScript Levelgrind](https://github.com/Insidiae/typescript-levelgrind)
