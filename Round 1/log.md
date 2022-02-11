@@ -79,3 +79,11 @@
 **Thoughts:** Implementing the basic components needed to build a simple web application using TypeScript in this course project provides some valuable insight into how (relatively old) web frameworks work. I'm actually pretty certain I could build the usual Todo List project using this web framework we just made in the course. Pretty good stuff!
 
 **Link to work:** [TypeScript Levelgrind](https://github.com/Insidiae/typescript-levelgrind)
+
+### Day 11: Friday, February 11th, 2022
+
+**Today's Progress**: Finished the Express + TypeScript integration section of Typescript: The Complete Developer's Guide.
+
+**Thoughts:** Turns out this was just the first half of two sections dealing with integrating Express with TypeScript, focusing mostly on setting up a barebones Express server that we'll fully integrate with modern TypeScript features in the next section. Finishing this up tomorrow then!
+
+**Link to work:** [Express + TypeScript section project (WIP)](https://github.com/Insidiae/typescript-levelgrind/tree/express-typescript/server)
