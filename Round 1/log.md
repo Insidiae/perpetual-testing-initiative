@@ -87,3 +87,11 @@
 **Thoughts:** Turns out this was just the first half of two sections dealing with integrating Express with TypeScript, focusing mostly on setting up a barebones Express server that we'll fully integrate with modern TypeScript features in the next section. Finishing this up tomorrow then!
 
 **Link to work:** [Express + TypeScript section project (WIP)](https://github.com/Insidiae/typescript-levelgrind/tree/express-typescript/server)
+
+### Day 12: Saturday, February 12th, 2022
+
+**Today's Progress**: Finished the Advanced Express + TypeScript integration section of Typescript: The Complete Developer's Guide.
+
+**Thoughts:** Huh, using TypeScript decorators cleaned up our Express code from yesterday pretty well! I dig the class-based format making the route handler code somewhat easier to read through and parse which methods/middlewares/validators go in each route.
+
+**Link to work:** [Express + TypeScript section project (Done!)](https://github.com/Insidiae/typescript-levelgrind/tree/main/server)
