@@ -95,3 +95,13 @@
 **Thoughts:** Huh, using TypeScript decorators cleaned up our Express code from yesterday pretty well! I dig the class-based format making the route handler code somewhat easier to read through and parse which methods/middlewares/validators go in each route.
 
 **Link to work:** [Express + TypeScript section project (Done!)](https://github.com/Insidiae/typescript-levelgrind/tree/main/server)
+
+### Day 13: Sunday, February 13th, 2022
+
+**Today's Progress**: Finished the React and Redux with Typescript section of Typescript: The Complete Developer's Guide, **and earned the course completion certificate.**.
+
+**Thoughts:** Aaannd we've finally gone full circle! I finally got to know how to properly integrate TypeScript with my React projects, and getting a bit more experience refactoring the section project with modern Redux (using Redux Toolkit) is really awesome!
+
+Alright, that concludes my TypeScript Levelgrind. Now we shall get back to working on the Epic React course!
+
+**Link to work:** [Todo List, powered by React and Redux with TypeScript (feat. Vite and Redux Toolkit)](https://github.com/Insidiae/typescript-levelgrind/tree/main/rrts)

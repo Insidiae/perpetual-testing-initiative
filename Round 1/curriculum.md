@@ -25,7 +25,7 @@ Epic React also has a Typescript-based `next` branch for most of its workshops, 
 
 #### Supplemental Resources
 
-- [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
+- ✅ [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
 
 #### 💯 Extra Credit
 
