@@ -105,3 +105,11 @@
 Alright, that concludes my TypeScript Levelgrind. Now we shall get back to working on the Epic React course!
 
 **Link to work:** [Todo List, powered by React and Redux with TypeScript (feat. Vite and Redux Toolkit)](https://github.com/Insidiae/typescript-levelgrind/tree/main/rrts)
+
+### Day 14: Monday, February 14th, 2022
+
+**Today's Progress**: Finished Epic React's Advanced React Patterns workshop.
+
+**Thoughts:** Alright, time to jump right back into these Epic React workshops! And right into the good parts as well - Today's workshop is exactly what it says on the tin, I'm adding these React patterns to my personal toolkit so I can apply them to my projects later!
+
+**Link to work:** [Epic React Checkpoints - Advanced React Patterns](https://github.com/Insidiae/epic-react-checkpoints/tree/main/04-advanced-react-patterns)
