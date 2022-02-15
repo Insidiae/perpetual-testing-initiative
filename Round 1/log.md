@@ -113,3 +113,11 @@ Alright, that concludes my TypeScript Levelgrind. Now we shall get back to worki
 **Thoughts:** Alright, time to jump right back into these Epic React workshops! And right into the good parts as well - Today's workshop is exactly what it says on the tin, I'm adding these React patterns to my personal toolkit so I can apply them to my projects later!
 
 **Link to work:** [Epic React Checkpoints - Advanced React Patterns](https://github.com/Insidiae/epic-react-checkpoints/tree/main/04-advanced-react-patterns)
+
+### Day 15: Tuesday, February 15th, 2022
+
+**Today's Progress**: Finished the `next` branch exercises in Epic React's Advanced React Patterns workshop.
+
+**Thoughts:** The `next` branch exersises went a lot more smoothly this time thanks to my time spent learning TypeScript! Also thanks to TypeScript, some of the exercises became simpler because we don't need to bother with manual type checking anymore!
+
+**Link to work:** [Epic React Checkpoints - Advanced React Patterns](https://github.com/Insidiae/epic-react-checkpoints/tree/main/04-advanced-react-patterns)
