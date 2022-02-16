@@ -13,6 +13,7 @@ You can check my progress logs for this round [here](log.md). You may also check
    2. ✅ React Hooks 🎣
    3. ✅ Advanced React Hooks 🔥
    4. ✅ Advanced React Patterns 🤯
+   5. ✅ React Performance ⚡
 2. ✅ [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
 3. [CSS for Javascript Developers](https://css-for-js.dev/)
 4. [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)

@@ -121,3 +121,11 @@ Alright, that concludes my TypeScript Levelgrind. Now we shall get back to worki
 **Thoughts:** The `next` branch exersises went a lot more smoothly this time thanks to my time spent learning TypeScript! Also thanks to TypeScript, some of the exercises became simpler because we don't need to bother with manual type checking anymore!
 
 **Link to work:** [Epic React Checkpoints - Advanced React Patterns](https://github.com/Insidiae/epic-react-checkpoints/tree/main/04-advanced-react-patterns)
+
+### Day 16: Wednesday, February 16th, 2022
+
+**Today's Progress**: Finished Epic React's React Performance workshop.
+
+**Thoughts:** The React Performance workshop was a lot of material to go through, but boy did I learn a lot today! From tiny gotchas I didn't even notice when writing my usual React code, to really useful optimization tricks to add to my toolbelt, this workshop has it all 🔥
+
+**Link to work:** [Epic React Checkpoints - React Performance](https://github.com/Insidiae/epic-react-checkpoints/blob/main/05-react-performance)
