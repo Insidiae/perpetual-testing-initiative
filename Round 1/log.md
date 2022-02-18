@@ -137,3 +137,13 @@ Alright, that concludes my TypeScript Levelgrind. Now we shall get back to worki
 **Thoughts:** The entire time I'm working through this workshop, I'm always blown away by how much simpler the tests are than what I expected. I love how React Testing Library and MSW make testing React applications super intuitive and easy to understand even for total beginners like me!
 
 **Link to work:** [Epic React Checkpoints - Testing React Apps](https://github.com/Insidiae/epic-react-checkpoints/tree/main/06-testing-react-apps)
+
+### Day 18: Friday, February 18th, 2022
+
+**Today's Progress**: Finished Epic React's Testing React Apps workshop.
+
+**Thoughts:** Today went a LOT smoother than expected! Funny how most of what I had to do for the next branch exercises was pretty much "lmao just copy paste everything then upgrade your code to TypeScript" 🔥
+
+This also goes to show exactly why using modern libraries is great - most of them have great type defs built in so the upgrade process is pretty minimal 👌
+
+**Link to work:** [Epic React Checkpoints - Testing React Apps](https://github.com/Insidiae/epic-react-checkpoints/tree/main/06-testing-react-apps)
