@@ -147,3 +147,11 @@ Alright, that concludes my TypeScript Levelgrind. Now we shall get back to worki
 This also goes to show exactly why using modern libraries is great - most of them have great type defs built in so the upgrade process is pretty minimal 👌
 
 **Link to work:** [Epic React Checkpoints - Testing React Apps](https://github.com/Insidiae/epic-react-checkpoints/tree/main/06-testing-react-apps)
+
+### Day 19: Saturday, February 19th, 2022
+
+**Today's Progress**: Finished Epic React's React Suspense workshop.
+
+**Thoughts:** This workshop was a fun glimpse into what's in store for React as we check out the experimental features of React Suspense API. Really fun stuff dealing with "Render-as-you-fetch", super excited to see how this evolves in future versions of React!
+
+**Link to work:** [Epic React Checkpoints - React Suspense](https://github.com/Insidiae/epic-react-checkpoints/tree/main/07-react-suspense)
