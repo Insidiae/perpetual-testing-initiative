@@ -30,7 +30,7 @@ Epic React also has a Typescript-based `next` branch for most of its workshops, 
 #### 💯 Extra Credit
 
 - [freeCodeCamp - Front End Development Libraries Projects](https://www.freecodecamp.org/learn/front-end-development-libraries/#front-end-development-libraries-projects)
-  - Build a Markdown Previewer
+  - ✅ [Build a Markdown Previewer](https://insidiae.github.io/markdown/markdown.html)
   - Build a Drum Machine
 
 ### 2. [CSS for Javascript Developers](https://css-for-js.dev/)

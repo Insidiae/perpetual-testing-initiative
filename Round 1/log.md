@@ -155,3 +155,11 @@ This also goes to show exactly why using modern libraries is great - most of the
 **Thoughts:** This workshop was a fun glimpse into what's in store for React as we check out the experimental features of React Suspense API. Really fun stuff dealing with "Render-as-you-fetch", super excited to see how this evolves in future versions of React!
 
 **Link to work:** [Epic React Checkpoints - React Suspense](https://github.com/Insidiae/epic-react-checkpoints/tree/main/07-react-suspense)
+
+### Day 20: Sunday, February 20th, 2022
+
+**Today's Progress**: Finished freeCodeCamp's Build a Markdown Previewer project.
+
+**Thoughts:** I'm a fair bit ahead of schedule, so I'm doing some freeCodeCamp projects as an Extra Credit for this challenge. This one's just a quick n' easy project to get me going for bigger projects!
+
+**Link to work:** [freeCodeCamp - Markdown Previewer project](https://insidiae.github.io/markdown/markdown.html)
