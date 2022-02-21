@@ -25,3 +25,4 @@ More courses coming soon! See [curriculum.md](curriculum.md) for more details.
 ## 🏆 Hall of Fame
 
 1. [Typescript: The Complete Developer's Guide](https://www.udemy.com/certificate/UC-bf7e40a1-3121-4dff-a05e-8c67f586ade2/)
+2. [freeCodeCamp - Front End Development Libraries](https://www.freecodecamp.org/certification/insidiae/front-end-development-libraries)

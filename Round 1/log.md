@@ -163,3 +163,13 @@ This also goes to show exactly why using modern libraries is great - most of the
 **Thoughts:** I'm a fair bit ahead of schedule, so I'm doing some freeCodeCamp projects as an Extra Credit for this challenge. This one's just a quick n' easy project to get me going for bigger projects!
 
 **Link to work:** [freeCodeCamp - Markdown Previewer project](https://insidiae.github.io/markdown/markdown.html)
+
+### Day 21: Monday, February 21st, 2022
+
+**Today's Progress**: Finished freeCodeCamp's Build a Drum Machine project, **_and earned the Front End Development Libraries certification_**.
+
+**Thoughts:** Absolutely breezed through getting this project to work using React, to the point where I spend 3x more time making the project look presentable 😅
+
+But with this, I've completed the last project I need for this freeCodeCamp certification!
+
+**Link to work:** [freeCodeCamp - Drum Machine project](https://insidiae.github.io/drum/drum.html), [freeCodeCamp - Front End Development Libraries Certification](https://www.freecodecamp.org/certification/insidiae/front-end-development-libraries)
