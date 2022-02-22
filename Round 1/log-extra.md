@@ -1,1 +1,9 @@
 # 100 Days Of Code - Round 1 Extras
+
+### Extra Day 1: Tuesday, February 22nd, 2022
+
+**Today's Progress**: Reached Silver Level in Stackleague.
+
+**Thoughts:** I've been super excited for Stackleague's official launch today! I'm still a bit ahead of schedule for this month, so I cleared the Bronze and Silver Level challenges for now. Let's see if I can clear the Gold Level challenge tomorrow!
+
+**Link to work:** [Stackleague](https://stackleague.com)
