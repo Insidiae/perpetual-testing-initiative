@@ -173,3 +173,11 @@ This also goes to show exactly why using modern libraries is great - most of the
 But with this, I've completed the last project I need for this freeCodeCamp certification!
 
 **Link to work:** [freeCodeCamp - Drum Machine project](https://insidiae.github.io/drum/drum.html), [freeCodeCamp - Front End Development Libraries Certification](https://www.freecodecamp.org/certification/insidiae/front-end-development-libraries)
+
+### Day 22: Thursday, February 24th, 2022
+
+**Today's Progress**: Finished Part 1/4 of Epic React's Build an Epic React App workshop.
+
+**Thoughts:** I decided to follow the live workshop format and split this final workshop into four parts. It's great to finally start applying the lessons from the previous workshops in an actual, production-ready,real-world project!
+
+**Link to work:** [Epic React Checkpoints - Build an Epic React App](https://github.com/Insidiae/epic-react-checkpoints/tree/main/08-build-an-epic-react-app)

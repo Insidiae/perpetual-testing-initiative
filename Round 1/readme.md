@@ -16,6 +16,7 @@ You can check my progress logs for this round [here](log.md). You may also check
    5. ✅ React Performance ⚡
    6. ✅ Testing React Apps 🧐
    7. ✅ React Suspense 🔀
+   8. ▶️ Build an Epic React App 🚀
 2. ✅ [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
 3. [CSS for Javascript Developers](https://css-for-js.dev/)
 4. [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
