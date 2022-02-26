@@ -191,3 +191,13 @@ But with this, I've completed the last project I need for this freeCodeCamp cert
 We also used React Query in today's workshop. It's another awesome library that solves my frustrations on dealing with server-side data!
 
 **Link to work:** [Epic React Checkpoints - Build an Epic React App (Part 2)](https://github.com/Insidiae/epic-react-checkpoints/tree/main/08-build-an-epic-react-app#part-2)
+
+### Day 24: Saturday, February 26th, 2022
+
+**Today's Progress**: Finished Part 3/4 of Epic React's Build an Epic React App workshop.
+
+**Thoughts:** Didn't think I'd finish this part of the workshop today, but here we are 😁
+
+That leaves only four testing exercises to go. I'm stoked to finish this workshop (and the whole course) tomorrow, one day ahead of schedule!
+
+**Link to work:** [Epic React Checkpoints - Build an Epic React App (Part 3)](https://github.com/Insidiae/epic-react-checkpoints/tree/main/08-build-an-epic-react-app#part-3)
