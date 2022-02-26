@@ -181,3 +181,13 @@ But with this, I've completed the last project I need for this freeCodeCamp cert
 **Thoughts:** I decided to follow the live workshop format and split this final workshop into four parts. It's great to finally start applying the lessons from the previous workshops in an actual, production-ready,real-world project!
 
 **Link to work:** [Epic React Checkpoints - Build an Epic React App](https://github.com/Insidiae/epic-react-checkpoints/tree/main/08-build-an-epic-react-app)
+
+### Day 23: Friday, February 25th, 2022
+
+**Today's Progress**: Finished Part 2/4 of Epic React's Build an Epic React App workshop.
+
+**Thoughts:** It's awesome to see myself go from knowing absolutely nothing about making custom React Hooks to casually making a bunch of them just to spare myself from copypasting code across multiple files 🔥
+
+We also used React Query in today's workshop. It's another awesome library that solves my frustrations on dealing with server-side data!
+
+**Link to work:** [Epic React Checkpoints - Build an Epic React App (Part 2)](https://github.com/Insidiae/epic-react-checkpoints/tree/main/08-build-an-epic-react-app#part-2)
