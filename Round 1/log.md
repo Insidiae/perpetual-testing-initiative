@@ -201,3 +201,12 @@ We also used React Query in today's workshop. It's another awesome library that 
 That leaves only four testing exercises to go. I'm stoked to finish this workshop (and the whole course) tomorrow, one day ahead of schedule!
 
 **Link to work:** [Epic React Checkpoints - Build an Epic React App (Part 3)](https://github.com/Insidiae/epic-react-checkpoints/tree/main/08-build-an-epic-react-app#part-3)
+**Link to work:** [Epic React Checkpoints - Build an Epic React App (Part 2)](https://github.com/Insidiae/epic-react-checkpoints/tree/main/08-build-an-epic-react-app#part-2)
+
+### Day 25: Sunday, February 27th, 2022
+
+**Today's Progress**: Finished Epic React's Build an Epic React App workshop.
+
+**Thoughts:** We have liftoff! This is the first major item I've checked off my Main Curriculum for this year. I'm very proud of the amount of progress I made in this month, and I hope to continue making a lot more progress this year and beyond!
+
+**Link to work:** [Epic React Checkpoints - Build an Epic React App (Part 4)](https://github.com/Insidiae/epic-react-checkpoints/tree/main/08-build-an-epic-react-app#part-4)

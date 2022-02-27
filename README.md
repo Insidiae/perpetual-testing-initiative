@@ -8,7 +8,7 @@ A collection of my attempts on the 100 Days of Code Challenge, with some fun(?) 
 
 ## Current Status:
 
-Round 0 - Started on May 4th, 2021
+Round 1 - Started on February 1st, 2022
 
 ## Additional Rules
 
