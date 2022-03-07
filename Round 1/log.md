@@ -210,3 +210,15 @@ That leaves only four testing exercises to go. I'm stoked to finish this worksho
 **Thoughts:** We have liftoff! This is the first major item I've checked off my Main Curriculum for this year. I'm very proud of the amount of progress I made in this month, and I hope to continue making a lot more progress this year and beyond!
 
 **Link to work:** [Epic React Checkpoints - Build an Epic React App (Part 4)](https://github.com/Insidiae/epic-react-checkpoints/tree/main/08-build-an-epic-react-app#part-4)
+
+### Day 26: Monday, March 7th, 2022
+
+**Today's Progress**: Finished the Module 1 lessons in CSS for Javascript Developers.
+
+**Thoughts:** Alright, it's time for the next course on my list! The CSS for Javascript Developers course is another one with a different format than what I'm used to, but I'm really digging it so far!
+
+A quick peek at the course outline tells me that I can divvy up each module into two parts: I can binge the module lessons first and then do the workshop in a separate session. I also have quite a few supplementary resources (aka other project-based CSS courses) that I'll also be taking as I make progress though this course as an attempt to solidify my learnings in this one.
+
+Looking forward to getting even better at CSS with this course!
+
+**Link to work:** N/A, all progress was done through the course platform!
