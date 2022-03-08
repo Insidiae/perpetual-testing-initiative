@@ -222,3 +222,11 @@ A quick peek at the course outline tells me that I can divvy up each module into
 Looking forward to getting even better at CSS with this course!
 
 **Link to work:** N/A, all progress was done through the course platform!
+
+### Day 27: Tuesday, March 8th, 2022
+
+**Today's Progress**: Finished the Module 1 workshop in CSS for Javascript Developers.
+
+**Thoughts:** Not bad for my first workshop! The design tokens provided in the starter files eliminated most of the guesswork and I can pretty much eyeball my design implementation with little adjustment when comparing against the solution.
+
+**Link to work:** [Workshop 1: Huckleberry Agency Website](https://github.com/Insidiae/huckleberry)
