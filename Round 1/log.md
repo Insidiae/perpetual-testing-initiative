@@ -230,3 +230,11 @@ Looking forward to getting even better at CSS with this course!
 **Thoughts:** Not bad for my first workshop! The design tokens provided in the starter files eliminated most of the guesswork and I can pretty much eyeball my design implementation with little adjustment when comparing against the solution.
 
 **Link to work:** [Workshop 1: Huckleberry Agency Website](https://github.com/Insidiae/huckleberry)
+
+### Day 28: Wednesday, March 9th, 2022
+
+**Today's Progress**: Finished the Module 2 lessons in CSS for Javascript Developers.
+
+**Thoughts:** Pretty chill session today. The course platform's puzzle minigames are a great change of pace and is a more fun approach for demonstrating the topics presented in the course.
+
+**Link to work:** N/A, all progress was done through the course platform!
