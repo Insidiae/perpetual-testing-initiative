@@ -238,3 +238,11 @@ Looking forward to getting even better at CSS with this course!
 **Thoughts:** Pretty chill session today. The course platform's puzzle minigames are a great change of pace and is a more fun approach for demonstrating the topics presented in the course.
 
 **Link to work:** N/A, all progress was done through the course platform!
+
+### Day 29: Thursday, March 10th, 2022
+
+**Today's Progress**: Finished the Module 2 workshop in CSS for Javascript Developers.
+
+**Thoughts:** Pretty fun workshop today! I like how the exercises make us comfortable with scrollbars + fixed/absolute positioning while still writing CSS that actually make sense. Adjusting the styles for mobile screens was also a great extra challenge. Great stuff!
+
+**Link to work:** [Workshop 2: Chaaracter Creation App](https://github.com/Insidiae/character-creator)
