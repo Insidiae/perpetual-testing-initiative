@@ -246,3 +246,11 @@ Looking forward to getting even better at CSS with this course!
 **Thoughts:** Pretty fun workshop today! I like how the exercises make us comfortable with scrollbars + fixed/absolute positioning while still writing CSS that actually make sense. Adjusting the styles for mobile screens was also a great extra challenge. Great stuff!
 
 **Link to work:** [Workshop 2: Chaaracter Creation App](https://github.com/Insidiae/character-creator)
+
+### Day 30: Friday, March 11th, 2022
+
+**Today's Progress**: Finished the Module 3 lessons in CSS for Javascript Developers.
+
+**Thoughts:** Another pretty chill session today. (Re-)learned the basics of Styled Components and how its concepts apply to virtually any component-based design system.
+
+**Link to work:** N/A, all progress was done through the course platform!
