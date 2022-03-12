@@ -254,3 +254,11 @@ Looking forward to getting even better at CSS with this course!
 **Thoughts:** Another pretty chill session today. (Re-)learned the basics of Styled Components and how its concepts apply to virtually any component-based design system.
 
 **Link to work:** N/A, all progress was done through the course platform!
+
+### Day 31: Saturday, March 12th, 2022
+
+**Today's Progress**: Finished the Module 3 workshop in CSS for Javascript Developers.
+
+**Thoughts:** Having a more challenging exercise with Styled Components is already pretty cool, but the components we build in this workshop are also great! Picked up some nifty styling tricks up my sleeve for making some of these custom components in my own projects.
+
+**Link to work:** [Workshop 3: Mini Component Library](https://github.com/Insidiae/mini-component-library)
