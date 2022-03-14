@@ -39,6 +39,7 @@ This is another course with a somewhat different format to what I'm used to with
 
 #### Supplemental Resources
 
+- [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 - [UI Foundations](https://www.uifoundations.com/)
 - [ZTM Academy Workshop: Designer to Developer Handoff ➡ Design File to Code](https://zerotomastery.io/workshops-and-more/)
 - [The Ultimate JavaScript Animation Course](https://developedbyed.com/p/the-ultimate-javascript-animation-course)
@@ -144,7 +145,6 @@ These are paths where I might take a more casual approach than usual, or who kno
 
 This is a list of some of my project-based online course backlogs. I'll be using some of these projects, though I'll most likely be tweaking them for my own purposes as I do the Main Curriculum courses.
 
-- [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 - [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) - Forkify App Project
 - [Node.js, Express, MongoDB & More: The Complete Bootcamp 2022](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) - Natours Project
 - [Beginner JavaScript](https://beginnerjavascript.com/) - Practice Exercises/Projects

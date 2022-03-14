@@ -4,14 +4,17 @@ You can check my progress logs for this round [here](log.md). You may also check
 
 ## ▶️ Now Playing: [CSS for Javascript Developers](https://css-for-js.dev/)
 
-- Course progress repo TBA
+🔀 Supplementary Resource: [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+
+- [Course progress repo](https://github.com/Insidiae/jonas-html-css-course)
 
 ## 💿 [Course Playlist](curriculum.md)
 
 1. ✅ [Epic React](https://epicreact.dev/)
 2. ✅ [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
 3. ▶️ [CSS for Javascript Developers](https://css-for-js.dev/)
-4. [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
+4. ▶️ [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+5. [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
 
 More courses coming soon! See [curriculum.md](curriculum.md) for more details.
 

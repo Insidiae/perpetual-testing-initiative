@@ -262,3 +262,13 @@ Looking forward to getting even better at CSS with this course!
 **Thoughts:** Having a more challenging exercise with Styled Components is already pretty cool, but the components we build in this workshop are also great! Picked up some nifty styling tricks up my sleeve for making some of these custom components in my own projects.
 
 **Link to work:** [Workshop 3: Mini Component Library](https://github.com/Insidiae/mini-component-library)
+
+### Day 32: Monday, March 14th, 2022
+
+**Today's Progress**: Finished the Components and Layout Patterns section in Jonas Schmedtmann's HTML and CSS course.
+
+**Thoughts:** Doing Jonas' HTML+CSS course for more exercises + project fun, and also applying what I learn by building the exercises with React + Styled Components.
+
+Today's highlight is the Accordion Component, made interactive with the (Flexible) Compound Components pattern and using CSS variables to easily apply dynamic styles with Styled Components!
+
+**Link to work:** [Components and Layout Patterns Demo](https://github.com/Insidiae/jonas-html-css-course/tree/main/components-and-layout-patterns)
