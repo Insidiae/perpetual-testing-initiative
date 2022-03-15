@@ -272,3 +272,11 @@ Looking forward to getting even better at CSS with this course!
 Today's highlight is the Accordion Component, made interactive with the (Flexible) Compound Components pattern and using CSS variables to easily apply dynamic styles with Styled Components!
 
 **Link to work:** [Components and Layout Patterns Demo](https://github.com/Insidiae/jonas-html-css-course/tree/main/components-and-layout-patterns)
+
+### Day 33: Tuesday, March 15th, 2022
+
+**Today's Progress**: Finished the Module 4 lessons in CSS for Javascript Developers.
+
+**Thoughts:** Today's basically just a review of Flexbox for me, and I'm glad to say that I've still got it, baby! I did also pick up some nifty tricks from the module exercises and improved my overall understanding of Flexbox as a whole.
+
+**Link to work:** N/A, all progress was done through the course platform!
