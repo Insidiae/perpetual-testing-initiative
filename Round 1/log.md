@@ -280,3 +280,11 @@ Today's highlight is the Accordion Component, made interactive with the (Flexibl
 **Thoughts:** Today's basically just a review of Flexbox for me, and I'm glad to say that I've still got it, baby! I did also pick up some nifty tricks from the module exercises and improved my overall understanding of Flexbox as a whole.
 
 **Link to work:** N/A, all progress was done through the course platform!
+
+### Day 34: Wednesday, March 16th, 2022
+
+**Today's Progress**: Finished the Module 4 workshop in CSS for Javascript Developers.
+
+**Thoughts:** For the most part, the workshop went incredibly smoothly thanks to my previous experience with Flexbox. There were quite a few subtle design and layout tricks I picked up, and will certainly explore more on my next projects!
+
+**Link to work:** [Workshop 4: Sole&Ankle](https://github.com/Insidiae/sole-and-ankle)
