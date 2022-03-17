@@ -288,3 +288,11 @@ Today's highlight is the Accordion Component, made interactive with the (Flexibl
 **Thoughts:** For the most part, the workshop went incredibly smoothly thanks to my previous experience with Flexbox. There were quite a few subtle design and layout tricks I picked up, and will certainly explore more on my next projects!
 
 **Link to work:** [Workshop 4: Sole&Ankle](https://github.com/Insidiae/sole-and-ankle)
+
+### Day 35: Thursday, March 17th, 2022
+
+**Today's Progress**: Finished the CSS Floats and Flexbox sections in Jonas Schmedtmann's HTML and CSS course.
+
+**Thoughts:** Did another round of Flexbox exercises as an added challenge. We also got to compare some difference between the CSS Float and Flexbox layouts. As an added challenge, I also did the demo project using TypeScript this time. I really like how TypeScript checks the custom CSS Variables I set to ensure that resuable components that depend on those CSS variables work correctly!
+
+**Link to work:** [CSS Float and Flexbox Layouts Demo](https://github.com/Insidiae/jonas-html-css-course/tree/main/css-layouts)
