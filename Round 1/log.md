@@ -296,3 +296,11 @@ Today's highlight is the Accordion Component, made interactive with the (Flexibl
 **Thoughts:** Did another round of Flexbox exercises as an added challenge. We also got to compare some difference between the CSS Float and Flexbox layouts. As an added challenge, I also did the demo project using TypeScript this time. I really like how TypeScript checks the custom CSS Variables I set to ensure that resuable components that depend on those CSS variables work correctly!
 
 **Link to work:** [CSS Float and Flexbox Layouts Demo](https://github.com/Insidiae/jonas-html-css-course/tree/main/css-layouts)
+
+### Day 36: Friday, March 18th, 2022
+
+**Today's Progress**: Finished Module 5 in CSS for Javascript Developers.
+
+**Thoughts:** Had a bit more time today, so I finished the whole module in one go! It's one thing to know how to use media queries for responsive stuff, but this module also introduces fluid design systems to implement subtle-looking yet surprisingly tricky details ♥️
+
+**Link to work:** [Workshop 5: Sole&Ankle, Revisited](https://github.com/Insidiae/sole-and-ankle-revisited)
