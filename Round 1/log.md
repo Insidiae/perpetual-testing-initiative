@@ -304,3 +304,11 @@ Today's highlight is the Accordion Component, made interactive with the (Flexibl
 **Thoughts:** Had a bit more time today, so I finished the whole module in one go! It's one thing to know how to use media queries for responsive stuff, but this module also introduces fluid design systems to implement subtle-looking yet surprisingly tricky details ♥️
 
 **Link to work:** [Workshop 5: Sole&Ankle, Revisited](https://github.com/Insidiae/sole-and-ankle-revisited)
+
+### Day 37: Saturday, March 19th, 2022
+
+**Today's Progress**: Finished Module 6 in CSS for Javascript Developers.
+
+**Thoughts:** Another day of massive progress! This module was jam-packed with super handy information on typography and styling text, and modern ways to optimize fonts and images in our web projects.
+
+**Link to work:** [Workshop 6: Unsprinkle](https://github.com/Insidiae/unsprinkle)
