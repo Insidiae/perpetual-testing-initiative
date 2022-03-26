@@ -312,3 +312,13 @@ Today's highlight is the Accordion Component, made interactive with the (Flexibl
 **Thoughts:** Another day of massive progress! This module was jam-packed with super handy information on typography and styling text, and modern ways to optimize fonts and images in our web projects.
 
 **Link to work:** [Workshop 6: Unsprinkle](https://github.com/Insidiae/unsprinkle)
+
+### Day 38: Saturday, March 26th, 2022
+
+**Today's Progress**: Finished the Web Design Rules and Framework section in Jonas Schmedtmann's HTML and CSS course.
+
+**Thoughts:** Got stumped on an unrelated but really tricky TypeScript issue when setting up the section project, so I took my time to complete this section 😅
+
+Setup hiccups aside, the web design section itself was a breeze to go through, with tons of design examples to take inspirations from 🔥
+
+**Link to work:** [Web Design section demo](https://github.com/Insidiae/jonas-html-css-course/blob/main/web-design)
