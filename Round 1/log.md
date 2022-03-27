@@ -322,3 +322,11 @@ Today's highlight is the Accordion Component, made interactive with the (Flexibl
 Setup hiccups aside, the web design section itself was a breeze to go through, with tons of design examples to take inspirations from 🔥
 
 **Link to work:** [Web Design section demo](https://github.com/Insidiae/jonas-html-css-course/blob/main/web-design)
+
+### Day 39: Sunday, March 27th, 2022
+
+**Today's Progress**: Finished Module 7 in CSS for Javascript Developers.
+
+**Thoughts:** I already have a bit of experience with CSS Grid, but this module did give me more CSS Grid tricks such as scrollable grid content with sticky sidebars, and that border trick as seen in the workshop 🔥
+
+**Link to work:** [Workshop 7: New Grid Times](https://github.com/Insidiae/new-grid-times)
