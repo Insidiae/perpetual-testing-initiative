@@ -330,3 +330,11 @@ Setup hiccups aside, the web design section itself was a breeze to go through, w
 **Thoughts:** I already have a bit of experience with CSS Grid, but this module did give me more CSS Grid tricks such as scrollable grid content with sticky sidebars, and that border trick as seen in the workshop 🔥
 
 **Link to work:** [Workshop 7: New Grid Times](https://github.com/Insidiae/new-grid-times)
+
+### Day 40: Monday, March 28th, 2022
+
+**Today's Progress**: Finished Module 8 in CSS for Javascript Developers.
+
+**Thoughts:** This module is tons of fun to work through! Learned the ins and outs of how animations work in CSS. I also like the more open-ended nature of the workshop where we can explore different animation styles for the components. Great stuff!
+
+**Link to work:** [Workshop 8: Sole&Ankle, Animated](https://github.com/Insidiae/sole-and-ankle-animated)
