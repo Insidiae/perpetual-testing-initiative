@@ -338,3 +338,11 @@ Setup hiccups aside, the web design section itself was a breeze to go through, w
 **Thoughts:** This module is tons of fun to work through! Learned the ins and outs of how animations work in CSS. I also like the more open-ended nature of the workshop where we can explore different animation styles for the components. Great stuff!
 
 **Link to work:** [Workshop 8: Sole&Ankle, Animated](https://github.com/Insidiae/sole-and-ankle-animated)
+
+### Day 41: Tuesday, March 29th, 2022
+
+**Today's Progress**: Finished Module 9 in CSS for Javascript Developers, **and earned the course completion certificate.**
+
+**Thoughts:** Woohoo! That's my 2nd main course checked off for this round. I can proudly say that the #CSSforJS course helped me be a lot more confident with the CSS I write!
+
+**Link to work:** N/A, all progress was done through the course platform!
