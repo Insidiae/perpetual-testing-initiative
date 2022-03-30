@@ -346,3 +346,11 @@ Setup hiccups aside, the web design section itself was a breeze to go through, w
 **Thoughts:** Woohoo! That's my 2nd main course checked off for this round. I can proudly say that the #CSSforJS course helped me be a lot more confident with the CSS I write!
 
 **Link to work:** N/A, all progress was done through the course platform!
+
+### Day 42: Wednesday, March 30th, 2022
+
+**Today's Progress**: Started the Omnifood final project in Jonas Schmedtmann's HTML and CSS course.
+
+**Thoughts:** I decided to work with SASS for this project and wow, my workflow was blazing fast and extremely organized! I also applied the modern CSS stuff I learned and started using CSS variables for reusable properties and HSL colors instead of plain ol' hexcodes.
+
+**Link to work:** [Omnifood](https://insidiae.github.io/advanced-css-and-sass/Omnifood/index.html)
