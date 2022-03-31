@@ -354,3 +354,11 @@ Setup hiccups aside, the web design section itself was a breeze to go through, w
 **Thoughts:** I decided to work with SASS for this project and wow, my workflow was blazing fast and extremely organized! I also applied the modern CSS stuff I learned and started using CSS variables for reusable properties and HSL colors instead of plain ol' hexcodes.
 
 **Link to work:** [Omnifood](https://insidiae.github.io/advanced-css-and-sass/Omnifood/index.html)
+
+### Day 43: Thursday, March 31st, 2022
+
+**Today's Progress**: Finished the Omnifood final project in Jonas Schmedtmann's HTML and CSS course, **and earned the course completion certificate.**
+
+**Thoughts:** It feels truly amazing to see how far I've come with my CSS skills by completing this project combining the various modern CSS topics I learned in this past month. I also got my first perfect Lighthouse score!
+
+**Link to work:** [Omnifood](https://insidiae.github.io/advanced-css-and-sass/Omnifood/index.html)

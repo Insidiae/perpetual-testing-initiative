@@ -17,7 +17,7 @@ For this round, I've chosen exercise-driven courses for topics I don't know much
 
 ## Main Curriculum
 
-### 1. [Epic React](https://epicreact.dev/)
+### 1. ✅ [Epic React](https://epicreact.dev/)
 
 Starting the year off strong with this course! I'm really excited about the workshop format of this course, which is unlike any other video-based course I've seen so far.
 
@@ -33,13 +33,13 @@ Epic React also has a Typescript-based `next` branch for most of its workshops, 
   - ✅ [Build a Markdown Previewer](https://insidiae.github.io/markdown/markdown.html)
   - ✅ [Build a Drum Machine](https://insidiae.github.io/drum/drum.html)
 
-### 2. [CSS for Javascript Developers](https://css-for-js.dev/)
+### 2. ✅ [CSS for Javascript Developers](https://css-for-js.dev/)
 
 This is another course with a somewhat different format to what I'm used to with Udemy courses. Combined with a solid course content, I have high hopes that this course will help me get even better with CSS!
 
 #### Supplemental Resources
 
-- [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+- ✅ [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 - [UI Foundations](https://www.uifoundations.com/)
 - [ZTM Academy Workshop: Designer to Developer Handoff ➡ Design File to Code](https://zerotomastery.io/workshops-and-more/)
 - [The Ultimate JavaScript Animation Course](https://developedbyed.com/p/the-ultimate-javascript-animation-course)
