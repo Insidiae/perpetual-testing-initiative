@@ -23,3 +23,11 @@
 **Thoughts:** Since I have an extra day left after finishing Epic React, I figured just chilling while listening to the Epic React Expert Interviews is a great way to wrap up this month. Firing up the next course after a short break!
 
 **Link to work:** N/A
+
+### Extra Day 4: Sunday, April 3rd, 2022
+
+**Today's Progress**: Made a nice README.md for my Github profile.
+
+**Thoughts:** Finally caved in and followed some tutorials to make one of those fancy-looking Github profile READMEs I've been seeing a lot of recently. It was quite fun to take a step back and evaluate the technologies I've worked on so far!
+
+**Link to work:** [My Github profile](https://github.com/Insidiae)
