@@ -362,3 +362,11 @@ Setup hiccups aside, the web design section itself was a breeze to go through, w
 **Thoughts:** It feels truly amazing to see how far I've come with my CSS skills by completing this project combining the various modern CSS topics I learned in this past month. I also got my first perfect Lighthouse score!
 
 **Link to work:** [Omnifood](https://insidiae.github.io/advanced-css-and-sass/Omnifood/index.html)
+
+### Day 44: Monday, April 4th, 2022
+
+**Today's Progress**: Completed the ZTM Designer to Developer Handoff workshop.
+
+**Thoughts:** This is also my very first FrontendMentor challenge! Today's a pretty chill workshop session demonstrating a basic workflow for implementing projects from given design files.
+
+**Link to work:** [Workshop repo](https://github.com/Insidiae/ztm-designer-to-developer-handoff), [Live demo](https://luminous-medovik-09f26d.netlify.app/), [FrontendMentor Solution page](https://www.frontendmentor.io/solutions/ztm-workshop-designer-to-developer-handoff-Sk1sh5u79)
