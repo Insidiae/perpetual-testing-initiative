@@ -31,3 +31,11 @@
 **Thoughts:** Finally caved in and followed some tutorials to make one of those fancy-looking Github profile READMEs I've been seeing a lot of recently. It was quite fun to take a step back and evaluate the technologies I've worked on so far!
 
 **Link to work:** [My Github profile](https://github.com/Insidiae)
+
+### Extra Day 5: Thursday, April 7th, 2022
+
+**Today's Progress**: Attended Day 1 of the JS GameDev Summit.
+
+**Thoughts:** Tuning in to #JSGameDevSummit thanks to @codeSTACKr's giveaway. Super excited to explore some valuable insights about JS in the GameDev industry!
+
+**Link to work:** [JS GameDev Summit](https://jsgamedev.com/), shoutouts to [@codeSTACKr](https://twitter.com/codeSTACKr)
