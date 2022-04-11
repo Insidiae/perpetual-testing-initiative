@@ -39,3 +39,11 @@
 **Thoughts:** Tuning in to #JSGameDevSummit thanks to @codeSTACKr's giveaway. Super excited to explore some valuable insights about JS in the GameDev industry!
 
 **Link to work:** [JS GameDev Summit](https://jsgamedev.com/), shoutouts to [@codeSTACKr](https://twitter.com/codeSTACKr)
+
+### Extra Day 6: Monday, April 11th, 2022
+
+**Today's Progress**: Attended the PlayCanvas End-to-End workshop in the JS GameDev Summit.
+
+**Thoughts:** The online editor takes a bit of getting used to (for total newbs like me 😅), but I felt right at home writing code to make the game playable!
+
+**Link to work:** [Project page](https://playcanvas.com/project/911089/overview/playcanvas-e2e--food-run), [Live Demo](https://playcanv.as/p/VK22ZRCe/)
