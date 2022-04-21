@@ -47,8 +47,8 @@ This is another course with a somewhat different format to what I'm used to with
 #### 💯 Extra Credit
 
 - [freeCodeCamp: Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects)
+  - ✅ Build a Personal Portfolio Page
   - Build a Technical Documentation Page
-  - Build a Personal Portfolio Page
 
 ### 3. [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
 

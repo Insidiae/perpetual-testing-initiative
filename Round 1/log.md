@@ -370,3 +370,11 @@ Setup hiccups aside, the web design section itself was a breeze to go through, w
 **Thoughts:** This is also my very first FrontendMentor challenge! Today's a pretty chill workshop session demonstrating a basic workflow for implementing projects from given design files.
 
 **Link to work:** [Workshop repo](https://github.com/Insidiae/ztm-designer-to-developer-handoff), [Live demo](https://luminous-medovik-09f26d.netlify.app/), [FrontendMentor Solution page](https://www.frontendmentor.io/solutions/ztm-workshop-designer-to-developer-handoff-Sk1sh5u79)
+
+### Day 45: Thursday, April 21st, 2022
+
+**Today's Progress**: Remade my personal portfolio webpage.
+
+**Thoughts:** This took quite a while to make! I spent most of the time just figuring out a general layout and design that looks good enough, but at least my newfound CSS skills let me implement my design fairly easily!
+
+**Link to work:** [My Portfolio](https://insidiae.github.io)
