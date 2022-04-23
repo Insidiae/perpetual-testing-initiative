@@ -40,9 +40,9 @@ This is another course with a somewhat different format to what I'm used to with
 #### Supplemental Resources
 
 - ✅ [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
-- [UI Foundations](https://www.uifoundations.com/)
-- [ZTM Academy Workshop: Designer to Developer Handoff ➡ Design File to Code](https://zerotomastery.io/workshops-and-more/)
+- ✅ [ZTM Academy Workshop: Designer to Developer Handoff ➡ Design File to Code](https://zerotomastery.io/workshops-and-more/)
 - [The Ultimate JavaScript Animation Course](https://developedbyed.com/p/the-ultimate-javascript-animation-course)
+- [UI Foundations](https://www.uifoundations.com/)
 
 #### 💯 Extra Credit
 

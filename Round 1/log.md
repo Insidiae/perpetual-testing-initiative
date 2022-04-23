@@ -378,3 +378,11 @@ Setup hiccups aside, the web design section itself was a breeze to go through, w
 **Thoughts:** This took quite a while to make! I spent most of the time just figuring out a general layout and design that looks good enough, but at least my newfound CSS skills let me implement my design fairly easily!
 
 **Link to work:** [My Portfolio](https://insidiae.github.io)
+
+### Day 46: Saturday, April 23rd, 2022
+
+**Today's Progress**: Started the freeCodeCamp Technical Documentation Page project.
+
+**Thoughts:** I've been planning to create a full-on documentation page out of my JavaScript Algorithms and Data Structures notes, and I'm glad to say that this proof-of-concept turned out really well! I was able to whip up most of the layout _blazing fast_ using Bootstrap, and I spiced up my notes using syntax highlighting from Highlight.js, and added some neat diagrams using Mermaid.js. I just need to add the content and I can turn this in for the freeCodeCamp certification!
+
+**Link to work:** [JavaScript Algorithms and Data Structures Documentation](https://insidiae.github.io/js-algos-and-data-structs)
