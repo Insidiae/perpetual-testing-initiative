@@ -47,3 +47,11 @@
 **Thoughts:** The online editor takes a bit of getting used to (for total newbs like me 😅), but I felt right at home writing code to make the game playable!
 
 **Link to work:** [Project page](https://playcanvas.com/project/911089/overview/playcanvas-e2e--food-run), [Live Demo](https://playcanv.as/p/VK22ZRCe/)
+
+### Extra Day 7: Monday, April 25th, 2022
+
+**Today's Progress**: Attended the Prisma + MongoDB Basic Workshop workshop in the Prisma + MongoDB Launch Week.
+
+**Thoughts:** Prisma makes working with MongoDB blazing fast! I was constantly blown away duting the workshop by just how quick and easy it was to set up basic REST/GraphQL APIs and get the convenience of type safety and autocomplete using TypeScript.
+
+**Link to work:** [Workshop repo](https://github.com/nikolasburk/prisma-mongodb-workshop)
