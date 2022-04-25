@@ -386,3 +386,13 @@ Setup hiccups aside, the web design section itself was a breeze to go through, w
 **Thoughts:** I've been planning to create a full-on documentation page out of my JavaScript Algorithms and Data Structures notes, and I'm glad to say that this proof-of-concept turned out really well! I was able to whip up most of the layout _blazing fast_ using Bootstrap, and I spiced up my notes using syntax highlighting from Highlight.js, and added some neat diagrams using Mermaid.js. I just need to add the content and I can turn this in for the freeCodeCamp certification!
 
 **Link to work:** [JavaScript Algorithms and Data Structures Documentation](https://insidiae.github.io/js-algos-and-data-structs)
+
+### Day 47: Monday, April 25th, 2022
+
+**Today's Progress**: Finished the freeCodeCamp Technical Documentation Page project, **_and earned the Responsive Web Design Certification_**.
+
+**Thoughts:** After all this time, I've finally earned the freeCodeCamp Responsive Web Design Certification!
+
+This Technical Documentation Page project was a lot of fun to build, from setting up a basic navigation layout with Bootstrap, creating awesome syntax highlighting with Highlight.js and fancy diagrams with Mermaid.js. Actually adding in the content for the page ended up being a lot of work, but the amount of content I added into the project was worth it and represents all the topics I learned in the Data Structures and Algorithms courses I've taken. It's really awesome to see just how far I've gotten on my learning journey!
+
+**Link to work:** [JavaScript Algorithms and Data Structures Documentation](https://insidiae.github.io/js-algos-and-data-structs), [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/certification/insidiae/responsive-web-design)

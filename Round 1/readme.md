@@ -22,3 +22,4 @@ More courses coming soon! See [curriculum.md](curriculum.md) for more details.
 1. [Typescript: The Complete Developer's Guide](https://www.udemy.com/certificate/UC-bf7e40a1-3121-4dff-a05e-8c67f586ade2/)
 2. [freeCodeCamp - Front End Development Libraries](https://www.freecodecamp.org/certification/insidiae/front-end-development-libraries)
 3. [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/certificate/UC-6aa9308e-a5f4-458d-b595-abfbb5a05940/)
+4. [freeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/certification/insidiae/responsive-web-design)
