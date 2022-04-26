@@ -396,3 +396,11 @@ Setup hiccups aside, the web design section itself was a breeze to go through, w
 This Technical Documentation Page project was a lot of fun to build, from setting up a basic navigation layout with Bootstrap, creating awesome syntax highlighting with Highlight.js and fancy diagrams with Mermaid.js. Actually adding in the content for the page ended up being a lot of work, but the amount of content I added into the project was worth it and represents all the topics I learned in the Data Structures and Algorithms courses I've taken. It's really awesome to see just how far I've gotten on my learning journey!
 
 **Link to work:** [JavaScript Algorithms and Data Structures Documentation](https://insidiae.github.io/js-algos-and-data-structs), [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/certification/insidiae/responsive-web-design)
+
+### Day 48: Tuesday, April 26th, 2022
+
+**Today's Progress**: Started Dev Ed's JavaScript Animations course.
+
+**Thoughts:** This course introduced me to GSAP, which lets us orchestrate intricate-looking animations in a very intuitive way. With the power of GSAP, we breezed through the first three sections in no time!
+
+**Link to work:** [Course progress repo](https://github.com/Insidiae/dev-ed-js-animations), [Pop Up Cookie Animation](https://insidiae.github.io/dev-ed-js-animations/cookie/index.html), [Animating Text](https://insidiae.github.io/dev-ed-js-animations/text-reveal/index.html), [Micro Animations with SVGs](https://insidiae.github.io/dev-ed-js-animations/micro-animations/index.html)
