@@ -404,3 +404,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** This course introduced me to GSAP, which lets us orchestrate intricate-looking animations in a very intuitive way. With the power of GSAP, we breezed through the first three sections in no time!
 
 **Link to work:** [Course progress repo](https://github.com/Insidiae/dev-ed-js-animations), [Pop Up Cookie Animation](https://insidiae.github.io/dev-ed-js-animations/cookie/index.html), [Animating Text](https://insidiae.github.io/dev-ed-js-animations/text-reveal/index.html), [Micro Animations with SVGs](https://insidiae.github.io/dev-ed-js-animations/micro-animations/index.html)
+
+### Day 49: Wednesday, April 27th, 2022
+
+**Today's Progress**: Finished Chapters 5 to 6 in Dev Ed's JavaScript Animations course.
+
+**Thoughts:** Today's a very fun session! Worked with a tougher animation project with the form animations, and played around with vanilla JS page transitions.
+
+**Link to work:** [Form Animation](https://insidiae.github.io/dev-ed-js-animations/forms/index.html), [Page Transitions](https://insidiae.github.io/dev-ed-js-animations/page-transitions/index.html)
