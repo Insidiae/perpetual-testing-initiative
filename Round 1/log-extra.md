@@ -55,3 +55,11 @@
 **Thoughts:** Prisma makes working with MongoDB blazing fast! I was constantly blown away duting the workshop by just how quick and easy it was to set up basic REST/GraphQL APIs and get the convenience of type safety and autocomplete using TypeScript.
 
 **Link to work:** [Workshop repo](https://github.com/nikolasburk/prisma-mongodb-workshop)
+
+### Extra Day 8: Wednesday, April 27th, 2022
+
+**Today's Progress**: Attended the Prisma + MongoDB Advanced Workshop workshop in the Prisma + MongoDB Launch Week.
+
+**Thoughts:** The Advanced workshop bluids off off the previous workshop quite well! It was very nice applying what I learned from the Basic workshop to integrate Prisma + MongoDB into a full application.
+
+**Link to work:** [Workshop repo](https://github.com/sabinadams/prisma-mongodb-advanced-workshop)
