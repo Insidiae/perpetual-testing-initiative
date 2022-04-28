@@ -2,9 +2,9 @@
 
 You can check my progress logs for this round [here](log.md). You may also check out [some extras](log-extra.md) for when curiosity takes me to different places than my main curriculum.
 
-## ▶️ Now Playing: [The Ultimate JavaScript Animation Course](https://developedbyed.com/p/the-ultimate-javascript-animation-course)
+## ▶️ Up Next: [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
 
-[Course progress repo](https://github.com/Insidiae/dev-ed-js-animations)
+Course progress repo TBA
 
 ## 💿 [Course Playlist](curriculum.md)
 
@@ -12,8 +12,8 @@ You can check my progress logs for this round [here](log.md). You may also check
 2. ✅ [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
 3. ✅ [CSS for Javascript Developers](https://css-for-js.dev/)
 4. ✅ [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
-5. ▶️ [The Ultimate JavaScript Animation Course](https://developedbyed.com/p/the-ultimate-javascript-animation-course)
-6. [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
+5. ✅ [The Ultimate JavaScript Animation Course](https://developedbyed.com/p/the-ultimate-javascript-animation-course)
+6. 💿 [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
 
 More courses coming soon! See [curriculum.md](curriculum.md) for more details.
 

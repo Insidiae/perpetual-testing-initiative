@@ -412,3 +412,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** Today's a very fun session! Worked with a tougher animation project with the form animations, and played around with vanilla JS page transitions.
 
 **Link to work:** [Form Animation](https://insidiae.github.io/dev-ed-js-animations/forms/index.html), [Page Transitions](https://insidiae.github.io/dev-ed-js-animations/page-transitions/index.html)
+
+### Day 50: Thursday, April 28th, 2022
+
+**Today's Progress**: Finished Chapter 7 in Dev Ed's JavaScript Animations course, **and earned the course completion certificate**.
+
+**Thoughts:** What a great course! I had an absolute blast working on the course projects and learning how to build stunning animations with pure JavaScript. I'm looking forward to using these JS animation texhniques on my future projects!
+
+**Link to work:** [Final Project - The Ultimate Animated Website](https://insidiae.github.io/dev-ed-js-animations/ultimate-animation/index.html)
