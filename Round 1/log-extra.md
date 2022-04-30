@@ -63,3 +63,11 @@
 **Thoughts:** The Advanced workshop bluids off off the previous workshop quite well! It was very nice applying what I learned from the Basic workshop to integrate Prisma + MongoDB into a full application.
 
 **Link to work:** [Workshop repo](https://github.com/sabinadams/prisma-mongodb-advanced-workshop)
+
+### Extra Day 9: Saturday, April 30th, 2022
+
+**Today's Progress**: Worked on Prisma's Build A Fullstack App with Remix, Prisma & MongoDB tutorial series.
+
+**Thoughts:** The Advanced workshop in the Prisma + MongoDB launch week got me really interested with the tech stack used for the workshop project, so I followed along with their latest tutorial series that goes into more detail and builds the project entirely from scratch.
+
+**Link to work:** [Kudos](https://github.com/Insidiae/kudos)
