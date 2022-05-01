@@ -420,3 +420,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** What a great course! I had an absolute blast working on the course projects and learning how to build stunning animations with pure JavaScript. I'm looking forward to using these JS animation texhniques on my future projects!
 
 **Link to work:** [Final Project - The Ultimate Animated Website](https://insidiae.github.io/dev-ed-js-animations/ultimate-animation/index.html)
+
+### Day 51: Sunday, May 1st, 2022
+
+**Today's Progress**: Started the Fullstack D3 Masterclass.
+
+**Thoughts:** This is the course I'm looking forward the most to working on! I've been super curious about dataviz with D3.js for quite a while now, and I'm really excited to take on this course and make some great dataviz projects myself.
+
+**Link to work:** [Fullstack D3 - Module 0](https://github.com/Insidiae/fullstack-d3/tree/main/00-making-your-first%20chart)
