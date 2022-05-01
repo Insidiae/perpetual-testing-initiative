@@ -71,3 +71,11 @@
 **Thoughts:** The Advanced workshop in the Prisma + MongoDB launch week got me really interested with the tech stack used for the workshop project, so I followed along with their latest tutorial series that goes into more detail and builds the project entirely from scratch.
 
 **Link to work:** [Kudos](https://github.com/Insidiae/kudos)
+
+### Extra Day 10: Sunday, May 1st, 2022
+
+**Today's Progress**: Finished Day 1 of the #JavaScript30 challenge.
+
+**Thoughts:** I'm officially (re-)doing the #JavaScript30 challenge! I'm starting over from scratch, but I'm a lot more comfortable with JS than before, and I'm confident I can finish this challenge this time!
+
+**Link to work:** [Day 1: JavaScript Drum Kit](https://insidiae.github.io/js30/01-drum/index.html)
