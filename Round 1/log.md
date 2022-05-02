@@ -428,3 +428,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** This is the course I'm looking forward the most to working on! I've been super curious about dataviz with D3.js for quite a while now, and I'm really excited to take on this course and make some great dataviz projects myself.
 
 **Link to work:** [Fullstack D3 - Module 0](https://github.com/Insidiae/fullstack-d3/tree/main/00-making-your-first%20chart)
+
+### Day 52: Monday, May 2nd, 2022
+
+**Today's Progress**: Finished Module 1 of the Fullstack D3 Masterclass.
+
+**Thoughts:** Today's module lays out the general workflow for displaying plots with D3.js. It's been a while since I last worked with D3, and I like how this modern workflow streamlines everything I need to draw amazing charts!
+
+**Link to work:** [Fullstack D3 - Module 1](https://github.com/Insidiae/fullstack-d3/tree/main/01-making-a-scatterplot)
