@@ -79,3 +79,11 @@
 **Thoughts:** I'm officially (re-)doing the #JavaScript30 challenge! I'm starting over from scratch, but I'm a lot more comfortable with JS than before, and I'm confident I can finish this challenge this time!
 
 **Link to work:** [Day 1: JavaScript Drum Kit](https://insidiae.github.io/js30/01-drum/index.html)
+
+### Extra Day 11: Monday, May 2nd, 2022
+
+**Today's Progress**: Finished Day 2 of the #JavaScript30 challenge.
+
+**Thoughts:** Pretty chill challenge, just using some math to convert hours/minutes/seconds into degrees to rotate clock hands using CSS.
+
+**Link to work:** [Day 2: CSS + JS Clock](https://insidiae.github.io/js30/02-clock/index.html)
