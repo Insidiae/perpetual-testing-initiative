@@ -87,3 +87,11 @@
 **Thoughts:** Pretty chill challenge, just using some math to convert hours/minutes/seconds into degrees to rotate clock hands using CSS.
 
 **Link to work:** [Day 2: CSS + JS Clock](https://insidiae.github.io/js30/02-clock/index.html)
+
+### Extra Day 12: Tuesday, May 3rd, 2022
+
+**Today's Progress**: Finished Day 3 of the #JavaScript30 challenge.
+
+**Thoughts:** A nice trip down memory lane going back to when CSS variables were still a fairly new spec. Nowadays it's a fairly common pattern to update CSS variables using JS for interactive stuff.
+
+**Link to work:** [Day 3: Playing with CSS Variables and JS](https://insidiae.github.io/js30/03-css-variables/index.html)
