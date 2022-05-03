@@ -436,3 +436,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** Today's module lays out the general workflow for displaying plots with D3.js. It's been a while since I last worked with D3, and I like how this modern workflow streamlines everything I need to draw amazing charts!
 
 **Link to work:** [Fullstack D3 - Module 1](https://github.com/Insidiae/fullstack-d3/tree/main/01-making-a-scatterplot)
+
+### Day 53: Tuesday, May 3rd, 2022
+
+**Today's Progress**: Finished Module 2 of the Fullstack D3 Masterclass.
+
+**Thoughts:** The modern D3 workflow we've been learning really pays off well in this module! Having a generalized workflow means that I can simply copypaste the same function from the lectures and finish today's exercise in _literally just a few seconds_ 🔥
+
+**Link to work:** [Fullstack D3 - Module 2](https://github.com/Insidiae/fullstack-d3/tree/main/02-making-a-bar-chart)
