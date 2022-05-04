@@ -96,7 +96,7 @@
 
 **Link to work:** [Day 3: Playing with CSS Variables and JS](https://insidiae.github.io/js30/03-css-variables/index.html)
 
-### Extra Day 13: Tuesday, May 3rd, 2022
+### Extra Day 13: Wednesday, May 4th, 2022
 
 **Today's Progress**: Finished Day 4 of the #JavaScript30 challenge.
 
