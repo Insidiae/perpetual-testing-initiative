@@ -103,3 +103,11 @@
 **Thoughts:** Array Cardio time! I love how I had an easier time counting frequencies and adding totals with Array.reduce() than Array.sort()-ing a list of names in alphabetical order 😂
 
 **Link to work:** [Day 4: Array Cardio Day 1](https://insidiae.github.io/js30/04-array-cardio-1/index.html)
+
+### Extra Day 14: Wednesday, May 5th, 2022
+
+**Today's Progress**: Finished Day 5 of the #JavaScript30 challenge.
+
+**Thoughts:** Today's challenge is a straightforward example involving a pretty common pattern nowadays, just adding a couple event listeners to toggle CSS classes on click to create some slick animations.
+
+**Link to work:** [Day 5: Flex Panel Gallery](https://insidiae.github.io/js30/05-flex-panel-gallery/index.html)
