@@ -452,3 +452,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** It's time to make our charts even fancier by adding transitions + animations! I loved today's exercise where we created a cool bubble-up animation on scatterplot dots ❤️
 
 **Link to work:** [Fullstack D3 - Module 3](https://github.com/Insidiae/fullstack-d3/tree/main/03-animations-and-transitions)
+
+### Day 55: Wednesday, May 5th, 2022
+
+**Today's Progress**: Finished Module 4 of the Fullstack D3 Masterclass.
+
+**Thoughts:** Today's module lessons demonstrate a fairly simple example, but it shows that adding something that's straightforward in one type of chart (such as tooltips) can be a lot trickier to implement in other types of charts.
+
+**Link to work:** [Fullstack D3 - Module 4](https://github.com/Insidiae/fullstack-d3/tree/main/04-interactions)
