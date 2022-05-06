@@ -78,7 +78,7 @@
 
 **Thoughts:** I'm officially (re-)doing the #JavaScript30 challenge! I'm starting over from scratch, but I'm a lot more comfortable with JS than before, and I'm confident I can finish this challenge this time!
 
-**Link to work:** [Day 1: JavaScript Drum Kit](https://insidiae.github.io/js30/01-drum/index.html)
+**Link to work:** [#JavaScript30 Day 1: JavaScript Drum Kit](https://insidiae.github.io/js30/01-drum/index.html)
 
 ### Extra Day 11: Monday, May 2nd, 2022
 
@@ -86,7 +86,7 @@
 
 **Thoughts:** Pretty chill challenge, just using some math to convert hours/minutes/seconds into degrees to rotate clock hands using CSS.
 
-**Link to work:** [Day 2: CSS + JS Clock](https://insidiae.github.io/js30/02-clock/index.html)
+**Link to work:** [#JavaScript30 Day 2: CSS + JS Clock](https://insidiae.github.io/js30/02-clock/index.html)
 
 ### Extra Day 12: Tuesday, May 3rd, 2022
 
@@ -94,7 +94,7 @@
 
 **Thoughts:** A nice trip down memory lane going back to when CSS variables were still a fairly new spec. Nowadays it's a fairly common pattern to update CSS variables using JS for interactive stuff.
 
-**Link to work:** [Day 3: Playing with CSS Variables and JS](https://insidiae.github.io/js30/03-css-variables/index.html)
+**Link to work:** [#JavaScript30 Day 3: Playing with CSS Variables and JS](https://insidiae.github.io/js30/03-css-variables/index.html)
 
 ### Extra Day 13: Wednesday, May 4th, 2022
 
@@ -102,12 +102,20 @@
 
 **Thoughts:** Array Cardio time! I love how I had an easier time counting frequencies and adding totals with Array.reduce() than Array.sort()-ing a list of names in alphabetical order 😂
 
-**Link to work:** [Day 4: Array Cardio Day 1](https://insidiae.github.io/js30/04-array-cardio-1/index.html)
+**Link to work:** [#JavaScript30 Day 4: Array Cardio Day 1](https://insidiae.github.io/js30/04-array-cardio-1/index.html)
 
-### Extra Day 14: Wednesday, May 5th, 2022
+### Extra Day 14: Thursday, May 5th, 2022
 
 **Today's Progress**: Finished Day 5 of the #JavaScript30 challenge.
 
 **Thoughts:** Today's challenge is a straightforward example involving a pretty common pattern nowadays, just adding a couple event listeners to toggle CSS classes on click to create some slick animations.
 
-**Link to work:** [Day 5: Flex Panel Gallery](https://insidiae.github.io/js30/05-flex-panel-gallery/index.html)
+**Link to work:** [#JavaScript30 Day 5: Flex Panel Gallery](https://insidiae.github.io/js30/05-flex-panel-gallery/index.html)
+
+### Extra Day 15: Friday, May 6th, 2022
+
+**Today's Progress**: Finished Day 6 of the #JavaScript30 challenge.
+
+**Thoughts:** We built a simple autocomplete search bar today! Got some practice with fetching data from a server and using RegEx to filter the data based on user input.
+
+**Link to work:** [#JavaScript30 Day 6: Ajax Type Ahead](https://insidiae.github.io/js30/06-ajax-type-ahead/index.html)
