@@ -453,10 +453,18 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 
 **Link to work:** [Fullstack D3 - Module 3](https://github.com/Insidiae/fullstack-d3/tree/main/03-animations-and-transitions)
 
-### Day 55: Wednesday, May 5th, 2022
+### Day 55: Thursday, May 5th, 2022
 
 **Today's Progress**: Finished Module 4 of the Fullstack D3 Masterclass.
 
 **Thoughts:** Today's module lessons demonstrate a fairly simple example, but it shows that adding something that's straightforward in one type of chart (such as tooltips) can be a lot trickier to implement in other types of charts.
 
 **Link to work:** [Fullstack D3 - Module 4](https://github.com/Insidiae/fullstack-d3/tree/main/04-interactions)
+
+### Day 56: Friday, May 6th, 2022
+
+**Today's Progress**: Finished Module 5 of the Fullstack D3 Masterclass.
+
+**Thoughts:** Improved the fancy scatterplot from last time and used a more accessible color scheme, added legends to indicate the penguin species, and added linear regression lines for each species group, making the chart more closely resemble the original example.
+
+**Link to work:** [Fullstack D3 - Module 5](https://github.com/Insidiae/fullstack-d3/tree/main/05-data-visualization-basics)
