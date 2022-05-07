@@ -468,3 +468,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** Improved the fancy scatterplot from last time and used a more accessible color scheme, added legends to indicate the penguin species, and added linear regression lines for each species group, making the chart more closely resemble the original example.
 
 **Link to work:** [Fullstack D3 - Module 5](https://github.com/Insidiae/fullstack-d3/tree/main/05-data-visualization-basics)
+
+### Day 57: Saturday, May 7th, 2022
+
+**Today's Progress**: Finished Module 6 of the Fullstack D3 Masterclass.
+
+**Thoughts:** Today's project is a big one! We put out dataviz skills we learned from the previous modules in this project, making the most of the provided dataset to build this beautiful radar chart.
+
+**Link to work:** [Fullstack D3 - Module 6](https://insidiae.github.io/fullstack-d3/06-radar-weather-chart/index.html)
