@@ -119,3 +119,11 @@
 **Thoughts:** We built a simple autocomplete search bar today! Got some practice with fetching data from a server and using RegEx to filter the data based on user input.
 
 **Link to work:** [#JavaScript30 Day 6: Ajax Type Ahead](https://insidiae.github.io/js30/06-ajax-type-ahead/index.html)
+
+### Extra Day 16: Saturday, May 7th, 2022
+
+**Today's Progress**: Finished Day 7 of the #JavaScript30 challenge.
+
+**Thoughts:** Time for more Array Cardio! Today's challenge is a short one, dealing with a couple of more niche JavaScript Array methods.
+
+**Link to work:** [#JavaScript30 Day 7: Array Cardio Day 2](https://insidiae.github.io/js30/07-array-cardio-2/index.html)
