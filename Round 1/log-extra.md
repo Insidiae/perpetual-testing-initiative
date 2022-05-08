@@ -127,3 +127,11 @@
 **Thoughts:** Time for more Array Cardio! Today's challenge is a short one, dealing with a couple of more niche JavaScript Array methods.
 
 **Link to work:** [#JavaScript30 Day 7: Array Cardio Day 2](https://insidiae.github.io/js30/07-array-cardio-2/index.html)
+
+### Extra Day 17: Sunday, May 8th, 2022
+
+**Today's Progress**: Finished Day 8 of the #JavaScript30 challenge.
+
+**Thoughts:** Really fun project today! We made a super simple sketch pad and explored the basics of HTML5 Canvas.
+
+**Link to work:** [#JavaScript30 Day 8: Fun with HTML5 Canvas](https://insidiae.github.io/js30/08-html5-canvas-fun/index.html)
