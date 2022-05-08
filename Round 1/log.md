@@ -476,3 +476,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** Today's project is a big one! We put out dataviz skills we learned from the previous modules in this project, making the most of the provided dataset to build this beautiful radar chart.
 
 **Link to work:** [Fullstack D3 - Module 6](https://insidiae.github.io/fullstack-d3/06-radar-weather-chart/index.html)
+
+### Day 58: Sunday, May 8th, 2022
+
+**Today's Progress**: Finished Module 7 of the Fullstack D3 Masterclass.
+
+**Thoughts:** And with the final section all about using D3 with JS frameworks like React, that wraps up the Masterclass! Up next, I'll be doing a couple more D3 projects before doing a re-run of the Fullstack D3 book using React + D3.
+
+**Link to work:** [Fullstack D3 - Module 7](https://insidiae.github.io/fullstack-d3/07-d3-with-react/index.html)
