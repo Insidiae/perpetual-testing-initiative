@@ -48,7 +48,7 @@ This is another course with a somewhat different format to what I'm used to with
 
 - ✅ [freeCodeCamp: Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects)
   - ✅ Build a Personal Portfolio Page
-  - ✅Build a Technical Documentation Page
+  - ✅ Build a Technical Documentation Page
 
 ### 3. [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
 
@@ -57,6 +57,11 @@ After I finished the D3 section of [The Advanced Web Developer Bootcamp](https:/
 #### Supplemental Resources
 
 - [freeCodeCamp - Data Visualization Certification Projects](https://www.freecodecamp.org/learn/data-visualization/)
+  - ✅ Visualize Data with a Bar Chart
+  - Visualize Data with a Scatterplot Graph
+  - Visualize Data with a Heat Map
+  - Visualize Data with a Choropleth Map
+  - Visualize Data with a Treemap Diagram
 
 #### 💯 Extra Credit
 

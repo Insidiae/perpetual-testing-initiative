@@ -484,3 +484,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** And with the final section all about using D3 with JS frameworks like React, that wraps up the Masterclass! Up next, I'll be doing a couple more D3 projects before doing a re-run of the Fullstack D3 book using React + D3.
 
 **Link to work:** [Fullstack D3 - Module 7](https://insidiae.github.io/fullstack-d3/07-d3-with-react/index.html)
+
+### Day 59: Monday, May 9th, 2022
+
+**Today's Progress**: Finished the freeCodeCamp Bar Chart project.
+
+**Thoughts:** Time to do some real D3.js projects to apply what I learned from the Fullstack D3 course! For this first one I was able to quickly get a nice bar chart up and running by just slightly tweaking one of the course exercises. The modern D3 workflow I learned from the Fullstack D3 course worked wonders for this project!
+
+**Link to work:** [freeCodeCamp Project: Visualize Data with a Bar Chart](https://insidiae.github.io/bar-chart/index.html)
