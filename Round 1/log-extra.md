@@ -143,3 +143,11 @@
 **Thoughts:** Today I learned a few new neat tricks for my console outputs! The console outputs look so much nicer when `console.group()`-ed together!
 
 **Link to work:** [#JavaScript30 Day 9: 14 Must Know Dev Tools Tricks](https://insidiae.github.io/js30/09-dev-tools-tricks/index.html)
+
+### Extra Day 19: Tuesday, May 10th, 2022
+
+**Today's Progress**: Finished Day 10 of the #JavaScript30 challenge.
+
+**Thoughts:** Pretty tricky challenge today, used some array trickery to get the correct checkboxes to multi-check when holding shift.
+
+**Link to work:** [#JavaScript30 Day 10: Hold Shift to Check Multiple Checkboxes](https://insidiae.github.io/js30/10-check-multiple-checkboxes/index.html)
