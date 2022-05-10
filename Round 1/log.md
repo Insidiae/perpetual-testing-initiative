@@ -492,3 +492,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** Time to do some real D3.js projects to apply what I learned from the Fullstack D3 course! For this first one I was able to quickly get a nice bar chart up and running by just slightly tweaking one of the course exercises. The modern D3 workflow I learned from the Fullstack D3 course worked wonders for this project!
 
 **Link to work:** [freeCodeCamp Project: Visualize Data with a Bar Chart](https://insidiae.github.io/bar-chart/index.html)
+
+### Day 60: Tuesday, May 10th, 2022
+
+**Today's Progress**: Finished the freeCodeCamp Scatterplot project.
+
+**Thoughts:** It's truly amazing how a genericized workflow helps massively for these projects! I really only needed to change some line of code for the new dataset coming in but the overall logic remains the same 🔥
+
+**Link to work:** [freeCodeCamp Project: Visualize Data with a Scatterplot Graph](https://insidiae.github.io/scatterplot/index.html)
