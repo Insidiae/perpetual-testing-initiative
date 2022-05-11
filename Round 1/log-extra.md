@@ -151,3 +151,11 @@
 **Thoughts:** Pretty tricky challenge today, used some array trickery to get the correct checkboxes to multi-check when holding shift.
 
 **Link to work:** [#JavaScript30 Day 10: Hold Shift to Check Multiple Checkboxes](https://insidiae.github.io/js30/10-check-multiple-checkboxes/index.html)
+
+### Extra Day 20: Wednesday, May 11th, 2022
+
+**Today's Progress**: Finished Day 11 of the #JavaScript30 challenge.
+
+**Thoughts:** Today's challenge gives a great intro to how we can customize a basic HTML5 video player and add a bunch of fancy controls like setting playback speed or skipping forwards/backwards by a few seconds into the video.
+
+**Link to work:** [#JavaScript30 Day 10: Hold Shift to Check Multiple Checkboxes](https://insidiae.github.io/js30/10-check-multiple-checkboxes/index.html)
