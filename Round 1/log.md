@@ -500,3 +500,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** It's truly amazing how a genericized workflow helps massively for these projects! I really only needed to change some line of code for the new dataset coming in but the overall logic remains the same 🔥
 
 **Link to work:** [freeCodeCamp Project: Visualize Data with a Scatterplot Graph](https://insidiae.github.io/scatterplot/index.html)
+
+### Day 61: Wednesday, May 11th, 2022
+
+**Today's Progress**: Finished the freeCodeCamp Heat Map project.
+
+**Thoughts:** Oh hey, it's a completely new chart type than what I've built so far! Fortunately, the same step-by-step D3 workflow still makes working with the dataset a lot easier and helps me get this Heat Map up and running really fast!
+
+**Link to work:** [freeCodeCamp Project: Visualize Data with a Heat Map](https://insidiae.github.io/heatmap/index.html)
