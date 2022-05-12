@@ -508,3 +508,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** Oh hey, it's a completely new chart type than what I've built so far! Fortunately, the same step-by-step D3 workflow still makes working with the dataset a lot easier and helps me get this Heat Map up and running really fast!
 
 **Link to work:** [freeCodeCamp Project: Visualize Data with a Heat Map](https://insidiae.github.io/heatmap/index.html)
+
+### Day 62: Thursday, May 12th, 2022
+
+**Today's Progress**: Finished the freeCodeCamp Choropleth Map project.
+
+**Thoughts:** This one's more of a refresher! I re-familiarized myself with GeoJSON/TopoJSON and updated my previous workflow for displaying map data into the new D3 workflow that I recently learned.
+
+**Link to work:** [freeCodeCamp Project: Visualize Data with a Choropleth Map](https://insidiae.github.io/choropleth/index.html)
