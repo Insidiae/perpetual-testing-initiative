@@ -158,4 +158,12 @@
 
 **Thoughts:** Today's challenge gives a great intro to how we can customize a basic HTML5 video player and add a bunch of fancy controls like setting playback speed or skipping forwards/backwards by a few seconds into the video.
 
-**Link to work:** [#JavaScript30 Day 10: Hold Shift to Check Multiple Checkboxes](https://insidiae.github.io/js30/10-check-multiple-checkboxes/index.html)
+**Link to work:** [#JavaScript30 Day 11: Custom HTML5 Video Player](https://insidiae.github.io/js30/11-custom-video-player/index.html)
+
+### Extra Day 21: Thursday, May 12th, 2022
+
+**Today's Progress**: Finished Day 12 of the #JavaScript30 challenge.
+
+**Thoughts:** Pretty chill challenge today, exploring how to add cute lille easter eggs into a webpage by detecting keystroke sequences (like the Konami Code).
+
+**Link to work:** [#JavaScript30 Day 12: Key Sequence Detection (KONAMI CODE)](https://insidiae.github.io/js30/12-key-sequence-detection/index.html)
