@@ -56,12 +56,12 @@ After I finished the D3 section of [The Advanced Web Developer Bootcamp](https:/
 
 #### Supplemental Resources
 
-- [freeCodeCamp - Data Visualization Certification Projects](https://www.freecodecamp.org/learn/data-visualization/)
+- ✅ [freeCodeCamp - Data Visualization Certification Projects](https://www.freecodecamp.org/learn/data-visualization/)
   - ✅ Visualize Data with a Bar Chart
   - ✅ Visualize Data with a Scatterplot Graph
   - ✅ Visualize Data with a Heat Map
   - ✅ Visualize Data with a Choropleth Map
-  - Visualize Data with a Treemap Diagram
+  - ✅ Visualize Data with a Treemap Diagram
 
 #### 💯 Extra Credit
 

@@ -516,3 +516,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** This one's more of a refresher! I re-familiarized myself with GeoJSON/TopoJSON and updated my previous workflow for displaying map data into the new D3 workflow that I recently learned.
 
 **Link to work:** [freeCodeCamp Project: Visualize Data with a Choropleth Map](https://insidiae.github.io/choropleth/index.html)
+
+### Day 63: Friday, May 13th, 2022
+
+**Today's Progress**: Finished the freeCodeCamp Treemap project, **_and earned the Data Visualization Certification_**.
+
+**Thoughts:** What a way to finish off this series of projects! This one had a slightly different approach to displaying data using the d3-hierarchy module. But hey, everything else still works great with the usual D3 workflow 💪
+
+**Link to work:** [freeCodeCamp Project: Visualize Data with a Treemap Diagram](https://insidiae.github.io/treemap/index.html), [freeCodeCamp Data Visualization Certification](https://www.freecodecamp.org/certification/insidiae/data-visualization)

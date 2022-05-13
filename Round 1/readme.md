@@ -28,3 +28,4 @@ More courses coming soon! See [curriculum.md](curriculum.md) for more details.
 2. [freeCodeCamp - Front End Development Libraries](https://www.freecodecamp.org/certification/insidiae/front-end-development-libraries)
 3. [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/certificate/UC-6aa9308e-a5f4-458d-b595-abfbb5a05940/)
 4. [freeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/certification/insidiae/responsive-web-design)
+5. [freeCodeCamp - Data Visualization](https://www.freecodecamp.org/certification/insidiae/data-visualization)
