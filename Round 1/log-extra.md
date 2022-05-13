@@ -167,3 +167,11 @@
 **Thoughts:** Pretty chill challenge today, exploring how to add cute lille easter eggs into a webpage by detecting keystroke sequences (like the Konami Code).
 
 **Link to work:** [#JavaScript30 Day 12: Key Sequence Detection (KONAMI CODE)](https://insidiae.github.io/js30/12-key-sequence-detection/index.html)
+
+### Extra Day 22: Friday, May 13th, 2022
+
+**Today's Progress**: Finished Day 13 of the #JavaScript30 challenge.
+
+**Thoughts:** Pretty neat challenge today, building a pure JS implementation for scroll-based slide-in effects.
+
+**Link to work:** [#JavaScript30 Day 13: Slide In on Scroll](https://insidiae.github.io/js30/13-slide-in-on-scroll/index.html)
