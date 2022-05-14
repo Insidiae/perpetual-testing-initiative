@@ -524,3 +524,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** What a way to finish off this series of projects! This one had a slightly different approach to displaying data using the d3-hierarchy module. But hey, everything else still works great with the usual D3 workflow 💪
 
 **Link to work:** [freeCodeCamp Project: Visualize Data with a Treemap Diagram](https://insidiae.github.io/treemap/index.html), [freeCodeCamp Data Visualization Certification](https://www.freecodecamp.org/certification/insidiae/data-visualization)
+
+### Day 64: Saturday, May 14th, 2022
+
+**Today's Progress**: Built the Marginal Histogram project from the Fullstack D3 book.
+
+**Thoughts:** Just a couple more extra projects from the Fullstack D3 book before I wrap up! Today's project is another advanced dataviz exercise spicing up the old Scatterplot into a beautiful Marginal Histogram.
+
+**Link to work:** [Marginal Histogram](https://insidiae.github.io/fullstack-d3/book/marginal-histogram/index.html)
