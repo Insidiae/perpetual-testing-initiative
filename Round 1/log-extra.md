@@ -175,3 +175,11 @@
 **Thoughts:** Pretty neat challenge today, building a pure JS implementation for scroll-based slide-in effects.
 
 **Link to work:** [#JavaScript30 Day 13: Slide In on Scroll](https://insidiae.github.io/js30/13-slide-in-on-scroll/index.html)
+
+### Extra Day 23: Saturday, May 14th, 2022
+
+**Today's Progress**: Finished Day 14 of the #JavaScript30 challenge.
+
+**Thoughts:** We take a bit of a breather today, and reviewed some of the different ways to copy arrays and objects in JavaScript.
+
+**Link to work:** [#JavaScript30 Day 14: Object and Arrays - Reference VS Copy](https://insidiae.github.io/js30/14-references-vs-copying/index.html)
