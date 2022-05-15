@@ -532,3 +532,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** Just a couple more extra projects from the Fullstack D3 book before I wrap up! Today's project is another advanced dataviz exercise spicing up the old Scatterplot into a beautiful Marginal Histogram.
 
 **Link to work:** [Marginal Histogram](https://insidiae.github.io/fullstack-d3/book/marginal-histogram/index.html)
+
+### Day 65: Sunday, May 15th, 2022
+
+**Today's Progress**: Built the Animated Sankey Diagram project from the Fullstack D3 book.
+
+**Thoughts:** One last complex data visualization project from the Fullstack D3 book! We take a simple dataset relating gender + socioeconomic status to educational attainment and use it to generate random data to populate an Animated Sankey Diagram.
+
+**Link to work:** [Animated Sankey Diagram](https://insidiae.github.io/fullstack-d3/book/animated-sankey/index.html)
