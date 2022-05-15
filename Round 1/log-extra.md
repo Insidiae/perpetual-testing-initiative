@@ -183,3 +183,11 @@
 **Thoughts:** We take a bit of a breather today, and reviewed some of the different ways to copy arrays and objects in JavaScript.
 
 **Link to work:** [#JavaScript30 Day 14: Object and Arrays - Reference VS Copy](https://insidiae.github.io/js30/14-references-vs-copying/index.html)
+
+### Extra Day 24: Sunday, May 15th, 2022
+
+**Today's Progress**: Finished Day 15 of the #JavaScript30 challenge.
+
+**Thoughts:** Pretty meaty challenge today! We started by reviewing how to work with LocalStorage and then used event delegation to create a persistent dynamic checklist.
+
+**Link to work:** [#JavaScript30 Day 15: LocalStorage and Event Delegation](https://insidiae.github.io/js30/15-localstorage-event-delegation/index.html)
