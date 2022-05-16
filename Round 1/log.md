@@ -540,3 +540,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** One last complex data visualization project from the Fullstack D3 book! We take a simple dataset relating gender + socioeconomic status to educational attainment and use it to generate random data to populate an Animated Sankey Diagram.
 
 **Link to work:** [Animated Sankey Diagram](https://insidiae.github.io/fullstack-d3/book/animated-sankey/index.html)
+
+### Day 66: Monday, May 16th, 2022
+
+**Today's Progress**: Ported the rest of the common chart examples from the Fullstack D3 book.
+
+**Thoughts:** Just tying up some loose ends today, porting the other common chart examples before I redo every exercise using React + D3.
+
+**Link to work:** [Radar Chart](https://insidiae.github.io/fullstack-d3/book/common-charts/radar.html), [Pie/Donut Chart](https://insidiae.github.io/fullstack-d3/book/common-charts/pie.html), [Box Plot](https://insidiae.github.io/fullstack-d3/book/common-charts/box-plot.html)
