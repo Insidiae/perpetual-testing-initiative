@@ -191,3 +191,11 @@
 **Thoughts:** Pretty meaty challenge today! We started by reviewing how to work with LocalStorage and then used event delegation to create a persistent dynamic checklist.
 
 **Link to work:** [#JavaScript30 Day 15: LocalStorage and Event Delegation](https://insidiae.github.io/js30/15-localstorage-event-delegation/index.html)
+
+### Extra Day 25: Monday, May 16th, 2022
+
+**Today's Progress**: Finished Day 16 of the #JavaScript30 challenge.
+
+**Thoughts:** Today we did some calculations on mouse pointer offset positions to create a rather trippy text effect with some CSS text-shadow sorcery.
+
+**Link to work:** [#JavaScript30 Day 16: CSS Text Shadow Mouse Move Effect](https://insidiae.github.io/js30/16-text-shadow-mouse-move/index.html)
