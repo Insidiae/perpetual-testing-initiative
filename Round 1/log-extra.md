@@ -199,3 +199,11 @@
 **Thoughts:** Today we did some calculations on mouse pointer offset positions to create a rather trippy text effect with some CSS text-shadow sorcery.
 
 **Link to work:** [#JavaScript30 Day 16: CSS Text Shadow Mouse Move Effect](https://insidiae.github.io/js30/16-text-shadow-mouse-move/index.html)
+
+### Extra Day 26: Wednesday, May 18th, 2022
+
+**Today's Progress**: Finished Day 17 of the #JavaScript30 challenge.
+
+**Thoughts:** Today's a short and sweet challenge! We used some regex to sort a list of band names while ignoring articles such as a/an/the/etc.
+
+**Link to work:** [#JavaScript30 Day 17: Sorting Band Names without articles](https://insidiae.github.io/js30/17-sorting-without-articles/index.html)
