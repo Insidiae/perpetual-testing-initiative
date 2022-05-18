@@ -548,3 +548,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** Just tying up some loose ends today, porting the other common chart examples before I redo every exercise using React + D3.
 
 **Link to work:** [Radar Chart](https://insidiae.github.io/fullstack-d3/book/common-charts/radar.html), [Pie/Donut Chart](https://insidiae.github.io/fullstack-d3/book/common-charts/pie.html), [Box Plot](https://insidiae.github.io/fullstack-d3/book/common-charts/box-plot.html)
+
+### Day 67: Wednesday, May 18th, 2022
+
+**Today's Progress**: Remade Chapter 1 of the Fullstack D3 book using React.
+
+**Thoughts:** Time to put my skills to the test by remaking the previous D3 lessons using React + TypeScript! So far the toughest roadblock I'm facing is learning the D3 typedefs and wrangling my accessor + scale functions 🤯
+
+**Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react)
