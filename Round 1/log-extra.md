@@ -207,3 +207,11 @@
 **Thoughts:** Today's a short and sweet challenge! We used some regex to sort a list of band names while ignoring articles such as a/an/the/etc.
 
 **Link to work:** [#JavaScript30 Day 17: Sorting Band Names without articles](https://insidiae.github.io/js30/17-sorting-without-articles/index.html)
+
+### Extra Day 27: Wednesday, May 19th, 2022
+
+**Today's Progress**: Finished Day 18 of the #JavaScript30 challenge.
+
+**Thoughts:** Another short and sweet challenge today! We got a bit more practice with Array.reduce() to tally up a bunch of time strings.
+
+**Link to work:** [#JavaScript30 Day 18: Tally String Times with Reduce](https://insidiae.github.io/js30/18-tally-string-times-with-reduce/index.html)
