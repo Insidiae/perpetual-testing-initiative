@@ -556,3 +556,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** Time to put my skills to the test by remaking the previous D3 lessons using React + TypeScript! So far the toughest roadblock I'm facing is learning the D3 typedefs and wrangling my accessor + scale functions 🤯
 
 **Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react)
+
+### Day 68: Saturday, May 21st, 2022
+
+**Today's Progress**: Remade Chapter 2 of the Fullstack D3 book using React.
+
+**Thoughts:** Cleaned up my typings for the data + accessor functions, ported another dataviz exercise into React + D3 + Typescript, and tweaked my custom axis ticks to make the charts exactly like the original examples. Now my React port of the step-by-step D3 workflow is starting to make sense 🤓
+
+**Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react)
