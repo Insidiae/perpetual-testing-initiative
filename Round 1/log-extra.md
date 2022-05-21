@@ -208,10 +208,18 @@
 
 **Link to work:** [#JavaScript30 Day 17: Sorting Band Names without articles](https://insidiae.github.io/js30/17-sorting-without-articles/index.html)
 
-### Extra Day 27: Wednesday, May 19th, 2022
+### Extra Day 27: Thursday, May 19th, 2022
 
 **Today's Progress**: Finished Day 18 of the #JavaScript30 challenge.
 
 **Thoughts:** Another short and sweet challenge today! We got a bit more practice with Array.reduce() to tally up a bunch of time strings.
 
 **Link to work:** [#JavaScript30 Day 18: Tally String Times with Reduce](https://insidiae.github.io/js30/18-tally-string-times-with-reduce/index.html)
+
+### Extra Day 28: Wednesday, May 19th, 2022
+
+**Today's Progress**: Finished Day 19 of the #JavaScript30 challenge.
+
+**Thoughts:** Today was a pretty hefty code-along session, exploring the getUserMedia API and playing around with the webcam output's pixel values to create some fancy effects before displaying to the screen via the HTML5 Canvas.
+
+**Link to work:** [#JavaScript30 Day 19: Unreal Webcam Fun](https://insidiae.github.io/js30/19-webcam-fun/index.html)
