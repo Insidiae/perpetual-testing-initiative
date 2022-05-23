@@ -216,10 +216,18 @@
 
 **Link to work:** [#JavaScript30 Day 18: Tally String Times with Reduce](https://insidiae.github.io/js30/18-tally-string-times-with-reduce/index.html)
 
-### Extra Day 28: Wednesday, May 19th, 2022
+### Extra Day 28: Saturday, May 21st, 2022
 
 **Today's Progress**: Finished Day 19 of the #JavaScript30 challenge.
 
 **Thoughts:** Today was a pretty hefty code-along session, exploring the getUserMedia API and playing around with the webcam output's pixel values to create some fancy effects before displaying to the screen via the HTML5 Canvas.
 
 **Link to work:** [#JavaScript30 Day 19: Unreal Webcam Fun](https://insidiae.github.io/js30/19-webcam-fun/index.html)
+
+### Extra Day 29: Monday, May 23rd, 2022
+
+**Today's Progress**: Finished Days 20-23 of the #JavaScript30 challenge.
+
+**Thoughts:** Did a bunch of excercises today to catch up with my missed days. TIL we could make a pretty decent text-to-speech and speech-to-text apps with just the native borwser APIs.
+
+**Link to work:** [#JavaScript30 Day 20: Native Speech Recognition](https://insidiae.github.io/js30/20-native-speech-recognition/index.html), [#JavaScript30 Day 21: Geolocation based Speedometer and Compass](https://insidiae.github.io/js30/21-geolocation/index.html), [#JavaScript30 Day 22: Follow Along Links](https://insidiae.github.io/js30/22-follow-along-links/index.html), [#JavaScript30 Day 23: Speech Synthesis](https://insidiae.github.io/js30/23-speech-synthesis/index.html)
