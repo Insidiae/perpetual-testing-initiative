@@ -228,6 +228,14 @@
 
 **Today's Progress**: Finished Days 20-23 of the #JavaScript30 challenge.
 
-**Thoughts:** Did a bunch of excercises today to catch up with my missed days. TIL we could make a pretty decent text-to-speech and speech-to-text apps with just the native borwser APIs.
+**Thoughts:** Did a bunch of exercises today to catch up with my missed days. TIL we could make a pretty decent text-to-speech and speech-to-text apps with just the native browser APIs.
 
 **Link to work:** [#JavaScript30 Day 20: Native Speech Recognition](https://insidiae.github.io/js30/20-native-speech-recognition/index.html), [#JavaScript30 Day 21: Geolocation based Speedometer and Compass](https://insidiae.github.io/js30/21-geolocation/index.html), [#JavaScript30 Day 22: Follow Along Links](https://insidiae.github.io/js30/22-follow-along-links/index.html), [#JavaScript30 Day 23: Speech Synthesis](https://insidiae.github.io/js30/23-speech-synthesis/index.html)
+
+### Extra Day 30: Monday, May 24rd, 2022
+
+**Today's Progress**: Finished Day 24 of the #JavaScript30 challenge.
+
+**Thoughts:** Today we've got a part-CSS, part-JS exercise exploring different options to implement a sticky nav from a simple `position: sticky` CSS rule to using scroll event handlers to add some fancy animations.
+
+**Link to work:** [#JavaScript30 Day 24: Sticky Nav](https://insidiae.github.io/js30/24-sticky-nav/index.html)
