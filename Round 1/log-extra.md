@@ -232,10 +232,18 @@
 
 **Link to work:** [#JavaScript30 Day 20: Native Speech Recognition](https://insidiae.github.io/js30/20-native-speech-recognition/index.html), [#JavaScript30 Day 21: Geolocation based Speedometer and Compass](https://insidiae.github.io/js30/21-geolocation/index.html), [#JavaScript30 Day 22: Follow Along Links](https://insidiae.github.io/js30/22-follow-along-links/index.html), [#JavaScript30 Day 23: Speech Synthesis](https://insidiae.github.io/js30/23-speech-synthesis/index.html)
 
-### Extra Day 30: Monday, May 24rd, 2022
+### Extra Day 30: Tuesday, May 24th, 2022
 
 **Today's Progress**: Finished Day 24 of the #JavaScript30 challenge.
 
 **Thoughts:** Today we've got a part-CSS, part-JS exercise exploring different options to implement a sticky nav from a simple `position: sticky` CSS rule to using scroll event handlers to add some fancy animations.
 
 **Link to work:** [#JavaScript30 Day 24: Sticky Nav](https://insidiae.github.io/js30/24-sticky-nav/index.html)
+
+### Extra Day 31: Wednesday, May 25th, 2022
+
+**Today's Progress**: Finished Day 25 of the #JavaScript30 challenge.
+
+**Thoughts:** Another short and sweet exercise today, playing around with different options passed to addEventListener and dealing with event propagation.
+
+**Link to work:** [#JavaScript30 Day 25: Event Capture, Propagation, Bubbling and Once](https://insidiae.github.io/js30/25-event-options/index.html)
