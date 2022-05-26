@@ -247,3 +247,11 @@
 **Thoughts:** Another short and sweet exercise today, playing around with different options passed to addEventListener and dealing with event propagation.
 
 **Link to work:** [#JavaScript30 Day 25: Event Capture, Propagation, Bubbling and Once](https://insidiae.github.io/js30/25-event-options/index.html)
+
+### Extra Day 32: Thursday, May 26th, 2022
+
+**Today's Progress**: Finished Days 26-30 of the #JavaScript30 challenge.
+
+**Thoughts:** Pretty intense session today! Had to finish these last couple exercises in one go today before I go on vacation for the weekend.
+
+**Link to work:** [#JavaScript30 Day 26: Stripe Follow Along Dropdown](https://insidiae.github.io/js30/26-stripe-follow-along-dropdown/index.html), [#JavaScript30 Day 27: Click and Drag to Scroll](https://insidiae.github.io/js30/27-click-and-drag-to-scroll/index.html), [#JavaScript30 Day 28: Video Speed Controller UI](https://insidiae.github.io/js30/28-video-speed-controller/index.html), [#JavaScript30 Day 29: Countdown Clock](https://insidiae.github.io/js30/29-countdown-clock/index.html), [#JavaScript30 Day 30: Whack A Mole Game](https://insidiae.github.io/js30/30-whack-a-mole/index.html)

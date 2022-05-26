@@ -6,11 +6,6 @@ You can check my progress logs for this round [here](log.md). You may also check
 
 [Course progress repo](https://github.com/Insidiae/fullstack-d3)
 
-**🔀 Side Quest: [#JavaScript30](https://javascript30.com/)**
-
-- [Challenge solutions](https://insidiae.github.io/js30/)
-- [Challenge solutions repo](https://github.com/Insidiae/js30)
-
 ## 💿 [Course Playlist](curriculum.md)
 
 1. ✅ [Epic React](https://epicreact.dev/)
@@ -19,6 +14,7 @@ You can check my progress logs for this round [here](log.md). You may also check
 4. ✅ [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 5. ✅ [The Ultimate JavaScript Animation Course](https://developedbyed.com/p/the-ultimate-javascript-animation-course)
 6. ▶️ [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
+7. ✅ [#JavaScript30 Challenge](https://javascript30.com/)
 
 More courses coming soon! See [curriculum.md](curriculum.md) for more details.
 
