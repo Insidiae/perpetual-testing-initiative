@@ -263,3 +263,11 @@
 **Thoughts:** As part of my local community's initiative for study groups, I started a learning club for Wes Bos' Beginner JavaScript course! This will be a 30-day challenge that I'll be taking along with some of my study group members. Super stoked to see how far this study group initiative goes!
 
 **Link to work:** [Beginner JS Learning Club: Day 1](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-1)
+
+### Extra Day 34: Tuesday, June 21st, 2022
+
+**Today's Progress**: Day 2 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** These first few days focus on the basic concepts of JavaScript. Today we explore JavaScript's basic types and functions.
+
+**Link to work:** [Beginner JS Learning Club: Day 2](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-2)
