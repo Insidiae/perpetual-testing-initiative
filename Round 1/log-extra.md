@@ -255,3 +255,11 @@
 **Thoughts:** Pretty intense session today! Had to finish these last couple exercises in one go today before I go on vacation for the weekend.
 
 **Link to work:** [#JavaScript30 Day 26: Stripe Follow Along Dropdown](https://insidiae.github.io/js30/26-stripe-follow-along-dropdown/index.html), [#JavaScript30 Day 27: Click and Drag to Scroll](https://insidiae.github.io/js30/27-click-and-drag-to-scroll/index.html), [#JavaScript30 Day 28: Video Speed Controller UI](https://insidiae.github.io/js30/28-video-speed-controller/index.html), [#JavaScript30 Day 29: Countdown Clock](https://insidiae.github.io/js30/29-countdown-clock/index.html), [#JavaScript30 Day 30: Whack A Mole Game](https://insidiae.github.io/js30/30-whack-a-mole/index.html)
+
+### Extra Day 33: Monday, June 20th, 2022
+
+**Today's Progress**: Day 1 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** As part of my local community's initiative for study groups, I started a learning club for Wes Bos' Beginner JavaScript course! This will be a 30-day challenge that I'll be taking along with some of my study group members. Super stoked to see how far this study group initiative goes!
+
+**Link to work:** [Beginner JS Learning Club: Day 1](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-1)

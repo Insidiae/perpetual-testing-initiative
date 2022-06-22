@@ -6,6 +6,10 @@ You can check my progress logs for this round [here](log.md). You may also check
 
 [Course progress repo](https://github.com/Insidiae/fullstack-d3)
 
+### 🔀 Side Quest: [Beginner JavaScript](https://beginnerjavascript.com/) Learning Club!
+
+[Learning Club progress repo](https://github.com/Insidiae/beginner-javascript-learning-club)
+
 ## 💿 [Course Playlist](curriculum.md)
 
 1. ✅ [Epic React](https://epicreact.dev/)
@@ -15,6 +19,7 @@ You can check my progress logs for this round [here](log.md). You may also check
 5. ✅ [The Ultimate JavaScript Animation Course](https://developedbyed.com/p/the-ultimate-javascript-animation-course)
 6. ▶️ [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
 7. ✅ [#JavaScript30 Challenge](https://javascript30.com/)
+8. ▶️ [Beginner JavaScript](https://beginnerjavascript.com/)
 
 More courses coming soon! See [curriculum.md](curriculum.md) for more details.
 
