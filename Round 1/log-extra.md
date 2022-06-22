@@ -271,3 +271,11 @@
 **Thoughts:** These first few days focus on the basic concepts of JavaScript. Today we explore JavaScript's basic types and functions.
 
 **Link to work:** [Beginner JS Learning Club: Day 2](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-2)
+
+### Extra Day 35: Wednesday, June 22nd, 2022
+
+**Today's Progress**: Day 3 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today we take a deeper dive into functions in JavaScript. We explore the different parts of a JS function, different ways to write JS functions, and tacke more tricky concepts such as hoisting, IIFEs, the `this` keyword, and callbacks.
+
+**Link to work:** [Beginner JS Learning Club: Day 3](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-3)
