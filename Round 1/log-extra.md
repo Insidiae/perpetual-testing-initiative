@@ -303,3 +303,13 @@
 **Thoughts:** Today's our first "Cardio" exercise! This is a pretty intense series of exercises that cover pretty much all the topics we've learned in the DOM section.
 
 **Link to work:** [Beginner JS Learning Club: Day 6](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-6)
+
+### Extra Day 39: Sunday, June 26th, 2022
+
+**Today's Progress**: Day 7 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today's a shorter than usual session, but covers two pretty hefty lectures all about events in JS.
+
+That wraps up the first week of my mini learning club challenge! This first week gets us going with various topics about the fundamentals of JS. Starting next week we'll cover more interesting JS topics and build some "real-world" applications with the `Serious Practice Exercises` section.
+
+**Link to work:** [Beginner JS Learning Club: Day 7](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-7)
