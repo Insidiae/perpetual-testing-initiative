@@ -295,3 +295,11 @@
 **Thoughts:** We're starting to get into the good stuff! Today we start actually putting stuff into the web page by working with the DOM. For today, we start with the basic stuff like setting text content and modifying classes/attributes.
 
 **Link to work:** [Beginner JS Learning Club: Day 5](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-5)
+
+### Extra Day 38: Saturday, June 25th, 2022
+
+**Today's Progress**: Day 6 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today's our first "Cardio" exercise! This is a pretty intense series of exercises that cover pretty much all the topics we've learned in the DOM section.
+
+**Link to work:** [Beginner JS Learning Club: Day 6](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-6)
