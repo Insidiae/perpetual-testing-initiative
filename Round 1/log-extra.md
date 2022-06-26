@@ -279,3 +279,11 @@
 **Thoughts:** Today we take a deeper dive into functions in JavaScript. We explore the different parts of a JS function, different ways to write JS functions, and tacke more tricky concepts such as hoisting, IIFEs, the `this` keyword, and callbacks.
 
 **Link to work:** [Beginner JS Learning Club: Day 3](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-3)
+
+### Extra Day 36: Thursday, June 23rd, 2022
+
+**Today's Progress**: Day 4 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today's set of lectures cover some mildly tricky topics (especially for beginners) like scope, hoisting, and closures. We also explore a variety of ways to make use of the browser devtools for debugging beyond simple `console.log()`s.
+
+**Link to work:** [Beginner JS Learning Club: Day 4](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-4)
