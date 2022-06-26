@@ -287,3 +287,11 @@
 **Thoughts:** Today's set of lectures cover some mildly tricky topics (especially for beginners) like scope, hoisting, and closures. We also explore a variety of ways to make use of the browser devtools for debugging beyond simple `console.log()`s.
 
 **Link to work:** [Beginner JS Learning Club: Day 4](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-4)
+
+### Extra Day 37: Friday, June 24th, 2022
+
+**Today's Progress**: Day 5 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We're starting to get into the good stuff! Today we start actually putting stuff into the web page by working with the DOM. For today, we start with the basic stuff like setting text content and modifying classes/attributes.
+
+**Link to work:** [Beginner JS Learning Club: Day 5](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-5)
