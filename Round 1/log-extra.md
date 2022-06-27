@@ -313,3 +313,11 @@
 That wraps up the first week of my mini learning club challenge! This first week gets us going with various topics about the fundamentals of JS. Starting next week we'll cover more interesting JS topics and build some "real-world" applications with the `Serious Practice Exercises` section.
 
 **Link to work:** [Beginner JS Learning Club: Day 7](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-7)
+
+### Extra Day 40: Monday, June 27th, 2022
+
+**Today's Progress**: Day 8 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We have our first "real-world" application exercise today! The Etch-a-Sketch app project showcases the previous topics we've covered so far, from the basic JS fundamentals to working with events on DOM elements, in a more challenging context (heh) with the HTML5 Canvas API. We also get a preview of some of the later topics such as flow control using `switch` and destructuring.
+
+**Link to work:** [Beginner JS Learning Club: Day 7](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-8)
