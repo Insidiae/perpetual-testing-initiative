@@ -329,3 +329,11 @@ That wraps up the first week of my mini learning club challenge! This first week
 **Thoughts:** We get some more practice on the previous topics with three more practice exercises, while mixing in intermediate topics such as the `IntersectionObserver` API and making our apps more accessible via ARIA attributes.
 
 **Link to work:** [Beginner JS Learning Club: Day 9](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-9)
+
+### Extra Day 42: Wednesday, June 29th, 2022
+
+**Today's Progress**: Day 10 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We now go back to the regular lectures! Today we learn about how to add logic and flow control within our JS code, using `if`/`else` blocks to conditionally run parts of our code.
+
+**Link to work:** [Beginner JS Learning Club: Day 10](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-10)
