@@ -572,3 +572,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** Been a while since I worked on this! Making the histogram reusable for different metrics was a bit tricky especially with adding proper TypeScript types, but the rest became surprisingly intuitive after referencing my past code and simply rewriting them into React!
 
 **Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react)
+
+### Day 70: Wednesday, July 20th, 2022
+
+**Today's Progress**: Remade Chapter 4 of the Fullstack D3 book using React.
+
+**Thoughts:** React-Spring's API for animations and transitions definitely took some time to get used to, but I got the hang of it pretty quickly after creating a small sample project to get a feel of how to make the APIs work and then using the same concepts in the actual project!
+
+**Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react)
