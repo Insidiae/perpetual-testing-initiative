@@ -580,3 +580,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** React-Spring's API for animations and transitions definitely took some time to get used to, but I got the hang of it pretty quickly after creating a small sample project to get a feel of how to make the APIs work and then using the same concepts in the actual project!
 
 **Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react)
+
+### Day 71: Saturday, July 23rd, 2022
+
+**Today's Progress**: Remade Chapter 5 of the Fullstack D3 book using React.
+
+**Thoughts:** Took some time to clean up my code a bit, and it paid off really well! I was able to set up interactions (tooltips, event handlers, etc.) to the previous charts a lot quicker now that I have much less code bloat to deal with.
+
+**Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react)
