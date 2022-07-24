@@ -588,3 +588,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** Took some time to clean up my code a bit, and it paid off really well! I was able to set up interactions (tooltips, event handlers, etc.) to the previous charts a lot quicker now that I have much less code bloat to deal with.
 
 **Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react)
+
+### Day 72: Sunday, July 24th, 2022
+
+**Today's Progress**: Remade Chapter 7 of the Fullstack D3 book using React.
+
+**Thoughts:** Just skipped ahead to the Dataviz Basics chapter for now! I feel like I'm getting the hang of the React + D3 workflow now, since really the trickiest part of porting this chapter's code to React + TypeScript is using proper types for the functions I ported.
+
+**Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react)
