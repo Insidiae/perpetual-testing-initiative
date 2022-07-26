@@ -604,3 +604,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** Alright, I finally converted all exercises from the Masterclass into React + TypeScript! There's only a few extra charts from the book, as well as a few more major projects that I need to port before I can call this project 100% complete, but I'm feeling pretty good with this progress so far!
 
 **Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react), [Live Demo](https://bespoke-zuccutto-1b184d.netlify.app/)
+
+### Day 74: Tuesday, July 26th, 2022
+
+**Today's Progress**: Remade Chapter 10 of the Fullstack D3 book using React.
+
+**Thoughts:** Porting the Marginal Histogram project was challenging as I expected. I'm certain there's a lot of optimizations I can do to improve my code here, but for now it seems to perform about the same as the original version so I'm pretty happy about this one!
+
+**Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react), [Live Demo](https://bespoke-zuccutto-1b184d.netlify.app/)

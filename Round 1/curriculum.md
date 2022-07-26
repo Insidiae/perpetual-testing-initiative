@@ -65,7 +65,7 @@ After I finished the D3 section of [The Advanced Web Developer Bootcamp](https:/
 
 #### 💯 Extra Credit
 
-- Redo projects using React + D3
+- ☑️ Redo projects using React + D3
 
 ### 4. Major Project - TBA
 
@@ -152,7 +152,7 @@ This is a list of some of my project-based online course backlogs. I'll be using
 
 - [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) - Forkify App Project
 - [Node.js, Express, MongoDB & More: The Complete Bootcamp 2022](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) - Natours Project
-- [Beginner JavaScript](https://beginnerjavascript.com/) - Practice Exercises/Projects
+- ✅ [Beginner JavaScript](https://beginnerjavascript.com/) - Practice Exercises/Projects
 - [ZTM Academy Workshop: Responsive Web Design](https://zerotomastery.io/workshops-and-more/)
 - [The Advanced Web Developer Bootcamp](https://www.udemy.com/course/the-advanced-web-developer-bootcamp) - Warbler Project
 - [React and Typescript: Build a Portfolio Project](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/)

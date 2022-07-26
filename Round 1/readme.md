@@ -2,13 +2,11 @@
 
 You can check my progress logs for this round [here](log.md). You may also check out [some extras](log-extra.md) for when curiosity takes me to different places than my main curriculum.
 
-## ▶️ Now Playing: [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
+## 💿 Up Next: Coming soon. Stay tuned!
 
-[Course progress repo](https://github.com/Insidiae/fullstack-d3)
+### 🔀 Side Quest: Fullstack D3 - React Edition
 
-### 🔀 Side Quest: [Beginner JavaScript](https://beginnerjavascript.com/) Learning Club!
-
-[Learning Club progress repo](https://github.com/Insidiae/beginner-javascript-learning-club)
+[Course progress repo](https://github.com/Insidiae/fullstack-d3-react)
 
 ## 💿 [Course Playlist](curriculum.md)
 
@@ -17,9 +15,9 @@ You can check my progress logs for this round [here](log.md). You may also check
 3. ✅ [CSS for Javascript Developers](https://css-for-js.dev/)
 4. ✅ [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 5. ✅ [The Ultimate JavaScript Animation Course](https://developedbyed.com/p/the-ultimate-javascript-animation-course)
-6. ▶️ [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
+6. ✅ [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
 7. ✅ [#JavaScript30 Challenge](https://javascript30.com/)
-8. ▶️ [Beginner JavaScript](https://beginnerjavascript.com/)
+8. ✅ [Beginner JavaScript](https://beginnerjavascript.com/)
 
 More courses coming soon! See [curriculum.md](curriculum.md) for more details.
 
