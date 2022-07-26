@@ -596,3 +596,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** Just skipped ahead to the Dataviz Basics chapter for now! I feel like I'm getting the hang of the React + D3 workflow now, since really the trickiest part of porting this chapter's code to React + TypeScript is using proper types for the functions I ported.
 
 **Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react)
+
+### Day 73: Monday, July 25th, 2022
+
+**Today's Progress**: Remade Chapter 11 of the Fullstack D3 book using React.
+
+**Thoughts:** Alright, I finally converted all exercises from the Masterclass into React + TypeScript! There's only a few extra charts from the book, as well as a few more major projects that I need to port before I can call this project 100% complete, but I'm feeling pretty good with this progress so far!
+
+**Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react), [Live Demo](https://bespoke-zuccutto-1b184d.netlify.app/)
