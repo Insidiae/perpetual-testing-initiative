@@ -4,10 +4,6 @@ You can check my progress logs for this round [here](log.md). You may also check
 
 ## 💿 Up Next: Coming soon. Stay tuned!
 
-### 🔀 Side Quest: Fullstack D3 - React Edition
-
-[Course progress repo](https://github.com/Insidiae/fullstack-d3-react)
-
 ## 💿 [Course Playlist](curriculum.md)
 
 1. ✅ [Epic React](https://epicreact.dev/)

@@ -620,3 +620,15 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** Adding the table from chapter 9 was a breeze now that I can make tables declaratively using React. I also added some of the common charts and tried making them reusable for different metrics!
 
 **Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react), [Live Demo](https://bespoke-zuccutto-1b184d.netlify.app/)
+
+### Day 76: Wednesday, July 28th, 2022
+
+**Today's Progress**: Added the rest of the common charts from Chapter 8, and Remade Chapter 6 of the Fullstack D3 book using React.
+
+**Thoughts:** Making the charts reusable for different metrics paid off well today! The rest of the common chart examples from Chapter 8 had toggles to change metrics, and I can easily update the chart as simple as passing in a different metric prop.
+
+The map example from chapter 6 was a pretty tough example, but the main challenge came from optimizing the renders so the whole chart doesn't rerender when i'm only updating the tooltip. I'm glad to see my useAsync hook still work just as well with the two new datasets I'm working with for this chapter though!
+
+I think that's pretty much it for this rewrite project! There's still one more major project I haven't done yet, but the complex-looking animations look like it would take much longer to rewrite using React + TypeScipt. I'll take that one as an extra challenge instead, so stay tuned!
+
+**Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react), [Live Demo](https://bespoke-zuccutto-1b184d.netlify.app/)

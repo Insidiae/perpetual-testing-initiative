@@ -65,7 +65,7 @@ After I finished the D3 section of [The Advanced Web Developer Bootcamp](https:/
 
 #### 💯 Extra Credit
 
-- ☑️ Redo projects using React + D3
+- ✅ Redo projects using React + D3
 
 ### 4. Major Project - TBA
 
