@@ -612,3 +612,11 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 **Thoughts:** Porting the Marginal Histogram project was challenging as I expected. I'm certain there's a lot of optimizations I can do to improve my code here, but for now it seems to perform about the same as the original version so I'm pretty happy about this one!
 
 **Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react), [Live Demo](https://bespoke-zuccutto-1b184d.netlify.app/)
+
+### Day 75: Wednesday, July 27th, 2022
+
+**Today's Progress**: Remade Chapter 9 of the Fullstack D3 book using React, as well as added the basic common charts from Chapter 8.
+
+**Thoughts:** Adding the table from chapter 9 was a breeze now that I can make tables declaratively using React. I also added some of the common charts and tried making them reusable for different metrics!
+
+**Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react), [Live Demo](https://bespoke-zuccutto-1b184d.netlify.app/)
