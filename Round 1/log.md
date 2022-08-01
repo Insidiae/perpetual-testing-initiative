@@ -632,3 +632,13 @@ The map example from chapter 6 was a pretty tough example, but the main challeng
 I think that's pretty much it for this rewrite project! There's still one more major project I haven't done yet, but the complex-looking animations look like it would take much longer to rewrite using React + TypeScipt. I'll take that one as an extra challenge instead, so stay tuned!
 
 **Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react), [Live Demo](https://bespoke-zuccutto-1b184d.netlify.app/)
+
+### Day 77: Monday, August 1st, 2022
+
+**Today's Progress**: Started the ZTM React course.
+
+**Thoughts:** Time to start yet another React course! 😅
+
+This time around, I'll be speedrunning through the initial chapters of the ZTM React course to get to the Redux topics as quickly as I can. I already did a bunch of stuff differently for the course project though! I bootstrapped the project using Vite, and used Tailwind instead of Sass (or later Styled Components) for styling. Great stuff so far!
+
+**Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react), [Live Demo](https://bespoke-zuccutto-1b184d.netlify.app/)

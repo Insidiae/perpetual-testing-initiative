@@ -2,7 +2,13 @@
 
 You can check my progress logs for this round [here](log.md). You may also check out [some extras](log-extra.md) for when curiosity takes me to different places than my main curriculum.
 
-## 💿 Up Next: Coming soon. Stay tuned!
+## 💿 Now Playing: [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](https://zerotomastery.io/courses/learn-react/)
+
+[Course progress repo](https://github.com/Insidiae/crwn-clothing)
+
+### 🔀 Side B: [Rust Programming: The Complete Developer's Guide](https://zerotomastery.io/courses/learn-rust/)
+
+[Course progress repo](https://github.com/Insidiae/ztm-rust)
 
 ## 💿 [Course Playlist](curriculum.md)
 

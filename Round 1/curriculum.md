@@ -67,27 +67,36 @@ After I finished the D3 section of [The Advanced Web Developer Bootcamp](https:/
 
 - ✅ Redo projects using React + D3
 
-### 4. Major Project - TBA
+### 4. R & R (with [ZTM's Complete React Developer Course](https://zerotomastery.io/courses/learn-react/))
 
-More details soon, but I've got some plans cooking up...
+I'm taking yet another React course! 😅
 
-#### Supplemental Resources
+This time, I'm taking a course that hits two birds with one stone for my curiosities: The ZTM React course has updated pretty recently, so I'm taking the opportunity to learn "Classic" Redux along the way. As a bonus, once I get done with the course project I'll also be rewriting it with the hot new framework Remix!
 
-- [Fullstack Advanced React & GraphQL](https://advancedreact.com/)
+#### 💯 Extra Credit
+
+- Rewrite course project with Remix
+- (Optional) Convert the original project's "Classic" Redux syntax to Redux Toolkit
+
+### 5. ...& R (With [ZTM's Rust Programming: The Complete Developer's Guide](https://zerotomastery.io/courses/learn-rust/))
+
+I'm now starting to get to the topics fairly close to my intended tech stack for my upcoming big project! The first one on my list is learning Rust with ZTM's Rust course. I'll try and find ways to incorporate Rust into my future IoT projects, but either way this should hopefully get me to a great starting off point!
+
+#### Supplemental Resource
+
+- [The Embedded Rust Book](https://docs.rust-embedded.org/book/)
+
+### 6. Specialization: IoT Starter Kit
+
+Time to get serious about doing IoT projects! I'll be starting from the very basics and hopefully get some ideas for great Hardware/IoT projects along the way.
+
+1. [Arduino Step by Step: Getting Started](https://www.udemy.com/course/arduino-sbs-17gs/)
+2. [Arduino Step by Step Getting Serious](https://www.udemy.com/course/arduino-sbs-getting-serious/)
+3. Also consider: Raspberry Pi projects?
 
 ## Specializations
 
 The specializations listed below are some options I'm thinking of doing as I make progress with this round. After I finish doing the first part of the Main Curriculum, I'll be picking one of these options and add it into the Main Curriculum as my next step.
-
-### IoT Starter Kit
-
-feat. Rust
-
-1. [Rust Programming: The Complete Developer's Guide](https://academy.zerotomastery.io/p/learn-rust)
-   - See also: [The Embedded Rust Book](https://docs.rust-embedded.org/book/)
-2. [Arduino Step by Step: Getting Started](https://www.udemy.com/course/arduino-sbs-17gs/)
-3. [Arduino Step by Step Getting Serious](https://www.udemy.com/course/arduino-sbs-getting-serious/)
-4. Also consider: Raspberry Pi projects?
 
 ### Machine Learning Full Dive
 
