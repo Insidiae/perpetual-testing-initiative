@@ -641,4 +641,12 @@ I think that's pretty much it for this rewrite project! There's still one more m
 
 This time around, I'll be speedrunning through the initial chapters of the ZTM React course to get to the Redux topics as quickly as I can. I already did a bunch of stuff differently for the course project though! I bootstrapped the project using Vite, and used Tailwind instead of Sass (or later Styled Components) for styling. Great stuff so far!
 
-**Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react), [Live Demo](https://bespoke-zuccutto-1b184d.netlify.app/)
+**Link to work:** [CRWN Clothing](https://github.com/Insidiae/crwn-clothing)
+
+### Day 78: Wednesday, August 3rd, 2022
+
+**Today's Progress**: Finished the Routing, Authentication, Context, and Observer Pattern sections of the ZTM React course.
+
+**Thoughts:** Speedran a bunch of sections today! It's also my first time using the new APIs from Firebase v9. I really like the modular SDK now, with VSCode autocomplete also helping me get the methods that I need.
+
+**Link to work:** [CRWN Clothing](https://github.com/Insidiae/crwn-clothing)
