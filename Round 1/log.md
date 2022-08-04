@@ -650,3 +650,11 @@ This time around, I'll be speedrunning through the initial chapters of the ZTM R
 **Thoughts:** Speedran a bunch of sections today! It's also my first time using the new APIs from Firebase v9. I really like the modular SDK now, with VSCode autocomplete also helping me get the methods that I need.
 
 **Link to work:** [CRWN Clothing](https://github.com/Insidiae/crwn-clothing)
+
+### Day 79: Thursday, August 4th, 2022
+
+**Today's Progress**: Caught up to the pre-Redux sections of the ZTM React course.
+
+**Thoughts:** Finished speedrunning the first half of the ZTM React course. Super excited to explore Classic Redux in the upcoming sections, and see how Redux Toolkit streamlines its workflow when I refactor the project later!
+
+**Link to work:** [CRWN Clothing](https://github.com/Insidiae/crwn-clothing)
