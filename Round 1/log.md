@@ -658,3 +658,11 @@ This time around, I'll be speedrunning through the initial chapters of the ZTM R
 **Thoughts:** Finished speedrunning the first half of the ZTM React course. Super excited to explore Classic Redux in the upcoming sections, and see how Redux Toolkit streamlines its workflow when I refactor the project later!
 
 **Link to work:** [CRWN Clothing](https://github.com/Insidiae/crwn-clothing)
+
+### Day 80: Thursday, August 5th, 2022
+
+**Today's Progress**: Finished the Redux section of the ZTM React course.
+
+**Thoughts:** Finished the basic select-and-dispatch Redux workflow today. Still have to do the async stuff with thunks tomorrow, but for now at least the code is structured well enough for me to easily convert from classic Redux to RTK with a bit of help from the docs!
+
+**Link to work:** [CRWN Clothing](https://github.com/Insidiae/crwn-clothing)
