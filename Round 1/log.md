@@ -659,10 +659,18 @@ This time around, I'll be speedrunning through the initial chapters of the ZTM R
 
 **Link to work:** [CRWN Clothing](https://github.com/Insidiae/crwn-clothing)
 
-### Day 80: Thursday, August 5th, 2022
+### Day 80: Friday, August 5th, 2022
 
 **Today's Progress**: Finished the Redux section of the ZTM React course.
 
 **Thoughts:** Finished the basic select-and-dispatch Redux workflow today. Still have to do the async stuff with thunks tomorrow, but for now at least the code is structured well enough for me to easily convert from classic Redux to RTK with a bit of help from the docs!
+
+**Link to work:** [CRWN Clothing](https://github.com/Insidiae/crwn-clothing)
+
+### Day 81: Saturday, August 6th, 2022
+
+**Today's Progress**: Finished the Asynchronous Redux sections of the ZTM React course.
+
+**Thoughts:** Alright, that's it for the async Redux workflow! I also made some progress through the TypeScript sections of the course to prep for migrating to Redux Toolkit tomorrow. Most of the code maps nicely to the RTK workflow, but I think it's gonna be a real challenge migrating the Sagas into something like `createAsyncThunk`!
 
 **Link to work:** [CRWN Clothing](https://github.com/Insidiae/crwn-clothing)
