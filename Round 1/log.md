@@ -674,3 +674,13 @@ This time around, I'll be speedrunning through the initial chapters of the ZTM R
 **Thoughts:** Alright, that's it for the async Redux workflow! I also made some progress through the TypeScript sections of the course to prep for migrating to Redux Toolkit tomorrow. Most of the code maps nicely to the RTK workflow, but I think it's gonna be a real challenge migrating the Sagas into something like `createAsyncThunk`!
 
 **Link to work:** [CRWN Clothing](https://github.com/Insidiae/crwn-clothing)
+
+### Day 82: Sunday, August 7th, 2022
+
+**Today's Progress**: Migrated the capstone project of the ZTM React course to Redux Toolkit.
+
+**Thoughts:** Yeah, the basic CRUD features of the project mapped nicely to RTK! 🔥
+
+I did need to untangle the saga-based user auth flow to make it work with createAsyncThunk, but the resulting code ended up a lot cleaner to read!
+
+**Link to work:** [CRWN Clothing](https://github.com/Insidiae/crwn-clothing)
