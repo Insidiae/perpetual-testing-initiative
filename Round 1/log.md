@@ -684,3 +684,11 @@ This time around, I'll be speedrunning through the initial chapters of the ZTM R
 I did need to untangle the saga-based user auth flow to make it work with createAsyncThunk, but the resulting code ended up a lot cleaner to read!
 
 **Link to work:** [CRWN Clothing](https://github.com/Insidiae/crwn-clothing)
+
+### Day 83: Sunday, August 8th, 2022
+
+**Today's Progress**: Finished the remaining lectures of the ZTM React course.
+
+**Thoughts:** Oh wow, this course went by faster than I expected! I got what I wanted from the course project though, satisfying my curiosity about Redux and migrating "Classic" Redux code to Redux Toolkit!
+
+**Link to work:** [CRWN Clothing](https://github.com/Insidiae/crwn-clothing), [Live Demo](https://sweet-malabi-01e4fc.netlify.app/)
