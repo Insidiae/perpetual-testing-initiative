@@ -692,3 +692,11 @@ I did need to untangle the saga-based user auth flow to make it work with create
 **Thoughts:** Oh wow, this course went by faster than I expected! I got what I wanted from the course project though, satisfying my curiosity about Redux and migrating "Classic" Redux code to Redux Toolkit!
 
 **Link to work:** [CRWN Clothing](https://github.com/Insidiae/crwn-clothing), [Live Demo](https://sweet-malabi-01e4fc.netlify.app/)
+
+### Day 84: Monday, August 9th, 2022
+
+**Today's Progress**: Coded along with Kent C. Dodds' Egghead course on Remix.
+
+**Thoughts:** Before I rewrite my recent React project to Remix, I decided to take Kent's Remix course on Egghead to refresh myself on the basic topics. I'm feeling confident my rewrite project goes well!
+
+**Link to work:** [Remix Onewheel Blog](https://github.com/Insidiae/remix-onewheel-blog)
