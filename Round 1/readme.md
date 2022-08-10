@@ -4,7 +4,7 @@ You can check my progress logs for this round [here](log.md). You may also check
 
 ## 💿 Now Playing: [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](https://zerotomastery.io/courses/learn-react/)
 
-[Course progress repo](https://github.com/Insidiae/crwn-clothing)
+[Course progress repo](https://github.com/Insidiae/crwn-clothing-remix)
 
 ### 🔀 Side B: [Rust Programming: The Complete Developer's Guide](https://zerotomastery.io/courses/learn-rust/)
 
