@@ -603,7 +603,7 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 
 **Thoughts:** Alright, I finally converted all exercises from the Masterclass into React + TypeScript! There's only a few extra charts from the book, as well as a few more major projects that I need to port before I can call this project 100% complete, but I'm feeling pretty good with this progress so far!
 
-**Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react), [Live Demo](https://bespoke-zuccutto-1b184d.netlify.app/)
+**Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react), [Live Demo](https://fullstack-d3-react-1b184d.netlify.app/)
 
 ### Day 74: Tuesday, July 26th, 2022
 
@@ -611,7 +611,7 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 
 **Thoughts:** Porting the Marginal Histogram project was challenging as I expected. I'm certain there's a lot of optimizations I can do to improve my code here, but for now it seems to perform about the same as the original version so I'm pretty happy about this one!
 
-**Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react), [Live Demo](https://bespoke-zuccutto-1b184d.netlify.app/)
+**Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react), [Live Demo](https://fullstack-d3-react-1b184d.netlify.app/)
 
 ### Day 75: Wednesday, July 27th, 2022
 
@@ -619,7 +619,7 @@ This Technical Documentation Page project was a lot of fun to build, from settin
 
 **Thoughts:** Adding the table from chapter 9 was a breeze now that I can make tables declaratively using React. I also added some of the common charts and tried making them reusable for different metrics!
 
-**Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react), [Live Demo](https://bespoke-zuccutto-1b184d.netlify.app/)
+**Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react), [Live Demo](https://fullstack-d3-react-1b184d.netlify.app/)
 
 ### Day 76: Wednesday, July 28th, 2022
 
@@ -631,7 +631,7 @@ The map example from chapter 6 was a pretty tough example, but the main challeng
 
 I think that's pretty much it for this rewrite project! There's still one more major project I haven't done yet, but the complex-looking animations look like it would take much longer to rewrite using React + TypeScipt. I'll take that one as an extra challenge instead, so stay tuned!
 
-**Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react), [Live Demo](https://bespoke-zuccutto-1b184d.netlify.app/)
+**Link to work:** [Fullstack D3: React Edition](https://github.com/Insidiae/fullstack-d3-react), [Live Demo](https://fullstack-d3-react-1b184d.netlify.app/)
 
 ### Day 77: Monday, August 1st, 2022
 
@@ -691,7 +691,7 @@ I did need to untangle the saga-based user auth flow to make it work with create
 
 **Thoughts:** Oh wow, this course went by faster than I expected! I got what I wanted from the course project though, satisfying my curiosity about Redux and migrating "Classic" Redux code to Redux Toolkit!
 
-**Link to work:** [CRWN Clothing](https://github.com/Insidiae/crwn-clothing), [Live Demo](https://sweet-malabi-01e4fc.netlify.app/)
+**Link to work:** [CRWN Clothing](https://github.com/Insidiae/crwn-clothing), [Live Demo](https://crwn-clothing-01e4fc.netlify.app/)
 
 ### Day 84: Tuesday, August 9th, 2022
 
@@ -710,3 +710,13 @@ I did need to untangle the saga-based user auth flow to make it work with create
 I also like how I can just straight up copypaste my components' markup code into the new repo and even move some parts around as needed without fears of any styles breaking, thanks in large part to Tailwind's utility classes already being part of said markup 🔥
 
 **Link to work:** [CRWN Clothing - Remix Edition](https://github.com/Insidiae/crwn-clothing-remix)
+
+### Day 86: Thursday, August 11th, 2022
+
+**Today's Progress**: Finished porting the basic features of CRWN Clothing into Remix.
+
+**Thoughts:** Alright, I actually finished rewriting the ZTM React project into Remix a lot faster than I expected! Once I figured out how to get the 3rd party libraries working with Remix, the core features of the app were an absolute breeze to rewrite!
+
+Also, TIL I can change the default site name for my Netlify deploys! Now the Live Demo URLs actually reflect the project names 😂
+
+**Link to work:** [CRWN Clothing - Remix Edition](https://github.com/Insidiae/crwn-clothing-remix), [Live Demo](https://crwn-clothing-remix-61c11d.netlify.app/)
