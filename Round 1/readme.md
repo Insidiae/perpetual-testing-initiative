@@ -2,11 +2,7 @@
 
 You can check my progress logs for this round [here](log.md). You may also check out [some extras](log-extra.md) for when curiosity takes me to different places than my main curriculum.
 
-## 💿 Now Playing: [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](https://zerotomastery.io/courses/learn-react/)
-
-[Course progress repo](https://github.com/Insidiae/crwn-clothing-remix)
-
-### 🔀 Side B: [Rust Programming: The Complete Developer's Guide](https://zerotomastery.io/courses/learn-rust/)
+## 💿 Now Playing: [Rust Programming: The Complete Developer's Guide](https://zerotomastery.io/courses/learn-rust/)
 
 [Course progress repo](https://github.com/Insidiae/ztm-rust)
 
@@ -20,6 +16,8 @@ You can check my progress logs for this round [here](log.md). You may also check
 6. ✅ [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
 7. ✅ [#JavaScript30 Challenge](https://javascript30.com/)
 8. ✅ [Beginner JavaScript](https://beginnerjavascript.com/)
+9. ✅ [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](https://zerotomastery.io/courses/learn-react/)
+10. ▶️ [Rust Programming: The Complete Developer's Guide](https://zerotomastery.io/courses/learn-rust/)
 
 More courses coming soon! See [curriculum.md](curriculum.md) for more details.
 

@@ -50,7 +50,7 @@ This is another course with a somewhat different format to what I'm used to with
   - ✅ Build a Personal Portfolio Page
   - ✅ Build a Technical Documentation Page
 
-### 3. [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
+### 3. ✅ [Fullstack D3 and Data Visualization](https://www.newline.co/fullstack-d3)
 
 After I finished the D3 section of [The Advanced Web Developer Bootcamp](https://www.udemy.com/course/the-advanced-web-developer-bootcamp) last year, I've always been intrigued by data visualization with D3. With this course, I hope to satisfy that curiosity about D3 and build some beautiful data visualization projects. Bonus points if I can combine React with D3 to make the visualizations interactive as well!
 
@@ -67,7 +67,7 @@ After I finished the D3 section of [The Advanced Web Developer Bootcamp](https:/
 
 - ✅ Redo projects using React + D3
 
-### 4. R & R (with [ZTM's Complete React Developer Course](https://zerotomastery.io/courses/learn-react/))
+### 4. ✅ R & R (with [ZTM's Complete React Developer Course](https://zerotomastery.io/courses/learn-react/))
 
 I'm taking yet another React course! 😅
 
@@ -75,8 +75,8 @@ This time, I'm taking a course that hits two birds with one stone for my curiosi
 
 #### 💯 Extra Credit
 
-- Rewrite course project with Remix
-- (Optional) Convert the original project's "Classic" Redux syntax to Redux Toolkit
+- ✅ Rewrite course project with Remix
+- ✅ (Optional) Convert the original project's "Classic" Redux syntax to Redux Toolkit
 
 ### 5. ...& R (With [ZTM's Rust Programming: The Complete Developer's Guide](https://zerotomastery.io/courses/learn-rust/))
 

@@ -720,3 +720,11 @@ I also like how I can just straight up copypaste my components' markup code into
 Also, TIL I can change the default site name for my Netlify deploys! Now the Live Demo URLs actually reflect the project names 😂
 
 **Link to work:** [CRWN Clothing - Remix Edition](https://github.com/Insidiae/crwn-clothing-remix), [Live Demo](https://crwn-clothing-remix-61c11d.netlify.app/)
+
+### Day 87: Monday, August 15th, 2022
+
+**Today's Progress**: Started the ZTM Rust course.
+
+**Thoughts:** Today I just went through the intro sections covering the basic syntax/workflow for Rust programs. I'm super excited to dive into deeper topics and build blazingly fast™️ apps with Rust!
+
+**Link to work:** [Course progress repo](https://github.com/Insidiae/ztm-rust)
