@@ -728,3 +728,11 @@ Also, TIL I can change the default site name for my Netlify deploys! Now the Liv
 **Thoughts:** Today I just went through the intro sections covering the basic syntax/workflow for Rust programs. I'm super excited to dive into deeper topics and build blazingly fast™️ apps with Rust!
 
 **Link to work:** [Course progress repo](https://github.com/Insidiae/ztm-rust)
+
+### Day 88: Tuesday, August 16th, 2022
+
+**Today's Progress**: Started the ZTM Rust course.
+
+**Thoughts:** Pretty good progress today! Finished a lot of sections in the ZTM Rust course and learned impl, Vectors, Options, Results, HashMaps, and other bits of Rust syntax 💪
+
+**Link to work:** [Course progress repo](https://github.com/Insidiae/ztm-rust)
