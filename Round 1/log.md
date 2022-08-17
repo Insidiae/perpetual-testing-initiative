@@ -731,8 +731,16 @@ Also, TIL I can change the default site name for my Netlify deploys! Now the Liv
 
 ### Day 88: Tuesday, August 16th, 2022
 
-**Today's Progress**: Started the ZTM Rust course.
+**Today's Progress**: Finished a bunch of sections in the ZTM Rust course.
 
 **Thoughts:** Pretty good progress today! Finished a lot of sections in the ZTM Rust course and learned impl, Vectors, Options, Results, HashMaps, and other bits of Rust syntax 💪
+
+**Link to work:** [Course progress repo](https://github.com/Insidiae/ztm-rust)
+
+### Day 89: Wednesday, August 17th, 2022
+
+**Today's Progress**: Finished the first milestone project in the ZTM Rust course.
+
+**Thoughts:** Today's milestone project was a pretty tough challenge! Making a simple CLI and handling user inputs let us practice the topics we've covered so far, from matching different options to using impls to manipulate data structures from a separate inline module.
 
 **Link to work:** [Course progress repo](https://github.com/Insidiae/ztm-rust)
