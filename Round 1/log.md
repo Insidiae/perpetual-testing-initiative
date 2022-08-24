@@ -744,3 +744,11 @@ Also, TIL I can change the default site name for my Netlify deploys! Now the Liv
 **Thoughts:** Today's milestone project was a pretty tough challenge! Making a simple CLI and handling user inputs let us practice the topics we've covered so far, from matching different options to using impls to manipulate data structures from a separate inline module.
 
 **Link to work:** [Course progress repo](https://github.com/Insidiae/ztm-rust)
+
+### Day 90: Wednesday, August 24th, 2022
+
+**Today's Progress**: Finished the Shared Functionality and Lifetimes sections in the ZTM Rust course.
+
+**Thoughts:** Having some experience with TypeScript made it easier to grok today's topic about Generics in Rust! Using Traits to constrain generics took a bit of getting used to (especially when using them with structs), but it helps make the code I write feel a lot more secure!
+
+**Link to work:** [Course progress repo](https://github.com/Insidiae/ztm-rust)
