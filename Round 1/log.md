@@ -752,3 +752,11 @@ Also, TIL I can change the default site name for my Netlify deploys! Now the Liv
 **Thoughts:** Having some experience with TypeScript made it easier to grok today's topic about Generics in Rust! Using Traits to constrain generics took a bit of getting used to (especially when using them with structs), but it helps make the code I write feel a lot more secure!
 
 **Link to work:** [Course progress repo](https://github.com/Insidiae/ztm-rust)
+
+### Day 91: Thursday, August 25th, 2022
+
+**Today's Progress**: Finished the Improving Program Reliability and Type Conversions sections in the ZTM Rust course.
+
+**Thoughts:** Today we work with some of Rust's cooler features for improving program reliability, such as match guards, typestates, custom error types, and safe type conversions with TryFrom/TryInto.
+
+**Link to work:** [Course progress repo](https://github.com/Insidiae/ztm-rust)
