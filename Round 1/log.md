@@ -760,3 +760,11 @@ Also, TIL I can change the default site name for my Netlify deploys! Now the Liv
 **Thoughts:** Today we work with some of Rust's cooler features for improving program reliability, such as match guards, typestates, custom error types, and safe type conversions with TryFrom/TryInto.
 
 **Link to work:** [Course progress repo](https://github.com/Insidiae/ztm-rust)
+
+### Day 92: Friday, August 26th, 2022
+
+**Today's Progress**: Finished the rest of the sections before the final project in the ZTM Rust course.
+
+**Thoughts:** Finally caught up with the last lecture sections and activities! Super excited to do the final milestone project up next 💪
+
+**Link to work:** [Course progress repo](https://github.com/Insidiae/ztm-rust)
