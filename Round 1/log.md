@@ -776,3 +776,11 @@ Also, TIL I can change the default site name for my Netlify deploys! Now the Liv
 **Thoughts:** The first half of the project involves setting up the majority of the Rust backend for the ClipStash project. We split our code into several modules for easier communication, and got to work implementing each layer from the custom type definitions to the interfaces for the SQLite queries.
 
 **Link to work:** [ClipStash](https://github.com/Insidiae/ztm-rust/tree/main/clipstash)
+
+### Day 94: Sunday, August 28th, 2022
+
+**Today's Progress**: Finished the final milestone project of the ZTM Rust course, **and earned the course completion certificate**.
+
+**Thoughts:** The final project was a comprehensive recap of all the previous topics! We used a wide variety of Rust features to create a fully featured web project that is fully typesafe across its different layers.
+
+**Link to work:** [ClipStash](https://github.com/Insidiae/ztm-rust/tree/main/clipstash)
