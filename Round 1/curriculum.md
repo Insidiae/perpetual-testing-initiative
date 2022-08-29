@@ -78,7 +78,7 @@ This time, I'm taking a course that hits two birds with one stone for my curiosi
 - ✅ Rewrite course project with Remix
 - ✅ (Optional) Convert the original project's "Classic" Redux syntax to Redux Toolkit
 
-### 5. ...& R (With [ZTM's Rust Programming: The Complete Developer's Guide](https://zerotomastery.io/courses/learn-rust/))
+### 5. ✅ ...& R (With [ZTM's Rust Programming: The Complete Developer's Guide](https://zerotomastery.io/courses/learn-rust/))
 
 I'm now starting to get to the topics fairly close to my intended tech stack for my upcoming big project! The first one on my list is learning Rust with ZTM's Rust course. I'll try and find ways to incorporate Rust into my future IoT projects, but either way this should hopefully get me to a great starting off point!
 
@@ -110,8 +110,8 @@ The specializations listed below are some options I'm thinking of doing as I mak
 2. [Complete Node.js Developer in 2022: Zero to Mastery](https://academy.zerotomastery.io/p/learn-node-js)
 3. [SEO Fundamentals (Keywords, Link Building, Content Optimization)](https://academy.zerotomastery.io/p/seo-content-optimization)
 4. [DevOps Bootcamp: Learn Linux & Become a Linux Sysadmin](https://academy.zerotomastery.io/p/devops-bootcamp)
-5. [Rust Programming: The Complete Developer's Guide](https://academy.zerotomastery.io/p/learn-rust)
-   - See also: [WebAssembly: A Practical Guide](https://academy.zerotomastery.io/p/learn-webassembly)
+5. ✅ [Rust Programming: The Complete Developer's Guide](https://academy.zerotomastery.io/p/learn-rust)
+   - See also: ✅ [WebAssembly: A Practical Guide](https://academy.zerotomastery.io/p/learn-webassembly)
 6. [Microservices with Node JS and React](https://www.udemy.com/course/microservices-with-node-js-and-react/)
 7. [freeCodeCamp - Back End Development and APIs Projects](https://www.freecodecamp.org/learn/back-end-development-and-apis/#back-end-development-and-apis-projects)
 

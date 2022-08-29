@@ -2,9 +2,9 @@
 
 You can check my progress logs for this round [here](log.md). You may also check out [some extras](log-extra.md) for when curiosity takes me to different places than my main curriculum.
 
-## 💿 Now Playing: [Rust Programming: The Complete Developer's Guide](https://zerotomastery.io/courses/learn-rust/)
+## 💿 Up Next: Coming soon!
 
-[Course progress repo](https://github.com/Insidiae/ztm-rust)
+Please wait while I pick another topic for my [course playlist](curriculum.md)...
 
 ## 💿 [Course Playlist](curriculum.md)
 
@@ -17,7 +17,8 @@ You can check my progress logs for this round [here](log.md). You may also check
 7. ✅ [#JavaScript30 Challenge](https://javascript30.com/)
 8. ✅ [Beginner JavaScript](https://beginnerjavascript.com/)
 9. ✅ [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](https://zerotomastery.io/courses/learn-react/)
-10. ▶️ [Rust Programming: The Complete Developer's Guide](https://zerotomastery.io/courses/learn-rust/)
+10. ✅ [Rust Programming: The Complete Developer's Guide](https://zerotomastery.io/courses/learn-rust/)
+11. ✅ [WebAssembly: A Practical Guide](https://academy.zerotomastery.io/p/learn-webassembly)
 
 More courses coming soon! See [curriculum.md](curriculum.md) for more details.
 

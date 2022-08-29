@@ -784,3 +784,11 @@ Also, TIL I can change the default site name for my Netlify deploys! Now the Liv
 **Thoughts:** The final project was a comprehensive recap of all the previous topics! We used a wide variety of Rust features to create a fully featured web project that is fully typesafe across its different layers.
 
 **Link to work:** [ClipStash](https://github.com/Insidiae/ztm-rust/tree/main/clipstash)
+
+### Day 95: Monday, August 29th, 2022
+
+**Today's Progress**: Finished the ZTM byte-size WASM course.
+
+**Thoughts:** This one's a small project, but the integration between Rust and TS code was super interesting! Looking forward to build my own Rust projects when I start exploring hardware/IoT stuff 🔥
+
+**Link to work:** [Image Effects feat. WASM](https://github.com/Insidiae/wasm-image-effects)
