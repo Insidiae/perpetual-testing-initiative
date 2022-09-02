@@ -792,3 +792,11 @@ Also, TIL I can change the default site name for my Netlify deploys! Now the Liv
 **Thoughts:** This one's a small project, but the integration between Rust and TS code was super interesting! Looking forward to build my own Rust projects when I start exploring hardware/IoT stuff 🔥
 
 **Link to work:** [Image Effects feat. WASM](https://github.com/Insidiae/wasm-image-effects)
+
+### Day 96: Friday, September 2nd, 2022
+
+**Today's Progress**: Started the final project from The Advanced Web Developer Bootcamp, updating the code to use modern tools.
+
+**Thoughts:** I'm capping off these 100 days by remaking an old course project to use modern tools and frameworks! I started by using NestJS, MongoDB and Prisma for the backend, exploring the NestJS docs to implement basic auth routes and using JWT and Passport Guards to protect specific routes.
+
+**Link to work:** [Warber 2022](https://github.com/Insidiae/warbler-2022)
