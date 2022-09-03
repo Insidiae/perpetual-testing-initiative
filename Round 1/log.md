@@ -799,4 +799,12 @@ Also, TIL I can change the default site name for my Netlify deploys! Now the Liv
 
 **Thoughts:** I'm capping off these 100 days by remaking an old course project to use modern tools and frameworks! I started by using NestJS, MongoDB and Prisma for the backend, exploring the NestJS docs to implement basic auth routes and using JWT and Passport Guards to protect specific routes.
 
-**Link to work:** [Warber 2022](https://github.com/Insidiae/warbler-2022)
+**Link to work:** [Warbler 2022](https://github.com/Insidiae/warbler-2022)
+
+### Day 97: Saturday, September 3rd, 2022
+
+**Today's Progress**: Finished the basic backend routes for the Warbler 2022 project.
+
+**Thoughts:** Finished the basic routes for the project backend. Implementing the auth checks turned out a lot simpler thanks to the NestJS Guards I made yesterday! Interfacing with my local MongoDB instance via services also felt really productive thanks to Prisma!
+
+**Link to work:** [Warbler 2022](https://github.com/Insidiae/warbler-2022)
