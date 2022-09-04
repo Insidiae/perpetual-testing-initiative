@@ -808,3 +808,11 @@ Also, TIL I can change the default site name for my Netlify deploys! Now the Liv
 **Thoughts:** Finished the basic routes for the project backend. Implementing the auth checks turned out a lot simpler thanks to the NestJS Guards I made yesterday! Interfacing with my local MongoDB instance via services also felt really productive thanks to Prisma!
 
 **Link to work:** [Warbler 2022](https://github.com/Insidiae/warbler-2022)
+
+### Day 98: Sunday, September 4th, 2022
+
+**Today's Progress**: Finished the frontend auth routes for the Warbler 2022 project.
+
+**Thoughts:** It's my first time trying out RTK Query! Implementing the auth queries and persisting the JWT token was a bit tricky, but the rest of the authenticated requests now feel quite straightforward once I got my auth routes to work!
+
+**Link to work:** [Warbler 2022](https://github.com/Insidiae/warbler-2022)
