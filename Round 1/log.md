@@ -816,3 +816,11 @@ Also, TIL I can change the default site name for my Netlify deploys! Now the Liv
 **Thoughts:** It's my first time trying out RTK Query! Implementing the auth queries and persisting the JWT token was a bit tricky, but the rest of the authenticated requests now feel quite straightforward once I got my auth routes to work!
 
 **Link to work:** [Warbler 2022](https://github.com/Insidiae/warbler-2022)
+
+### Day 99: Tuesday, September 6th, 2022
+
+**Today's Progress**: Finished the rest of the frontend routes for the Warbler 2022 project.
+
+**Thoughts:** Alright, I've finished the frontend routes for the Warbler project as featured in the course! RTK Query definitely made the fetching/mutation logic a lot simpler than the original course project. I'll be adding some final polish to the project and deploying it tomorrow, but for now I'll take the course completion certificate!
+
+**Link to work:** [Warbler 2022](https://github.com/Insidiae/warbler-2022)

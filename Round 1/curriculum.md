@@ -163,7 +163,7 @@ This is a list of some of my project-based online course backlogs. I'll be using
 - [Node.js, Express, MongoDB & More: The Complete Bootcamp 2022](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) - Natours Project
 - ✅ [Beginner JavaScript](https://beginnerjavascript.com/) - Practice Exercises/Projects
 - [ZTM Academy Workshop: Responsive Web Design](https://zerotomastery.io/workshops-and-more/)
-- [The Advanced Web Developer Bootcamp](https://www.udemy.com/course/the-advanced-web-developer-bootcamp) - Warbler Project
+- ✅ [The Advanced Web Developer Bootcamp](https://www.udemy.com/course/the-advanced-web-developer-bootcamp) - Warbler Project
 - [React and Typescript: Build a Portfolio Project](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/)
 - [End to End React with Prisma 2](https://www.udemy.com/course/end-to-end-react-with-prisma-2)
 - [JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://academy.zerotomastery.io/p/javascript-projects)
