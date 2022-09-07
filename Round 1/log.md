@@ -824,3 +824,11 @@ Also, TIL I can change the default site name for my Netlify deploys! Now the Liv
 **Thoughts:** Alright, I've finished the frontend routes for the Warbler project as featured in the course! RTK Query definitely made the fetching/mutation logic a lot simpler than the original course project. I'll be adding some final polish to the project and deploying it tomorrow, but for now I'll take the course completion certificate!
 
 **Link to work:** [Warbler 2022](https://github.com/Insidiae/warbler-2022)
+
+### Day 100: Wednesday, September 7th, 2022
+
+**Today's Progress**: Deployed the Warbler 2022 project.
+
+**Thoughts:** 100 Day goal achieved! Today I simply added some extra polish to the Warbler project before deploying a live demo. I also reorganized my featured skills/projects in my portfolio and caught up my extra progress in the other log.
+
+**Link to work:** [Warbler 2022](https://github.com/Insidiae/warbler-2022), [Live Demo](https://warbler-2022-3b27b7.netlify.app/)
