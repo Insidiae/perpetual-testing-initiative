@@ -481,3 +481,11 @@ That wraps up the first week of my mini learning club challenge! This first week
 **Thoughts:** Today we learn how to split our code by using ES Modules to `export` and `import` variables and/or functiions. We put this into practice by refactoring the Dad Jokes and Currency Converter projects into separate modules.
 
 **Link to work:** [Beginner JS Learning Club: Day 28](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-28)
+
+### Extra Day 61: Monday, July 18th, 2022
+
+**Today's Progress**: Day 29 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today we learn some miscellaneous but still very important topics such as bundling code with Parcel, using external modules via NPM, and sanitizing user input to secure our projects.
+
+**Link to work:** [Beginner JS Learning Club: Day 29](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-29)
