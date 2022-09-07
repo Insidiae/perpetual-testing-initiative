@@ -369,3 +369,11 @@ That wraps up the first week of my mini learning club challenge! This first week
 **Thoughts:** We learn another bunch of commonly used array methods today, dealing with different ways to iterate through the array and process each item accordingly.
 
 **Link to work:** [Beginner JS Learning Club: Day 14](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-14)
+
+### Extra Day 47: Monday, July 4th, 2022
+
+**Today's Progress**: Day 15 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Finally, we learned about the array `reduce()` method as well as other miscellaneous ways to manually loop through an array (or other iterable data structures)
+
+**Link to work:** [Beginner JS Learning Club: Day 15](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-15)
