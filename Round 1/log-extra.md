@@ -473,3 +473,11 @@ That wraps up the first week of my mini learning club challenge! This first week
 **Thoughts:** We practice some more with fetching data in today's projects. We used a public API to fetch random dad jokes, and another public API to get exchange rates for converting different currency values.
 
 **Link to work:** [Beginner JS Learning Club: Day 27](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-27)
+
+### Extra Day 60: Sunday, July 17th, 2022
+
+**Today's Progress**: Day 28 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today we learn how to split our code by using ES Modules to `export` and `import` variables and/or functiions. We put this into practice by refactoring the Dad Jokes and Currency Converter projects into separate modules.
+
+**Link to work:** [Beginner JS Learning Club: Day 28](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-28)
