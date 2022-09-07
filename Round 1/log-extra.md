@@ -361,3 +361,11 @@ That wraps up the first week of my mini learning club challenge! This first week
 **Thoughts:** Today's an Array Cardio day! We learn and practice the various commonly used array methods with a bunch of exercises. I highly recommend trying these out for yourself!
 
 **Link to work:** [Beginner JS Learning Club: Day 13](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-13)
+
+### Extra Day 46: Sunday, July 3rd, 2022
+
+**Today's Progress**: Day 14 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We learn another bunch of commonly used array methods today, dealing with different ways to iterate through the array and process each item accordingly.
+
+**Link to work:** [Beginner JS Learning Club: Day 14](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-14)
