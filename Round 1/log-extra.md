@@ -425,3 +425,11 @@ That wraps up the first week of my mini learning club challenge! This first week
 **Thoughts:** Today we learn the basics of the `prototype` pattern in JS, and refactored the Gallery project to use these new prototypes. As a bonus, I also made another refactor for the Gallery project using the ES6 `class` syntax!
 
 **Link to work:** [Beginner JS Learning Club: Day 21](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-21)
+
+### Extra Day 54: Monday, July 11th, 2022
+
+**Today's Progress**: Day 22 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today we refactored the Slider project to use `prototype` (and another refactor using `class`), and learned about `bind`, `call`, and `apply` to ensure the value of `this` points to what we actually want.
+
+**Link to work:** [Beginner JS Learning Club: Day 22](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-22)
