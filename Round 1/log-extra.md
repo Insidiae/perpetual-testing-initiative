@@ -457,3 +457,11 @@ That wraps up the first week of my mini learning club challenge! This first week
 **Thoughts:** Today we practice the `Promise` and `async`/`await` topics with a couple of exercises. We built multi-step prompts handling results via `Promise`s, and we used `async`/`await` to create a fun animated typing text effect.
 
 **Link to work:** [Beginner JS Learning Club: Day 25](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-25)
+
+### Extra Day 58: Friday, July 15th, 2022
+
+**Today's Progress**: Day 26 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We learn the most common practical application for using `async`/`await`: Fetching data from the internet via the `fetch()` API. We fetch some data from external sources and display them into the page once the `fetch()` resolves.
+
+**Link to work:** [Beginner JS Learning Club: Day 26](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-26)
