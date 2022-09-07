@@ -337,3 +337,11 @@ That wraps up the first week of my mini learning club challenge! This first week
 **Thoughts:** We now go back to the regular lectures! Today we learn about how to add logic and flow control within our JS code, using `if`/`else` blocks to conditionally run parts of our code.
 
 **Link to work:** [Beginner JS Learning Club: Day 10](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-10)
+
+### Extra Day 43: Wednesday, June 30th, 2022
+
+**Today's Progress**: Day 11 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We learn about more control flow topics such as `switch`/`case` blocks and `setTimeout`/`setInterval()`. We also get an intro on Objects in JS.
+
+**Link to work:** [Beginner JS Learning Club: Day 11](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-11)
