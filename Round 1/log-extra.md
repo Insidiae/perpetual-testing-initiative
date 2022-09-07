@@ -353,3 +353,11 @@ That wraps up the first week of my mini learning club challenge! This first week
 **Thoughts:** We take a deeper dive into JS Objects today, specifically about value vs reference equality and how to safely copy the contents of an object into another. We also explore other data structures such as Maps and Arrays.
 
 **Link to work:** [Beginner JS Learning Club: Day 12](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-12)
+
+### Extra Day 45: Saturday, July 2nd, 2022
+
+**Today's Progress**: Day 13 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today's an Array Cardio day! We learn and practice the various commonly used array methods with a bunch of exercises. I highly recommend trying these out for yourself!
+
+**Link to work:** [Beginner JS Learning Club: Day 13](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-13)
