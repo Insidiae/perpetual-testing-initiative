@@ -489,3 +489,13 @@ That wraps up the first week of my mini learning club challenge! This first week
 **Thoughts:** Today we learn some miscellaneous but still very important topics such as bundling code with Parcel, using external modules via NPM, and sanitizing user input to secure our projects.
 
 **Link to work:** [Beginner JS Learning Club: Day 29](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-29)
+
+### Extra Day 62: Tuesday, July 19th, 2022
+
+**Today's Progress**: Day 30 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We finished off the 30-day learning club challenge with two final projects! We used the experimental `SpeechRecognition` browser API for the first project, and used the `mediaDevices` and `AudioContext` APIs to visualize audio data in the second project.
+
+This was a funn collab project with the Tech Career Shifter PH community! This learning club ended up being a relatively small group at the end, but I had lots of fun guiding the other members in the Discord group and answering questions about the daily projects along the way!
+
+**Link to work:** [Beginner JS Learning Club: Day 30](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-30)
