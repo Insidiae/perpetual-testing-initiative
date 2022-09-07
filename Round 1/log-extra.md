@@ -433,3 +433,11 @@ That wraps up the first week of my mini learning club challenge! This first week
 **Thoughts:** Today we refactored the Slider project to use `prototype` (and another refactor using `class`), and learned about `bind`, `call`, and `apply` to ensure the value of `this` points to what we actually want.
 
 **Link to work:** [Beginner JS Learning Club: Day 22](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-22)
+
+### Extra Day 55: Tuesday, July 12th, 2022
+
+**Today's Progress**: Day 23 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today we start to dive into `async` programming in JS! We kick things of by looking at downsides of the callback pattern (i.e. "callback hell"), and then we explore modern JS syntax that aims to improve this by using `Promise`s to "wait" for time-consuming events to resolve before dealing with the results.
+
+**Link to work:** [Beginner JS Learning Club: Day 23](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-23)
