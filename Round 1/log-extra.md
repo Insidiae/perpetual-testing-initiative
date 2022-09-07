@@ -337,3 +337,165 @@ That wraps up the first week of my mini learning club challenge! This first week
 **Thoughts:** We now go back to the regular lectures! Today we learn about how to add logic and flow control within our JS code, using `if`/`else` blocks to conditionally run parts of our code.
 
 **Link to work:** [Beginner JS Learning Club: Day 10](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-10)
+
+### Extra Day 43: Thursday, June 30th, 2022
+
+**Today's Progress**: Day 11 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We learn about more control flow topics such as `switch`/`case` blocks and `setTimeout`/`setInterval()`. We also get an intro on Objects in JS.
+
+**Link to work:** [Beginner JS Learning Club: Day 11](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-11)
+
+### Extra Day 44: Friday, July 1st, 2022
+
+**Today's Progress**: Day 12 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We take a deeper dive into JS Objects today, specifically about value vs reference equality and how to safely copy the contents of an object into another. We also explore other data structures such as Maps and Arrays.
+
+**Link to work:** [Beginner JS Learning Club: Day 12](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-12)
+
+### Extra Day 45: Saturday, July 2nd, 2022
+
+**Today's Progress**: Day 13 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today's an Array Cardio day! We learn and practice the various commonly used array methods with a bunch of exercises. I highly recommend trying these out for yourself!
+
+**Link to work:** [Beginner JS Learning Club: Day 13](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-13)
+
+### Extra Day 46: Sunday, July 3rd, 2022
+
+**Today's Progress**: Day 14 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We learn another bunch of commonly used array methods today, dealing with different ways to iterate through the array and process each item accordingly.
+
+**Link to work:** [Beginner JS Learning Club: Day 14](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-14)
+
+### Extra Day 47: Monday, July 4th, 2022
+
+**Today's Progress**: Day 15 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Finally, we learned about the array `reduce()` method as well as other miscellaneous ways to manually loop through an array (or other iterable data structures)
+
+**Link to work:** [Beginner JS Learning Club: Day 15](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-15)
+
+### Extra Day 48: Tuesday, July 5th, 2022
+
+**Today's Progress**: Day 16 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We've got a whole bunch of practice exercises lined up for this week! In today's project, we practice more with the HTML5 Canvas to display the user's webcam footage. We also check out the experimental `FaceDetector` API to, well, detect the user's face and then do some fun stuff like censoring the user's face by shrinking and then rescaling back to pixelate their face.
+
+**Link to work:** [Beginner JS Learning Club: Day 16](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-16)
+
+### Extra Day 49: Wednesday, July 6th, 2022
+
+**Today's Progress**: Day 17 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today's project was a fun exercise that uses the array methods we've learned to transform some given text into _sArCaStIc tExT_. We also added a few more fun options like transforming each letter into weird Unicode characters and randomly adding pauses into each sentence. As a fun bonus for today, I also added an option to add r-r-r-random s-s-s-stutters to the text!
+
+**Link to work:** [Beginner JS Learning Club: Day 17](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-17)
+
+### Extra Day 50: Thursday, July 7th, 2022
+
+**Today's Progress**: Day 18 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today's project looks fairly simple, but it introduces us to more advanced JS event concepts such as custom events, event delegation, and using `localStorage` to persist data across page reloads.
+
+**Link to work:** [Beginner JS Learning Club: Day 18](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-18)
+
+### Extra Day 51: Friday, July 8th, 2022
+
+**Today's Progress**: Day 19 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today's project expands upon the previous `Click-Outside Modal` project by having us build an image gallery with the same dismissable modal feature. We also set up the gallery project and took advantage of Closures so that we can use multiple galleries in the same page by simply calling the same `Gallery` function for each gallery component.
+
+**Link to work:** [Beginner JS Learning Club: Day 19](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-19)
+
+### Extra Day 52: Saturday, July 9th, 2022
+
+**Today's Progress**: Day 20 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We get more practice with the closure pattern we used yesterday to create a Slider component that can be reused multiple times in a page. We also used a few modern JS features such as destructuring arrays to quickly switch around the CSS classes for the previous/current/next slides and control flow operators (`||` or `??`) to wrap around the first and last slides.
+
+**Link to work:** [Beginner JS Learning Club: Day 20](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-20)
+
+### Extra Day 53: Sunday, July 10th, 2022
+
+**Today's Progress**: Day 21 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today we learn the basics of the `prototype` pattern in JS, and refactored the Gallery project to use these new prototypes. As a bonus, I also made another refactor for the Gallery project using the ES6 `class` syntax!
+
+**Link to work:** [Beginner JS Learning Club: Day 21](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-21)
+
+### Extra Day 54: Monday, July 11th, 2022
+
+**Today's Progress**: Day 22 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today we refactored the Slider project to use `prototype` (and another refactor using `class`), and learned about `bind`, `call`, and `apply` to ensure the value of `this` points to what we actually want.
+
+**Link to work:** [Beginner JS Learning Club: Day 22](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-22)
+
+### Extra Day 55: Tuesday, July 12th, 2022
+
+**Today's Progress**: Day 23 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today we start to dive into `async` programming in JS! We kick things of by looking at downsides of the callback pattern (i.e. "callback hell"), and then we explore modern JS syntax that aims to improve this by using `Promise`s to "wait" for time-consuming events to resolve before dealing with the results.
+
+**Link to work:** [Beginner JS Learning Club: Day 23](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-23)
+
+### Extra Day 56: Wednesday, July 13th, 2022
+
+**Today's Progress**: Day 24 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We improve upon the `Promise` pattern by using `async`/`await` to deal with asynchronous program flows. [Wes Bos' talk about `async`/`await`](https://www.youtube.com/watch?v=DwQJ_NPQWWo) explains this topic far better than I could, so I'll just link to that instead!
+
+**Link to work:** [Beginner JS Learning Club: Day 24](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-24)
+
+### Extra Day 57: Thursday, July 14th, 2022
+
+**Today's Progress**: Day 25 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today we practice the `Promise` and `async`/`await` topics with a couple of exercises. We built multi-step prompts handling results via `Promise`s, and we used `async`/`await` to create a fun animated typing text effect.
+
+**Link to work:** [Beginner JS Learning Club: Day 25](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-25)
+
+### Extra Day 58: Friday, July 15th, 2022
+
+**Today's Progress**: Day 26 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We learn the most common practical application for using `async`/`await`: Fetching data from the internet via the `fetch()` API. We fetch some data from external sources and display them into the page once the `fetch()` resolves.
+
+**Link to work:** [Beginner JS Learning Club: Day 26](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-26)
+
+### Extra Day 59: Saturday, July 16th, 2022
+
+**Today's Progress**: Day 27 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We practice some more with fetching data in today's projects. We used a public API to fetch random dad jokes, and another public API to get exchange rates for converting different currency values.
+
+**Link to work:** [Beginner JS Learning Club: Day 27](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-27)
+
+### Extra Day 60: Sunday, July 17th, 2022
+
+**Today's Progress**: Day 28 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today we learn how to split our code by using ES Modules to `export` and `import` variables and/or functiions. We put this into practice by refactoring the Dad Jokes and Currency Converter projects into separate modules.
+
+**Link to work:** [Beginner JS Learning Club: Day 28](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-28)
+
+### Extra Day 61: Monday, July 18th, 2022
+
+**Today's Progress**: Day 29 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today we learn some miscellaneous but still very important topics such as bundling code with Parcel, using external modules via NPM, and sanitizing user input to secure our projects.
+
+**Link to work:** [Beginner JS Learning Club: Day 29](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-29)
+
+### Extra Day 62: Tuesday, July 19th, 2022
+
+**Today's Progress**: Day 30 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We finished off the 30-day learning club challenge with two final projects! We used the experimental `SpeechRecognition` browser API for the first project, and used the `mediaDevices` and `AudioContext` APIs to visualize audio data in the second project.
+
+This was a funn collab project with the Tech Career Shifter PH community! This learning club ended up being a relatively small group at the end, but I had lots of fun guiding the other members in the Discord group and answering questions about the daily projects along the way!
+
+**Link to work:** [Beginner JS Learning Club: Day 30](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-30)
