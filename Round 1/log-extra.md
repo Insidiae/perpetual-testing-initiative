@@ -417,3 +417,11 @@ That wraps up the first week of my mini learning club challenge! This first week
 **Thoughts:** We get more practice with the closure pattern we used yesterday to create a Slider component that can be reused multiple times in a page. We also used a few modern JS features such as destructuring arrays to quickly switch around the CSS classes for the previous/current/next slides and control flow operators (`||` or `??`) to wrap around the first and last slides.
 
 **Link to work:** [Beginner JS Learning Club: Day 20](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-20)
+
+### Extra Day 53: Sunday, July 10th, 2022
+
+**Today's Progress**: Day 21 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today we learn the basics of the `prototype` pattern in JS, and refactored the Gallery project to use these new prototypes. As a bonus, I also made another refactor for the Gallery project using the ES6 `class` syntax!
+
+**Link to work:** [Beginner JS Learning Club: Day 21](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-21)
