@@ -385,3 +385,11 @@ That wraps up the first week of my mini learning club challenge! This first week
 **Thoughts:** We've got a whole bunch of practice exercises lined up for this week! In today's project, we practice more with the HTML5 Canvas to display the user's webcam footage. We also check out the experimental `FaceDetector` API to, well, detect the user's face and then do some fun stuff like censoring the user's face by shrinking and then rescaling back to pixelate their face.
 
 **Link to work:** [Beginner JS Learning Club: Day 16](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-16)
+
+### Extra Day 49: Wednesday, July 6th, 2022
+
+**Today's Progress**: Day 17 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today's project was a fun exercise that uses the array methods we've learned to transform some given text into _sArCaStIc tExT_. We also added a few more fun options like transforming each letter into weird Unicode characters and randomly adding pauses into each sentence. As a fun bonus for today, I also added an option to add r-r-r-random s-s-s-stutters to the text!
+
+**Link to work:** [Beginner JS Learning Club: Day 17](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-17)
