@@ -441,3 +441,11 @@ That wraps up the first week of my mini learning club challenge! This first week
 **Thoughts:** Today we start to dive into `async` programming in JS! We kick things of by looking at downsides of the callback pattern (i.e. "callback hell"), and then we explore modern JS syntax that aims to improve this by using `Promise`s to "wait" for time-consuming events to resolve before dealing with the results.
 
 **Link to work:** [Beginner JS Learning Club: Day 23](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-23)
+
+### Extra Day 56: Wednesday, July 13th, 2022
+
+**Today's Progress**: Day 24 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We improve upon the `Promise` pattern by using `async`/`await` to deal with asynchronous program flows. [Wes Bos' talk about `async`/`await`](https://www.youtube.com/watch?v=DwQJ_NPQWWo) explains this topic far better than I could, so I'll just link to that instead!
+
+**Link to work:** [Beginner JS Learning Club: Day 24](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-24)
