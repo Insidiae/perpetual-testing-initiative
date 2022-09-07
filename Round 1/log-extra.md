@@ -338,10 +338,18 @@ That wraps up the first week of my mini learning club challenge! This first week
 
 **Link to work:** [Beginner JS Learning Club: Day 10](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-10)
 
-### Extra Day 43: Wednesday, June 30th, 2022
+### Extra Day 43: Thursday, June 30th, 2022
 
 **Today's Progress**: Day 11 of my learning club for Wes Bos' Beginner JavaScript course.
 
 **Thoughts:** We learn about more control flow topics such as `switch`/`case` blocks and `setTimeout`/`setInterval()`. We also get an intro on Objects in JS.
 
 **Link to work:** [Beginner JS Learning Club: Day 11](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-11)
+
+### Extra Day 44: Friday, July 1st, 2022
+
+**Today's Progress**: Day 12 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We take a deeper dive into JS Objects today, specifically about value vs reference equality and how to safely copy the contents of an object into another. We also explore other data structures such as Maps and Arrays.
+
+**Link to work:** [Beginner JS Learning Club: Day 12](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-12)
