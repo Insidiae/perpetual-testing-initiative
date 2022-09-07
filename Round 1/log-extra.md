@@ -409,3 +409,11 @@ That wraps up the first week of my mini learning club challenge! This first week
 **Thoughts:** Today's project expands upon the previous `Click-Outside Modal` project by having us build an image gallery with the same dismissable modal feature. We also set up the gallery project and took advantage of Closures so that we can use multiple galleries in the same page by simply calling the same `Gallery` function for each gallery component.
 
 **Link to work:** [Beginner JS Learning Club: Day 19](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-19)
+
+### Extra Day 52: Saturday, July 9th, 2022
+
+**Today's Progress**: Day 20 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We get more practice with the closure pattern we used yesterday to create a Slider component that can be reused multiple times in a page. We also used a few modern JS features such as destructuring arrays to quickly switch around the CSS classes for the previous/current/next slides and control flow operators (`||` or `??`) to wrap around the first and last slides.
+
+**Link to work:** [Beginner JS Learning Club: Day 20](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-20)
