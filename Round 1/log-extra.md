@@ -393,3 +393,11 @@ That wraps up the first week of my mini learning club challenge! This first week
 **Thoughts:** Today's project was a fun exercise that uses the array methods we've learned to transform some given text into _sArCaStIc tExT_. We also added a few more fun options like transforming each letter into weird Unicode characters and randomly adding pauses into each sentence. As a fun bonus for today, I also added an option to add r-r-r-random s-s-s-stutters to the text!
 
 **Link to work:** [Beginner JS Learning Club: Day 17](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-17)
+
+### Extra Day 50: Thursday, July 7th, 2022
+
+**Today's Progress**: Day 18 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** Today's project looks fairly simple, but it introduces us to more advanced JS event concepts such as custom events, event delegation, and using `localStorage` to persist data across page reloads.
+
+**Link to work:** [Beginner JS Learning Club: Day 18](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-18)
