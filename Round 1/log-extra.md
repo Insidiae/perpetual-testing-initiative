@@ -465,3 +465,11 @@ That wraps up the first week of my mini learning club challenge! This first week
 **Thoughts:** We learn the most common practical application for using `async`/`await`: Fetching data from the internet via the `fetch()` API. We fetch some data from external sources and display them into the page once the `fetch()` resolves.
 
 **Link to work:** [Beginner JS Learning Club: Day 26](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-26)
+
+### Extra Day 59: Saturday, July 16th, 2022
+
+**Today's Progress**: Day 27 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We practice some more with fetching data in today's projects. We used a public API to fetch random dad jokes, and another public API to get exchange rates for converting different currency values.
+
+**Link to work:** [Beginner JS Learning Club: Day 27](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-27)
