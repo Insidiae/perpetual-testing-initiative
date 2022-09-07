@@ -377,3 +377,11 @@ That wraps up the first week of my mini learning club challenge! This first week
 **Thoughts:** Finally, we learned about the array `reduce()` method as well as other miscellaneous ways to manually loop through an array (or other iterable data structures)
 
 **Link to work:** [Beginner JS Learning Club: Day 15](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-15)
+
+### Extra Day 48: Tuesday, July 5th, 2022
+
+**Today's Progress**: Day 16 of my learning club for Wes Bos' Beginner JavaScript course.
+
+**Thoughts:** We've got a whole bunch of practice exercises lined up for this week! In today's project, we practice more with the HTML5 Canvas to display the user's webcam footage. We also check out the experimental `FaceDetector` API to, well, detect the user's face and then do some fun stuff like censoring the user's face by shrinking and then rescaling back to pixelate their face.
+
+**Link to work:** [Beginner JS Learning Club: Day 16](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-16)
