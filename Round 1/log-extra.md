@@ -499,3 +499,11 @@ That wraps up the first week of my mini learning club challenge! This first week
 This was a funn collab project with the Tech Career Shifter PH community! This learning club ended up being a relatively small group at the end, but I had lots of fun guiding the other members in the Discord group and answering questions about the daily projects along the way!
 
 **Link to work:** [Beginner JS Learning Club: Day 30](https://github.com/Insidiae/beginner-javascript-learning-club/tree/main/day-30)
+
+### Extra Day 63: Friday, September 16th, 2022
+
+**Today's Progress**: Experimented using Astro to rewrite my portfolio.
+
+**Thoughts:** I've been hearing great things about the Astro framework recently, so I made a simple starter project using Astro to streamline the repetitive parts of my HTML-only portfolio page. Once I set up the basic components, everything else was a breeze!
+
+**Link to work:** [Portfolio ver. Astro](https://github.com/Insidiae/portfolio-astro)
