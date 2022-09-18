@@ -507,3 +507,11 @@ This was a funn collab project with the Tech Career Shifter PH community! This l
 **Thoughts:** I've been hearing great things about the Astro framework recently, so I made a simple starter project using Astro to streamline the repetitive parts of my HTML-only portfolio page. Once I set up the basic components, everything else was a breeze!
 
 **Link to work:** [Portfolio ver. Astro](https://github.com/Insidiae/portfolio-astro)
+
+### Extra Day 64: Sunday, September 18th, 2022
+
+**Today's Progress**: Finished my Astro portfolio rewrite.
+
+**Thoughts:** I've already done the heavy lifting when I built the first page, so adding in the projects page was simply a matter of creating a few JSON objects for the different project categories, and I can use the same `<ProjectList />` component to load up my objects. Now I only have to update these JSON objects whenever I want to change my featured skills/projects, instead of copy/pasting entire sections of HTML markup. Great stuff!
+
+**Link to work:** [Portfolio ver. Astro](https://github.com/Insidiae/portfolio-astro)
